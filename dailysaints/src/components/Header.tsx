@@ -9,8 +9,9 @@ import type { LiturgicalColour } from "../data/liturgicalCalendar";
 import { green, grey, pink, purple, red } from "@mui/material/colors";
 import { darken } from "@mui/material/styles";
 import Tooltip from "@mui/material/Tooltip";
+import DailySaintsLogo from "../../DailySaintsLogo.png";
 
-// #region interace
+// #region interface
 interface HeaderProps {
   date: string;
   colour: LiturgicalColour;
@@ -44,9 +45,38 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
       }}
     >
       <Toolbar>
-        <Typography variant="h6" sx={{ flexGrow: 1, fontWeight: 600 }}>
-          DailySaints
-        </Typography>
+        <Box
+          sx={{
+            flexGrow: 1,
+            display: "flex",
+            alignItems: "center",
+            fontWeight: 600,
+            fontSize: "1.25rem",
+          }}
+        >
+          <Box
+            component="img"
+            src={DailySaintsLogo}
+            alt="D"
+            sx={{
+              height: 32,
+              width: 32,
+              mr: 0.1,
+              mb: 1,
+              objectFit: "contain",
+            }}
+          />
+
+          <Typography
+            variant="h6"
+            component="span"
+            sx={{
+              fontWeight: 600,
+            }}
+          >
+            ailySaints
+          </Typography>
+        </Box>
 
         <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
           <Typography variant="body2">{date}</Typography>
