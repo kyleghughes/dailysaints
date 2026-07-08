@@ -7,11 +7,12 @@ import {
   CircularProgress,
 } from "@mui/material";
 import Header from "./components/Header";
-import SaintCard, { type Saint } from "./components/SaintCard";
+
 import { formatDate, getTodayKey } from "./utils/date";
-import { saints } from "./data/saints";
+import { saints, type Saint } from "./data/saints";
 import { getLiturgicalColour } from "./data/liturgicalCalendar";
 import { getTheme } from "./components/theme";
+import SaintCard from "./components/SaintCard";
 const { month, day } = getTodayKey();
 const colour = getLiturgicalColour(month, day);
 
