@@ -34,6 +34,8 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
   // #region variables
   const baseColor = colourMap[colour];
   const darkColor = darken(baseColor, 0.5);
+  const isWhiteColour = colour === "white";
+  const textColor = isWhiteColour ? "#000" : "inherit";
   // #endregion
 
   return (
@@ -72,6 +74,7 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
             component="span"
             sx={{
               fontWeight: 600,
+              color: textColor,
             }}
           >
             ailySaints
@@ -79,7 +82,9 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
         </Box>
 
         <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
-          <Typography variant="body2">{date}</Typography>
+          <Typography variant="body2" sx={{ color: textColor }}>
+            {date}
+          </Typography>
 
           <Tooltip
             arrow
@@ -89,7 +94,7 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
                 : "Let there be light!"
             }
           >
-            <IconButton onClick={onToggleMode} color="inherit">
+            <IconButton onClick={onToggleMode} sx={{ color: textColor }}>
               {mode === "light" ? <DarkModeIcon /> : <LightModeIcon />}
             </IconButton>
           </Tooltip>
