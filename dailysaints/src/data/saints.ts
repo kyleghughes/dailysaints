@@ -3433,7 +3433,7 @@ export const saints: Saint[] = [
     },
   },
   {
-    month: 8,
+    month: 7,
     day: 31,
     name: "St. Nicodemus",
     image:

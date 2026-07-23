@@ -33,8 +33,8 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
 
   // #region variables
   const baseColor = colourMap[colour];
-  const darkColor = darken(baseColor, 0.5);
   const isWhiteColour = colour === "white";
+  const darkColor = darken(baseColor, isWhiteColour ? 0.1 : 0.5);
   const textColor = isWhiteColour ? "#000" : "inherit";
   // #endregion
 

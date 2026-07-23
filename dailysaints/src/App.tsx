@@ -6,13 +6,16 @@ import {
   Box,
   CircularProgress,
 } from "@mui/material";
+
 import Header from "./components/Header";
+import SaintCard from "./components/SaintCard";
+import PrayForUsCard from "./components/PrayForUsCard";
 
 import { formatDate, getTodayKey } from "./utils/date";
 import { saints, type Saint } from "./data/saints";
 import { getLiturgicalColour } from "./data/liturgicalCalendar";
 import { getTheme } from "./components/theme";
-import SaintCard from "./components/SaintCard";
+
 const { month, day } = getTodayKey();
 const colour = getLiturgicalColour(month, day);
 
@@ -65,6 +68,7 @@ const App = () => {
               {todaySaints.map((saint, index) => (
                 <SaintCard key={`${saint.name}-${index}`} saint={saint} />
               ))}
+              <PrayForUsCard saints={todaySaints} />
             </Box>
           ) : (
             <Box sx={{ display: "flex", justifyContent: "center", mt: 8 }}>

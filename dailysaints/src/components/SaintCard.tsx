@@ -70,6 +70,7 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
           </Typography>
 
           <Button
+            color={"info"}
             variant="outlined"
             onClick={() => setInfoOpen(true)}
             sx={{ mb: 2 }}
