@@ -20,7 +20,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 1,
-    name: "Saints Julius and Aaron",
+    name: "Sts. Julius and Aaron",
     image:
       "https://i.ytimg.com/vi/yXkNFy2O194/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACygWKAgwIABABGHIgTigyMA8=&rs=AOn4CLD_iVYdtAnTNEyyofiJ6RC7S3YwNg",
     description:
@@ -41,13 +41,13 @@ export const saints: Saint[] = [
         "The witness of Julius and Aaron helped preserve the memory of the early Christian Church in Britain through centuries of political and religious change. Churches and traditions associated with their names, particularly in Caerleon, continue to commemorate their sacrifice and remind Christians of the cost of faithful discipleship.",
 
       canonization:
-        "As martyrs of the early Church, Julius and Aaron were recognized as saints through the ancient tradition of Christian veneration before the establishment of the formal canonization process.",
+        "As martyrs of the early Church, Julius and Aaron were recognized as Sts. through the ancient tradition of Christian veneration before the establishment of the formal canonization process.",
     },
   },
   {
     month: 7,
     day: 2,
-    name: "Saints Processus and Martynian",
+    name: "Sts. Processus and Martynian",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSIu3mAvSX6uHhuICjw8ePMSghJ233pvFvtE8VIkivxUhGB0m5sZuT9no&s=10",
     description:
@@ -64,10 +64,10 @@ export const saints: Saint[] = [
         "Processus and Martynian were martyred in Rome around 67 AD during the persecution of Christians under Emperor Nero. Ancient accounts state that they were tortured and eventually beheaded because of their refusal to renounce their faith. They were buried in the Catacombs of Damasus on the Via Aurelia, and their relics were later transferred to various churches, including St. Peter's Basilica.",
 
       legacy:
-        "Saints Processus and Martynian are remembered as examples of the transforming power of Christian witness. Their conversion from Roman soldiers to courageous martyrs reflects the ability of faith to change lives. Their story has been preserved through early Roman Christian traditions and devotion to the martyrs of the first centuries.",
+        "Sts. Processus and Martynian are remembered as examples of the transforming power of Christian witness. Their conversion from Roman soldiers to courageous martyrs reflects the ability of faith to change lives. Their story has been preserved through early Roman Christian traditions and devotion to the martyrs of the first centuries.",
 
       canonization:
-        "As early Christian martyrs, Processus and Martynian were recognized as saints through the ancient tradition of the Church, before formal canonization procedures were established.",
+        "As early Christian martyrs, Processus and Martynian were recognized as Sts. through the ancient tradition of the Church, before formal canonization procedures were established.",
     },
   },
   {
@@ -143,7 +143,7 @@ export const saints: Saint[] = [
         "Elisabeth died on July 4, 1336 AD, while traveling to mediate a conflict between members of the Portuguese royal family. She was buried at the Monastery of Santa Clara-a-Nova in Coimbra, Portugal. Reports of miracles and devotion to her holiness spread soon after her death.",
 
       legacy:
-        "St. Elisabeth of Portugal is remembered as a model Christian ruler who used her position to serve others rather than seek personal power. Her dedication to peace, forgiveness, and care for the poor made her one of Portugal's most beloved saints. She remains an example of how leadership and holiness can be united through compassion and selflessness.",
+        "St. Elisabeth of Portugal is remembered as a model Christian ruler who used her position to serve others rather than seek personal power. Her dedication to peace, forgiveness, and care for the poor made her one of Portugal's most beloved Sts.. She remains an example of how leadership and holiness can be united through compassion and selflessness.",
 
       canonization:
         "Elisabeth of Portugal was canonized by Pope Urban VIII in 1625 AD after centuries of devotion and recognition of her charitable works and miracles.",
@@ -267,7 +267,7 @@ export const saints: Saint[] = [
     patronOf: "Travelers, pilgrims, missionaries, and the Diocese of Eichstätt",
     longDescription: {
       earlyLife:
-        "Willibald was born around 700 AD in Wessex, England, into a noble and devout Anglo-Saxon family. His relatives included several important saints, including his father St. Richard the Pilgrim, his mother St. Wuna, and his siblings St. Winebald and St. Walburga. As a young man, he entered religious life and later undertook a pilgrimage to the Holy Land and Rome, experiences that shaped his missionary vocation.",
+        "Willibald was born around 700 AD in Wessex, England, into a noble and devout Anglo-Saxon family. His relatives included several important Sts., including his father St. Richard the Pilgrim, his mother St. Wuna, and his siblings St. Winebald and St. Walburga. As a young man, he entered religious life and later undertook a pilgrimage to the Holy Land and Rome, experiences that shaped his missionary vocation.",
 
       spiritualLife:
         "Willibald spent many years traveling as a pilgrim before dedicating himself to missionary work. After studying and serving in Rome and the Holy Land, he joined his relative St. Boniface in the evangelization of German lands. In 741 AD, he was ordained a bishop and became the first bishop of Eichstätt in Bavaria. He established monasteries, trained clergy, promoted Christian education, and worked closely with other missionaries to strengthen the Church in central Europe.",
@@ -312,7 +312,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 8,
-    name: "Saints Aquila and Priscilla",
+    name: "Sts. Aquila and Priscilla",
     image:
       "https://images.squarespace-cdn.com/content/v1/59b6cca9f14aa14c97ca29ab/1594938240026-8J6VGIJ3JDET7DYUTAXZ/Peter+and+Fevronia.jpeg",
     description:
@@ -327,9 +327,9 @@ export const saints: Saint[] = [
       death:
         "The details of their deaths are not recorded in Scripture. According to early Christian tradition, they continued their missionary work and eventually died as martyrs for the faith, though the circumstances remain uncertain.",
       legacy:
-        "Saints Aquila and Priscilla are remembered as one of the greatest married couples in Christian history. Their example demonstrates that laypeople and married couples have an essential role in the life and mission of the Church. Their hospitality, faithful witness, and willingness to mentor others have inspired generations of Christians dedicated to evangelization and service.",
+        "Sts. Aquila and Priscilla are remembered as one of the greatest married couples in Christian history. Their example demonstrates that laypeople and married couples have an essential role in the life and mission of the Church. Their hospitality, faithful witness, and willingness to mentor others have inspired generations of Christians dedicated to evangelization and service.",
       canonization:
-        "As saints of the apostolic age, Aquila and Priscilla were recognized as saints through the ancient tradition of the Church, long before the formal canonization process was established. They are commemorated together in both the Roman Catholic and Eastern Christian traditions.",
+        "As Sts. of the apostolic age, Aquila and Priscilla were recognized as Sts. through the ancient tradition of the Church, long before the formal canonization process was established. They are commemorated together in both the Roman Catholic and Eastern Christian traditions.",
     },
   },
   {
@@ -416,7 +416,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 10,
-    name: "Saints Anatolia and Victoria",
+    name: "Sts. Anatolia and Victoria",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNSUU2zC-4cGjjPVrdIqJNKUD2oUlBqdIli2zH1GQQrJ7rNhxYQarO7TE&s=10",
     description:
@@ -434,17 +434,17 @@ export const saints: Saint[] = [
         "Anatolia and Victoria were martyred around 250 AD during the persecutions associated with Emperor Decius. Ancient accounts describe Anatolia as being killed after refusing to sacrifice to pagan gods, while Victoria was also put to death for her Christian confession. Their relics were later honored in various churches throughout Italy.",
 
       legacy:
-        "Saints Anatolia and Victoria are remembered as examples of early Christian women who chose faithfulness to Christ above worldly security. Their stories contributed to the devotion surrounding virgin martyrs of the ancient Church and continue to inspire Christians facing trials for their beliefs.",
+        "Sts. Anatolia and Victoria are remembered as examples of early Christian women who chose faithfulness to Christ above worldly security. Their stories contributed to the devotion surrounding virgin martyrs of the ancient Church and continue to inspire Christians facing trials for their beliefs.",
 
       canonization:
-        "Anatolia and Victoria were recognized as saints through the ancient tradition of the Church, based on their martyrdom and longstanding veneration among Christians.",
+        "Anatolia and Victoria were recognized as Sts. through the ancient tradition of the Church, based on their martyrdom and longstanding veneration among Christians.",
     },
   },
   {
     month: 7,
     day: 10,
-    name: "Saints Rufina and Secunda",
-    image: "https://cdn.indcatholicnews.com/saints/14657795243497873868.png",
+    name: "Sts. Rufina and Secunda",
+    image: "https://cdn.indcatholicnews.com/Sts./14657795243497873868.png",
     description:
       "Two Roman virgin martyrs who gave their lives for Christ during the persecution of Christians in the Roman Empire.",
     patronOf: "Potters, twin sisters, and those seeking courage in persecution",
@@ -459,10 +459,10 @@ export const saints: Saint[] = [
         "Rufina and Secunda were martyred around 257 AD near Rome during the persecution of Emperor Valerian. Ancient accounts state that they endured imprisonment and torture before being put to death. Their bodies were buried near the Via Cornelia, where a basilica was later built in their honor.",
 
       legacy:
-        "Saints Rufina and Secunda are remembered as examples of faithful sisterhood and courageous Christian witness. Their story has been preserved through early Roman devotion to virgin martyrs, and they remain honored as symbols of perseverance, purity, and loyalty to Christ.",
+        "Sts. Rufina and Secunda are remembered as examples of faithful sisterhood and courageous Christian witness. Their story has been preserved through early Roman devotion to virgin martyrs, and they remain honored as symbols of perseverance, purity, and loyalty to Christ.",
 
       canonization:
-        "Rufina and Secunda were recognized as saints through the ancient tradition of the Church as early Christian martyrs. Their veneration developed in Rome and spread throughout the Christian world.",
+        "Rufina and Secunda were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs. Their veneration developed in Rome and spread throughout the Christian world.",
     },
   },
   {
@@ -521,7 +521,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 12,
-    name: "Saints John Gualbert",
+    name: "Sts. John Gualbert",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxQ2s5Nk5hGDPmnL1yFsJ7oDyVoA4J8EhFZV_lPK-YCSBHppI_l07doGO&s=10",
     description:
@@ -547,7 +547,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 12,
-    name: "Saints Nabor and Felix",
+    name: "Sts. Nabor and Felix",
     image:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyYF7DPkFRnYMgWWC-0v9G2iSjEv8bkc9SmUhRPyKpBFryvuzXdwFfzDljymPNgBY-1z4xscZaUT3B8wqYdnywOZhb3Ws-3jeHFiOanBRODt2KGLIu10DnsnHy5a67k0r6CG-pQ/s1600/Sts.+Nabor+and+Felix.jpg",
     description:
@@ -564,10 +564,10 @@ export const saints: Saint[] = [
         "Nabor and Felix were martyred around 304 AD at Lodi, near Milan, during the persecution under Emperor Diocletian. Ancient accounts state that they were executed by beheading after refusing to renounce their faith. Their relics were later transferred to Milan, where they became the focus of devotion among Christians.",
 
       legacy:
-        "Saints Nabor and Felix are remembered as examples of Christian soldiers who placed their faith above worldly loyalty. Their veneration spread throughout northern Italy, and they remain honored as witnesses to the courage required to live the Gospel in times of persecution.",
+        "Sts. Nabor and Felix are remembered as examples of Christian soldiers who placed their faith above worldly loyalty. Their veneration spread throughout northern Italy, and they remain honored as witnesses to the courage required to live the Gospel in times of persecution.",
 
       canonization:
-        "Nabor and Felix were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Nabor and Felix were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -970,7 +970,7 @@ export const saints: Saint[] = [
     month: 7,
     day: 20,
     name: "St. Aurelius",
-    image: "https://www.catholic.org/files/images/saints/1622.jpg",
+    image: "https://www.catholic.org/files/images/Sts./1622.jpg",
     description:
       "A bishop and martyr of the early Church in North Africa who remained faithful to Christ during persecution.",
     patronOf:
@@ -986,7 +986,7 @@ export const saints: Saint[] = [
         "Aurelius was martyred during the persecutions of Christians in North Africa, though the exact date and details of his death are uncertain. He was honored by the local Christian community for his steadfast witness to Christ.",
 
       legacy:
-        "St. Aurelius is remembered as an example of faithful episcopal leadership in the early Church. His witness contributed to the tradition of North African Christianity, which produced many important saints, theologians, and martyrs.",
+        "St. Aurelius is remembered as an example of faithful episcopal leadership in the early Church. His witness contributed to the tradition of North African Christianity, which produced many important Sts., theologians, and martyrs.",
 
       canonization:
         "Aurelius was recognized as a saint through the ancient tradition of the Church as an early Christian bishop and martyr.",
@@ -1141,13 +1141,13 @@ export const saints: Saint[] = [
         "Charbel Makhlouf was born Youssef Antoun Makhlouf on May 8, 1828 AD, in Bekaa Kafra, Lebanon, into a poor but deeply Christian Maronite family. His father died when he was young, and he was raised by his mother and extended family. From childhood, he showed a strong attraction to prayer and solitude. He entered the Lebanese Maronite Order in 1851 AD and took the name Charbel after an early Christian martyr.",
 
       spiritualLife:
-        "Charbel was ordained a priest in 1859 AD and lived a life marked by humility, obedience, fasting, and devotion to the Eucharist. After many years in the monastery of St. Maron, he received permission to become a hermit in 1875 AD at the Hermitage of Saints Peter and Paul. There he spent his days in prayer, manual labor, and contemplation, seeking complete union with God. His reputation for holiness and wisdom drew people seeking spiritual guidance and healing.",
+        "Charbel was ordained a priest in 1859 AD and lived a life marked by humility, obedience, fasting, and devotion to the Eucharist. After many years in the monastery of St. Maron, he received permission to become a hermit in 1875 AD at the Hermitage of Sts. Peter and Paul. There he spent his days in prayer, manual labor, and contemplation, seeking complete union with God. His reputation for holiness and wisdom drew people seeking spiritual guidance and healing.",
 
       death:
         "Charbel died on December 24, 1898 AD, at the hermitage after suffering a stroke while celebrating the Divine Liturgy. He was buried in the monastery cemetery, and reports of miraculous healings associated with his intercession began to spread after his death.",
 
       legacy:
-        "St. Charbel Makhlouf is one of the most beloved saints of the Maronite Church and is honored throughout the world as a model of contemplative prayer and dedication to God. His life continues to inspire monks, religious communities, and lay people seeking holiness through simplicity, sacrifice, and trust in divine grace.",
+        "St. Charbel Makhlouf is one of the most beloved Sts. of the Maronite Church and is honored throughout the world as a model of contemplative prayer and dedication to God. His life continues to inspire monks, religious communities, and lay people seeking holiness through simplicity, sacrifice, and trust in divine grace.",
 
       canonization:
         "Charbel Makhlouf was beatified by Pope Paul VI in 1965 AD and canonized by Pope Paul VI on October 9, 1977 AD.",
@@ -1173,7 +1173,7 @@ export const saints: Saint[] = [
         "James was martyred around 44 AD in Jerusalem during the persecution of Christians under King Herod Agrippa I. According to the Acts of the Apostles, he was executed by the sword, becoming the first of the Twelve Apostles to suffer martyrdom. Later Christian tradition holds that his remains were taken to Galicia in Spain, where the shrine of Santiago de Compostela developed as a major pilgrimage destination.",
 
       legacy:
-        "St. James the Greater is remembered as a courageous Apostle and missionary whose martyrdom demonstrated complete fidelity to Christ. The pilgrimage route to Santiago de Compostela has made him one of the most widely venerated saints in Christianity, and the scallop shell associated with his pilgrimage has become a symbol of Christian journey and faith.",
+        "St. James the Greater is remembered as a courageous Apostle and missionary whose martyrdom demonstrated complete fidelity to Christ. The pilgrimage route to Santiago de Compostela has made him one of the most widely venerated Sts. in Christianity, and the scallop shell associated with his pilgrimage has become a symbol of Christian journey and faith.",
 
       canonization:
         "James the Greater was recognized as a saint through the ancient tradition of the Church as one of the Twelve Apostles and an early Christian martyr.",
@@ -1200,7 +1200,7 @@ export const saints: Saint[] = [
         "Christopher was martyred around 251 AD during the persecution of Christians under Emperor Decius, according to tradition. Ancient accounts describe his arrest, torture, and execution after he refused to sacrifice to pagan gods. Although details of his martyrdom are uncertain, devotion to him spread widely throughout the Christian world.",
 
       legacy:
-        "St. Christopher is one of the most popular saints in Christian history and remains especially associated with travelers and protection during journeys. His image carrying the Christ Child has become a universal symbol of faithful service and the call to bring Christ to others.",
+        "St. Christopher is one of the most popular Sts. in Christian history and remains especially associated with travelers and protection during journeys. His image carrying the Christ Child has become a universal symbol of faithful service and the call to bring Christ to others.",
 
       canonization:
         "Christopher was recognized as a saint through the ancient tradition of the Church. His widespread veneration developed throughout the Christian world in the early centuries.",
@@ -1209,7 +1209,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 26,
-    name: "Saints Joachim and Anne",
+    name: "Sts. Joachim and Anne",
     image:
       "https://images.squarespace-cdn.com/content/v1/5a7dd5a780bd5e72be22cb63/1521044851219-FOC792030V8FJ18N5Q8T/anne+and+joachim.jpg",
     description:
@@ -1227,10 +1227,10 @@ export const saints: Saint[] = [
         "The details of Joachim and Anne's deaths are not recorded in Scripture or reliably preserved by history. Christian tradition holds that they lived holy lives in Jerusalem and were remembered for their faith and devotion to God.",
 
       legacy:
-        "Saints Joachim and Anne are honored as models of faithful parenthood and family life. Their example highlights the importance of prayer, patience, and trust in God's timing. As the parents of Mary and grandparents of Jesus, they hold a special place in Christian devotion and are especially honored by families and grandparents.",
+        "Sts. Joachim and Anne are honored as models of faithful parenthood and family life. Their example highlights the importance of prayer, patience, and trust in God's timing. As the parents of Mary and grandparents of Jesus, they hold a special place in Christian devotion and are especially honored by families and grandparents.",
 
       canonization:
-        "Joachim and Anne were recognized as saints through the ancient tradition of the Church based on longstanding Christian devotion to the parents of the Blessed Virgin Mary.",
+        "Joachim and Anne were recognized as Sts. through the ancient tradition of the Church based on longstanding Christian devotion to the parents of the Blessed Virgin Mary.",
     },
   },
   {
@@ -1305,7 +1305,7 @@ export const saints: Saint[] = [
         "Pantaleon was martyred around 305 AD during the persecution of Christians under Emperor Diocletian. According to tradition, he endured several attempts to kill him before finally being executed. He was honored by the Christian community of Nicomedia, and devotion to him spread throughout both Eastern and Western Christianity.",
 
       legacy:
-        "St. Pantaleon is remembered as one of the great physician saints of the early Church. His life represents the union of medical service and Christian charity, showing compassion for the sick as a reflection of Christ's healing ministry. He remains especially honored by physicians and healthcare workers.",
+        "St. Pantaleon is remembered as one of the great physician Sts. of the early Church. His life represents the union of medical service and Christian charity, showing compassion for the sick as a reflection of Christ's healing ministry. He remains especially honored by physicians and healthcare workers.",
 
       canonization:
         "Pantaleon was recognized as a saint through the ancient tradition of the Church as an early Christian martyr and physician.",
@@ -1315,7 +1315,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 28,
-    name: "Saints Nazario and Celso",
+    name: "Sts. Nazario and Celso",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Adorazione_dei_pastori_con_i_santi_Nazaro_e_Celso.jpg/250px-Adorazione_dei_pastori_con_i_santi_Nazaro_e_Celso.jpg",
     description:
@@ -1332,10 +1332,10 @@ export const saints: Saint[] = [
         "Nazario and Celso were martyred around 68 AD in Milan during the persecution of Emperor Nero. According to tradition, they were beheaded after refusing to abandon their Christian faith. Their relics were discovered in Milan in the 4th century AD by St. Ambrose, who arranged for their veneration and burial.",
 
       legacy:
-        "Saints Nazario and Celso are remembered as examples of missionary zeal, courage, and spiritual friendship. Their discovery by St. Ambrose helped strengthen devotion to early Christian martyrs in Milan, and they remain honored as witnesses to the faith of the Apostolic age.",
+        "Sts. Nazario and Celso are remembered as examples of missionary zeal, courage, and spiritual friendship. Their discovery by St. Ambrose helped strengthen devotion to early Christian martyrs in Milan, and they remain honored as witnesses to the faith of the Apostolic age.",
 
       canonization:
-        "Nazario and Celso were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Nazario and Celso were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -1446,7 +1446,7 @@ export const saints: Saint[] = [
   {
     month: 7,
     day: 30,
-    name: "Saints Abdon and Sennen",
+    name: "Sts. Abdon and Sennen",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdQBe7Eh3qJhkGQP9rWgqClF1T2LCUHGCfgWY5XLVVHGW1VqepHX_Eyc&s=10",
     description:
@@ -1463,10 +1463,10 @@ export const saints: Saint[] = [
         "Abdon and Sennen were martyred around 250 AD in Rome during the persecution of Emperor Decius. According to tradition, they were executed after refusing to renounce their Christian faith and were buried in the cemetery of Pontian near Rome, where their tomb became a place of veneration.",
 
       legacy:
-        "Saints Abdon and Sennen are remembered as examples of courage, charity, and loyalty to Christ during times of persecution. Their devotion spread throughout the Christian world, and they have long been honored as protectors and intercessors for those facing hardship.",
+        "Sts. Abdon and Sennen are remembered as examples of courage, charity, and loyalty to Christ during times of persecution. Their devotion spread throughout the Christian world, and they have long been honored as protectors and intercessors for those facing hardship.",
 
       canonization:
-        "Abdon and Sennen were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Abdon and Sennen were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -1481,7 +1481,7 @@ export const saints: Saint[] = [
       "Retreats, soldiers, educators, spiritual directors, and the Society of Jesus",
     longDescription: {
       earlyLife:
-        "Ignatius of Loyola was born Íñigo López de Loyola around 1491 AD in the Basque region of Spain. He was the youngest son of a noble family and initially pursued a career as a soldier and courtier. In 1521 AD, he was seriously wounded during the defense of Pamplona. During his recovery, he experienced a profound spiritual conversion while reading about the lives of Christ and the saints, leading him to dedicate his life to God.",
+        "Ignatius of Loyola was born Íñigo López de Loyola around 1491 AD in the Basque region of Spain. He was the youngest son of a noble family and initially pursued a career as a soldier and courtier. In 1521 AD, he was seriously wounded during the defense of Pamplona. During his recovery, he experienced a profound spiritual conversion while reading about the lives of Christ and the Sts., leading him to dedicate his life to God.",
 
       spiritualLife:
         "Ignatius spent years studying theology and discerning his vocation. He developed the Spiritual Exercises, a guide for prayer, meditation, and spiritual discernment that became one of the most influential works in Catholic spirituality. In 1534 AD, he and a group of companions, including St. Francis Xavier, made vows of poverty and service, eventually founding the Society of Jesus (Jesuits) in 1540 AD with papal approval. As the first Superior General of the Jesuits, Ignatius promoted education, missionary work, and service to the Church throughout the world.",
@@ -1555,7 +1555,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 1,
-    name: "Saints Seven Brothers Maccabees",
+    name: "Sts. Seven Brothers Maccabees",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiRJDkuNZWaiXUhMGh0NyzLrkPJn4BPOXiN3R6VL5pYGc1OD9ZMmEdZo&s=10",
     description:
@@ -1578,7 +1578,7 @@ export const saints: Saint[] = [
         "The Seven Maccabean Brothers have long been honored by both Eastern and Western Christians as heroic witnesses to unwavering faith. Their martyrdom foreshadowed the courage of the Christian martyrs and remains a powerful testimony to trust in God's promises, perseverance in suffering, and hope in the resurrection.",
 
       canonization:
-        "The Seven Maccabean Brothers were recognized as saints through the ancient tradition of the Church as Old Testament martyrs whose faithful witness has been venerated since the earliest centuries of Christianity.",
+        "The Seven Maccabean Brothers were recognized as Sts. through the ancient tradition of the Church as Old Testament martyrs whose faithful witness has been venerated since the earliest centuries of Christianity.",
     },
   },
   {
@@ -1753,8 +1753,8 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 4,
-    name: "Saints Justin and Crescenzio",
-    image: "https://www.cathoplus.com/app_img/saints/generic_2saints.png",
+    name: "Sts. Justin and Crescenzio",
+    image: "https://www.cathoplus.com/app_img/Sts./generic_2Sts..png",
     description:
       "Early Christian martyrs remembered for their courage, faithfulness to Christ, and willingness to suffer rather than renounce their beliefs.",
 
@@ -1772,10 +1772,10 @@ export const saints: Saint[] = [
         "Justin and Crescenzio were martyred in the early centuries of Christianity, though the exact date and circumstances of their deaths are uncertain. According to tradition, they gave their lives during a period of persecution rather than deny their faith in Christ.",
 
       legacy:
-        "Saints Justin and Crescenzio are remembered as witnesses to the strength of Christian faith during times of hardship. Their example reflects the courage of the early martyrs who helped preserve and spread the Christian faith through their sacrifice.",
+        "Sts. Justin and Crescenzio are remembered as witnesses to the strength of Christian faith during times of hardship. Their example reflects the courage of the early martyrs who helped preserve and spread the Christian faith through their sacrifice.",
 
       canonization:
-        "Justin and Crescenzio were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Justin and Crescenzio were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -1783,7 +1783,7 @@ export const saints: Saint[] = [
     day: 5,
     name: "St. Oswald",
     image:
-      "https://www.shrewsburyorthodox.com/wp-content/uploads/Saints/172350920_10157623941670213_7632866730293101955_n-1024x1024.jpg",
+      "https://www.shrewsburyorthodox.com/wp-content/uploads/Sts./172350920_10157623941670213_7632866730293101955_n-1024x1024.jpg",
     description:
       "A Christian king of Northumbria known for his faith, charity, missionary support, and efforts to spread Christianity throughout his kingdom.",
 
@@ -1838,7 +1838,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 7,
-    name: "Saints Sixtus II, Pope, and Companions, Martyrs",
+    name: "Sts. Sixtus II, Pope, and Companions, Martyrs",
     image:
       "https://mycatholic.life/wp-content/uploads/2019/07/Fra_Angelico_058_St_Sixtus_II-1.jpg",
     description:
@@ -1855,10 +1855,10 @@ export const saints: Saint[] = [
         "Sixtus II and his companions were martyred in 258 AD during the persecution of Emperor Valerian. Sixtus was arrested while celebrating the Eucharist in the catacombs of Rome and was executed together with several of his deacons. Their martyrdom became one of the most remembered examples of early Roman Christian witness.",
 
       legacy:
-        "Saints Sixtus II and his companions are remembered for their courage, pastoral dedication, and willingness to sacrifice their lives for Christ. Their witness strengthened the faith of the early Church during times of persecution.",
+        "Sts. Sixtus II and his companions are remembered for their courage, pastoral dedication, and willingness to sacrifice their lives for Christ. Their witness strengthened the faith of the early Church during times of persecution.",
 
       canonization:
-        "Sixtus II and his companions were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Sixtus II and his companions were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -1930,7 +1930,7 @@ export const saints: Saint[] = [
         "Albert lived a life dedicated to Christian faith and devotion, becoming an example of holiness for those who followed him.",
 
       death:
-        "The details surrounding Albert's death are uncertain, though he is honored among the saints through ancient Christian tradition.",
+        "The details surrounding Albert's death are uncertain, though he is honored among the Sts. through ancient Christian tradition.",
 
       legacy:
         "St. Albert remains remembered as a witness to Christian devotion and faithfulness.",
@@ -1969,7 +1969,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 8,
-    name: "Saints Ciriaco, Largo and Smaragdo, Martyrs",
+    name: "Sts. Ciriaco, Largo and Smaragdo, Martyrs",
     image:
       "https://d0.momapix.com/gilardi/32000fc4dd5e03d82d40fc89bc3742168738e07427d5be47287bf177f05a0b7e57779/Preview40438.jpg?v.0.d64295c7aa041a80e7d99b7aee97a920&w=762&h=762",
     description:
@@ -1986,10 +1986,10 @@ export const saints: Saint[] = [
         "Ciriaco, Largo, and Smaragdo were martyred around 303 AD during the persecution of Emperor Diocletian. According to tradition, they were executed after refusing to renounce their faith in Christ.",
 
       legacy:
-        "Saints Ciriaco, Largo, and Smaragdo are remembered as examples of courage, charity, and fidelity during one of the most difficult periods for the early Church.",
+        "Sts. Ciriaco, Largo, and Smaragdo are remembered as examples of courage, charity, and fidelity during one of the most difficult periods for the early Church.",
 
       canonization:
-        "Ciriaco, Largo, and Smaragdo were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Ciriaco, Largo, and Smaragdo were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -2091,7 +2091,7 @@ export const saints: Saint[] = [
         "Clare died on August 11, 1253 AD, at San Damiano in Assisi after many years of illness. She was surrounded by her sisters and was buried in Assisi, where the Basilica of St. Clare was later built in her honor.",
 
       legacy:
-        "St. Clare is remembered as one of the greatest female saints of the Middle Ages and as a model of humility, simplicity, and complete trust in God. The Poor Clare Order continues her mission of prayer and contemplative devotion throughout the world.",
+        "St. Clare is remembered as one of the greatest female Sts. of the Middle Ages and as a model of humility, simplicity, and complete trust in God. The Poor Clare Order continues her mission of prayer and contemplative devotion throughout the world.",
 
       canonization:
         "Clare was canonized by Pope Alexander IV on September 26, 1255 AD.",
@@ -2178,7 +2178,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 13,
-    name: "Saints Pontian, Pope and Hippolytus, Priest, Martyrs",
+    name: "Sts. Pontian, Pope and Hippolytus, Priest, Martyrs",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U683Ia2rDVjamBr7GlDL1lqzWODA7yS3GmfT3lwCe8So08vO0hJUxZ4&s=10",
     description:
@@ -2196,10 +2196,10 @@ export const saints: Saint[] = [
         "Pontian and Hippolytus were sent into exile in Sardinia and suffered harsh conditions. Pontian resigned the papacy in 235 AD, becoming the first pope known to have formally resigned. Both died around 235 AD as martyrs due to the hardships they endured for their faith. Their remains were later brought back to Rome and honored together.",
 
       legacy:
-        "Saints Pontian and Hippolytus are remembered as examples of repentance, reconciliation, and perseverance. Their lives demonstrate that even serious disagreements can be overcome through humility and a shared commitment to Christ.",
+        "Sts. Pontian and Hippolytus are remembered as examples of repentance, reconciliation, and perseverance. Their lives demonstrate that even serious disagreements can be overcome through humility and a shared commitment to Christ.",
 
       canonization:
-        "Pontian and Hippolytus were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Pontian and Hippolytus were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -2257,7 +2257,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 13,
-    name: "Saint Philomena",
+    name: "St. Philomena",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvByKAqA2SDCMzL5y1lN0TzMebwHNiSifv9VSAw52Wz0eneNbB7yfMC0&s=10",
     description:
@@ -2327,7 +2327,7 @@ export const saints: Saint[] = [
         "Maximilian was arrested by the Nazis and sent to Auschwitz concentration camp in 1941 AD. When a prisoner was selected for execution, he volunteered to take his place. He died on August 14, 1941 AD, after being given a lethal injection following two weeks of starvation and suffering.",
 
       legacy:
-        "St. Maximilian Kolbe is remembered as a martyr of charity whose sacrifice reflected Christ's own love. His heroic act at Auschwitz has made him one of the most recognized saints of the 20th century and a powerful witness to the dignity of human life.",
+        "St. Maximilian Kolbe is remembered as a martyr of charity whose sacrifice reflected Christ's own love. His heroic act at Auschwitz has made him one of the most recognized Sts. of the 20th century and a powerful witness to the dignity of human life.",
 
       canonization:
         "Maximilian Kolbe was beatified by Pope Paul VI in 1971 AD and canonized by Pope John Paul II on October 10, 1982 AD.",
@@ -2337,7 +2337,7 @@ export const saints: Saint[] = [
     month: 8,
     day: 14,
     name: "St. Eusebius of Rome, Priest",
-    image: "https://www.catholic.org/files/images/saints/970.jpg",
+    image: "https://www.catholic.org/files/images/Sts./970.jpg",
     description:
       "A Roman priest known for defending the Nicene faith against Arianism and for his steadfast witness during theological conflicts in the early Church.",
 
@@ -2432,7 +2432,7 @@ export const saints: Saint[] = [
         "Roch died around 1327 AD after returning to his homeland. According to tradition, he was imprisoned because he was mistaken for a spy and died after years of suffering while remaining faithful to God.",
 
       legacy:
-        "St. Roch became one of the most beloved saints associated with healing and protection from disease. His example of charity toward the sick continues to inspire healthcare workers and those who care for the suffering.",
+        "St. Roch became one of the most beloved Sts. associated with healing and protection from disease. His example of charity toward the sick continues to inspire healthcare workers and those who care for the suffering.",
 
       canonization:
         "Roch was recognized as a saint through the ancient tradition of the Church and widespread popular devotion.",
@@ -2651,7 +2651,7 @@ export const saints: Saint[] = [
 
     longDescription: {
       earlyLife:
-        "Magnus was a Christian missionary who lived during the early medieval period. Different traditions associate the name Magnus with several saints, but the August 19 commemoration refers to an early missionary honored in Christian tradition.",
+        "Magnus was a Christian missionary who lived during the early medieval period. Different traditions associate the name Magnus with several Sts., but the August 19 commemoration refers to an early missionary honored in Christian tradition.",
 
       spiritualLife:
         "Magnus dedicated his life to proclaiming the Gospel and serving local communities. Through preaching, prayer, and acts of charity, he helped strengthen Christianity among the people he served.",
@@ -2895,7 +2895,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 23,
-    name: "Saints Zachary and Elizabeth",
+    name: "Sts. Zachary and Elizabeth",
     image:
       "https://i0.wp.com/reason2bcatholic.com/wp-content/uploads/2021/11/Zachariah-and-Elizabeth-Greek-Orthodox-icon.jpg?ssl=1",
     description:
@@ -2915,10 +2915,10 @@ export const saints: Saint[] = [
         "The New Testament does not record the details of Zachary and Elizabeth's deaths. Christian tradition holds that they lived faithful lives devoted to God and the mission entrusted to their family.",
 
       legacy:
-        "Saints Zachary and Elizabeth are remembered as examples of faithful marriage, trust in God's promises, and the important role of families in salvation history.",
+        "Sts. Zachary and Elizabeth are remembered as examples of faithful marriage, trust in God's promises, and the important role of families in salvation history.",
 
       canonization:
-        "Zachary and Elizabeth were recognized as saints through the ancient tradition of the Church as holy figures of the New Testament.",
+        "Zachary and Elizabeth were recognized as Sts. through the ancient tradition of the Church as holy figures of the New Testament.",
     },
   },
   {
@@ -3349,7 +3349,7 @@ export const saints: Saint[] = [
   {
     month: 8,
     day: 30,
-    name: "Saints Felix, Priest and Adauctus, Martyrs",
+    name: "Sts. Felix, Priest and Adauctus, Martyrs",
     image:
       "https://www.vaticannews.va/content/dam/vaticannews/santi/20190830_Wikimedia%20Commons_Catacombe%20di%20Commodilla_sec.%20VI_FELICE%20e%20ADAUTTO.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
     description:
@@ -3369,10 +3369,10 @@ export const saints: Saint[] = [
         "Felix and Adauctus were martyred around 303 AD in Rome during the persecution of Emperor Diocletian. They were executed together because of their refusal to abandon Christianity.",
 
       legacy:
-        "Saints Felix and Adauctus are remembered as companions in martyrdom whose unity demonstrates the strength of Christian brotherhood and faith.",
+        "Sts. Felix and Adauctus are remembered as companions in martyrdom whose unity demonstrates the strength of Christian brotherhood and faith.",
 
       canonization:
-        "Felix and Adauctus were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
+        "Felix and Adauctus were recognized as Sts. through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {

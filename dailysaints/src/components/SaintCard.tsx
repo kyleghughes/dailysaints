@@ -11,6 +11,7 @@ import Button from "@mui/material/Button";
 import FullscreenIcon from "@mui/icons-material/Fullscreen";
 import CloseIcon from "@mui/icons-material/Close";
 import type { Saint } from "../data/saints";
+import Box from "@mui/material/Box";
 
 // #region types
 export interface SaintLongDescription {
@@ -31,7 +32,7 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
   return (
     <>
       <Card elevation={3}>
-        <div style={{ position: "relative" }}>
+        <Box sx={{ position: "relative" }}>
           <CardMedia
             component="img"
             height="360"
@@ -58,7 +59,7 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
           >
             <FullscreenIcon />
           </IconButton>
-        </div>
+        </Box>
 
         <CardContent>
           <Typography variant="h4" gutterBottom>
@@ -138,13 +139,9 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
           <CloseIcon />
         </IconButton>
 
-        <div style={{ padding: 24, maxWidth: 900, margin: "0 auto" }}>
+        <Box style={{ padding: 24, maxWidth: 900, margin: "0 auto" }}>
           <Typography variant="h3" gutterBottom>
             {saint.name}
-          </Typography>
-
-          <Typography variant="body1" sx={{ mb: 4, lineHeight: 1.7 }}>
-            {saint.description}
           </Typography>
 
           {saint.longDescription && (
@@ -165,7 +162,7 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
               />
             </Stack>
           )}
-        </div>
+        </Box>
       </Dialog>
     </>
   );
@@ -175,7 +172,7 @@ export default SaintCard;
 
 const Section = ({ title, text }: { title: string; text: string }) => {
   return (
-    <div>
+    <Box>
       <Typography variant="h5" gutterBottom>
         {title}
       </Typography>
@@ -183,6 +180,6 @@ const Section = ({ title, text }: { title: string; text: string }) => {
         {text}
       </Typography>
       <Divider sx={{ mt: 2 }} />
-    </div>
+    </Box>
   );
 };

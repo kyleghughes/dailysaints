@@ -5,11 +5,14 @@ import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import LightModeIcon from "@mui/icons-material/LightMode";
+import Searchbar from "./Searchbar";
 import type { LiturgicalColour } from "../data/liturgicalCalendar";
 import { green, grey, pink, purple, red } from "@mui/material/colors";
 import { darken } from "@mui/material/styles";
 import Tooltip from "@mui/material/Tooltip";
 import DailySaintsLogo from "../../DailySaintsLogo.png";
+import type { Saint } from "../data/saints";
+import useMediaQuery from "@mui/material/useMediaQuery";
 
 // #region interface
 interface HeaderProps {
@@ -17,10 +20,17 @@ interface HeaderProps {
   colour: LiturgicalColour;
   mode: "light" | "dark";
   onToggleMode: () => void;
+  onSelectSaint: (saint: Saint | null) => void;
 }
 // #endregion
 
-const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
+const Header = ({
+  date,
+  colour,
+  mode,
+  onToggleMode,
+  onSelectSaint,
+}: HeaderProps) => {
   // #region constants
   const colourMap: Record<LiturgicalColour, string> = {
     green: green[500],
@@ -36,6 +46,7 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
   const isWhiteColour = colour === "white";
   const darkColor = darken(baseColor, isWhiteColour ? 0.1 : 0.5);
   const textColor = isWhiteColour ? "#000" : "inherit";
+  const isMobile = useMediaQuery("(max-width:600px)");
   // #endregion
 
   return (
@@ -46,14 +57,12 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
         background: `linear-gradient(135deg, ${darkColor} 0%, ${baseColor} 100%)`,
       }}
     >
-      <Toolbar>
+      <Toolbar sx={{ display: "flex" }}>
         <Box
           sx={{
-            flexGrow: 1,
+            flex: 1,
             display: "flex",
             alignItems: "center",
-            fontWeight: 600,
-            fontSize: "1.25rem",
           }}
         >
           <Box
@@ -81,7 +90,33 @@ const Header = ({ date, colour, mode, onToggleMode }: HeaderProps) => {
           </Typography>
         </Box>
 
-        <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
+        {!isMobile && (
+          <Box
+            sx={{
+              flex: 1,
+              display: "flex",
+              justifyContent: "center",
+              px: 2,
+            }}
+          >
+            <Box sx={{ width: "100%", maxWidth: 450 }}>
+              <Searchbar
+                darkColor={isWhiteColour}
+                onSelectSaint={onSelectSaint}
+              />
+            </Box>
+          </Box>
+        )}
+
+        <Box
+          sx={{
+            flex: 1,
+            display: "flex",
+            justifyContent: "flex-end",
+            alignItems: "center",
+            gap: 1,
+          }}
+        >
           <Typography variant="body2" sx={{ color: textColor }}>
             {date}
           </Typography>

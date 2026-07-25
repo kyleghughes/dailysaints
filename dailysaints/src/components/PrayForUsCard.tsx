@@ -4,9 +4,11 @@ import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 
+// #region interface
 interface PrayForUsCardProps {
   saints: Saint[];
 }
+// #endregion
 
 const PrayForUsCard = ({ saints }: PrayForUsCardProps) => {
   return (

@@ -6,20 +6,20 @@ import {
   Box,
   CircularProgress,
 } from "@mui/material";
-
 import Header from "./components/Header";
 import SaintCard from "./components/SaintCard";
 import PrayForUsCard from "./components/PrayForUsCard";
-
-import { formatDate, getTodayKey } from "./utils/date";
+import { getTodayKey } from "./utils/date";
 import { saints, type Saint } from "./data/saints";
 import { getLiturgicalColour } from "./data/liturgicalCalendar";
 import { getTheme } from "./components/theme";
-
-const { month, day } = getTodayKey();
-const colour = getLiturgicalColour(month, day);
+import useMediaQuery from "@mui/material/useMediaQuery";
+import MobileSearchBar from "./components/MobileSearchBar";
+import dayjs from "dayjs";
 
 // #region helper function
+const { month, day } = getTodayKey();
+
 /**
  * Retrieves all saints commemorated on the current day.
  *
@@ -34,23 +34,41 @@ const getTodaySaints = (): Saint[] => {
 // #endregion
 
 const App = () => {
+  // #region state
   const [mode, setMode] = useState<"light" | "dark">(() => {
     const saved = localStorage.getItem("themeMode");
     return saved === "dark" ? "dark" : "light";
   });
+  const [selectedSaint, setSelectedSaint] = useState<Saint | null>(null);
+  // #endregion
 
+  // #region hooks
   useEffect(() => {
     localStorage.setItem("themeMode", mode);
   }, [mode]);
-
   const theme = useMemo(() => getTheme(mode), [mode]);
+  const isMobile = useMediaQuery("(max-width:600px)");
+  const formattedDate = useMemo(
+    () => dayjs().format(isMobile ? "DD/MM/YYYY" : "dddd, D MMMM YYYY"),
+    [],
+  );
 
-  const todaySaints = useMemo(() => getTodaySaints(), []);
-  const formattedDate = useMemo(() => formatDate(new Date()), []);
+  // #endregion
 
+  // #region variables
+  const colour = getLiturgicalColour(month, day);
+  const displayedSaints = selectedSaint ? [selectedSaint] : getTodaySaints();
+  // #endregion
+
+  // #region functions
+  /**
+   * Toggles state between 'light' and 'dark'
+   * This then changes site between light and dark mode
+   */
   const toggleMode = (): void => {
     setMode((prev) => (prev === "light" ? "dark" : "light"));
   };
+  // #endregion
 
   return (
     <ThemeProvider theme={theme}>
@@ -60,15 +78,28 @@ const App = () => {
         colour={colour}
         mode={mode}
         onToggleMode={toggleMode}
+        onSelectSaint={setSelectedSaint}
       />
-      <Container maxWidth="md">
+      {isMobile && (
+        <MobileSearchBar
+          darkColor={colour === "white"}
+          onSelectSaint={setSelectedSaint}
+        />
+      )}
+      <Container
+        maxWidth="md"
+        sx={{
+          pb: isMobile ? 8 : 0,
+        }}
+      >
         <Box sx={{ mt: 4, mb: 4 }}>
-          {todaySaints.length > 0 ? (
+          {displayedSaints.length > 0 ? (
             <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
-              {todaySaints.map((saint, index) => (
+              {displayedSaints.map((saint, index) => (
                 <SaintCard key={`${saint.name}-${index}`} saint={saint} />
               ))}
-              <PrayForUsCard saints={todaySaints} />
+
+              <PrayForUsCard saints={displayedSaints} />
             </Box>
           ) : (
             <Box sx={{ display: "flex", justifyContent: "center", mt: 8 }}>
