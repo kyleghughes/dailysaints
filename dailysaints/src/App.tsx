@@ -83,14 +83,14 @@ const App = () => {
       />
       {isMobile && (
         <MobileSearchBar
-          darkColor={colour === "white"}
+          darkColor={mode === "light"}
           onSelectSaint={setSelectedSaint}
         />
       )}
       <Container
         maxWidth="md"
         sx={{
-          pb: isMobile ? 4 : 0,
+          pb: isMobile ? 8 : 0,
         }}
       >
         <Box sx={{ mt: 4, mb: 4 }}>
