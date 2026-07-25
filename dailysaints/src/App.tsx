@@ -17,6 +17,7 @@ import useMediaQuery from "@mui/material/useMediaQuery";
 import MobileSearchBar from "./components/MobileSearchBar";
 import dayjs from "dayjs";
 import Footer from "./components/Footer";
+import QuoteCard from "./components/QuoteCard";
 
 // #region helper function
 const { month, day } = getTodayKey();
@@ -93,6 +94,9 @@ const App = () => {
           pb: isMobile ? 8 : 0,
         }}
       >
+        <Box sx={{ mt: 4 }}>
+          <QuoteCard />
+        </Box>
         <Box sx={{ mt: 4, mb: 4 }}>
           {displayedSaints.length > 0 ? (
             <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
