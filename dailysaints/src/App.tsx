@@ -16,6 +16,7 @@ import { getTheme } from "./components/theme";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import MobileSearchBar from "./components/MobileSearchBar";
 import dayjs from "dayjs";
+import Footer from "./components/Footer";
 
 // #region helper function
 const { month, day } = getTodayKey();
@@ -89,7 +90,7 @@ const App = () => {
       <Container
         maxWidth="md"
         sx={{
-          pb: isMobile ? 8 : 0,
+          pb: isMobile ? 4 : 0,
         }}
       >
         <Box sx={{ mt: 4, mb: 4 }}>
@@ -107,6 +108,7 @@ const App = () => {
             </Box>
           )}
         </Box>
+        <Footer />
       </Container>
     </ThemeProvider>
   );
