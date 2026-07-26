@@ -12,6 +12,12 @@ import FullscreenIcon from "@mui/icons-material/Fullscreen";
 import CloseIcon from "@mui/icons-material/Close";
 import type { Saint } from "../data/saints";
 import Box from "@mui/material/Box";
+import dayjs from "dayjs";
+import advancedFormat from "dayjs/plugin/advancedFormat";
+
+// #region dayJS
+dayjs.extend(advancedFormat);
+// #endregion
 
 // #region types
 export interface SaintLongDescription {
@@ -27,6 +33,22 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
   // #region state
   const [imageOpen, setImageOpen] = useState<boolean>(false);
   const [infoOpen, setInfoOpen] = useState<boolean>(false);
+  // #endregion
+
+  // #region functions
+  /**
+   * Formats a saint's feast day into a readable date string.
+   *
+   * @param day - The day of the feast (1-31)
+   * @param month - The month of the feast (1-12)
+   * @returns The formatted feast day (e.g. "27th February")
+   */
+  const formatFeastDay = (day: number, month: number): string => {
+    return dayjs()
+      .month(month - 1)
+      .date(day)
+      .format("Do MMMM");
+  };
   // #endregion
 
   return (
@@ -62,8 +84,12 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
         </Box>
 
         <CardContent>
-          <Typography variant="h4" gutterBottom>
+          <Typography variant="h4" sx={{ mb: 1 }}>
             {saint.name}
+          </Typography>
+
+          <Typography variant="subtitle2" color="text.secondary" sx={{ mb: 1 }}>
+            Feast Day: {formatFeastDay(saint.day, saint.month)}
           </Typography>
 
           <Typography variant="body1" sx={{ mb: 2, lineHeight: 1.7 }}>
