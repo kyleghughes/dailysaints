@@ -20,13 +20,17 @@ const MobileSearchBar = ({
         bottom: 0,
         left: 0,
         right: 0,
-        p: 1,
+        p: 2,
         zIndex: 1200,
         backgroundColor: "background.paper",
         boxShadow: 3,
       }}
     >
-      <Searchbar darkColor={darkColor} onSelectSaint={onSelectSaint} />
+      <Searchbar
+        darkColor={darkColor}
+        isMobile={true}
+        onSelectSaint={onSelectSaint}
+      />
     </Box>
   );
 };

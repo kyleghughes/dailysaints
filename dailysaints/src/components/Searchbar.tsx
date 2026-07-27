@@ -2,12 +2,15 @@ import Autocomplete from "@mui/material/Autocomplete";
 import TextField from "@mui/material/TextField";
 import { saints, type Saint } from "../data/saints";
 
+// #region interface
 interface SearchbarProps {
   darkColor: boolean;
+  isMobile: boolean;
   onSelectSaint: (saint: Saint | null) => void;
 }
+// #endregion
 
-const Searchbar = ({ darkColor, onSelectSaint }: SearchbarProps) => {
+const Searchbar = ({ darkColor, isMobile, onSelectSaint }: SearchbarProps) => {
   // #region variables
   const saintNames = [...saints]
     .sort((a, b) => a.name.localeCompare(b.name))
@@ -18,7 +21,21 @@ const Searchbar = ({ darkColor, onSelectSaint }: SearchbarProps) => {
   return (
     <Autocomplete
       options={saintNames}
-      sx={{ width: "100%" }}
+      sx={{
+        width: "100%",
+      }}
+      slotProps={{
+        popper: {
+          modifiers: [
+            {
+              name: "offset",
+              options: {
+                offset: [0, isMobile ? 10 : 0],
+              },
+            },
+          ],
+        },
+      }}
       onChange={(_, value) => {
         const saint = saints.find((s) => s.name === value) ?? null;
         onSelectSaint(saint);
@@ -26,10 +43,12 @@ const Searchbar = ({ darkColor, onSelectSaint }: SearchbarProps) => {
       renderInput={(params) => (
         <TextField
           {...params}
-          label="Search Saints"
+          label={isMobile ? "" : "Search Saints"}
+          placeholder={!isMobile ? "" : "Search Saints"}
           size="small"
           sx={{
             "& .MuiOutlinedInput-root": {
+              backgroundColor: "white",
               color: darkModelogic,
               "& fieldset": {
                 borderColor: darkModelogic,

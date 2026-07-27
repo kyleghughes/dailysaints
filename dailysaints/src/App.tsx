@@ -83,10 +83,7 @@ const App = () => {
         onSelectSaint={setSelectedSaint}
       />
       {isMobile && (
-        <MobileSearchBar
-          darkColor={mode === "light"}
-          onSelectSaint={setSelectedSaint}
-        />
+        <MobileSearchBar darkColor={true} onSelectSaint={setSelectedSaint} />
       )}
       <Container
         maxWidth="md"

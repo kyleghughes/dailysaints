@@ -102,6 +102,7 @@ const Header = ({
             <Box sx={{ width: "100%", maxWidth: 450 }}>
               <Searchbar
                 darkColor={isWhiteColour}
+                isMobile={false}
                 onSelectSaint={onSelectSaint}
               />
             </Box>
