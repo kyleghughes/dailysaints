@@ -11,9 +11,37 @@ interface SearchbarProps {
 // #endregion
 
 const Searchbar = ({ darkColor, isMobile, onSelectSaint }: SearchbarProps) => {
+  // #region function
+  /**
+   * Returns the sort priority for a saint's name.
+   *
+   * Names are grouped by title before being sorted alphabetically:
+   * 1. Holy
+   * 2. St.
+   * 3. Sts.
+   * 4. B. (Blessed)
+   * 5. All other names
+   */
+  const getSortPriority = (name: string): number => {
+    if (name.startsWith("Holy ")) return 0;
+    if (name.startsWith("St. ")) return 1;
+    if (name.startsWith("Sts. ")) return 2;
+    if (name.startsWith("B. ")) return 3;
+    return 4;
+  };
+  // #endregion
+
   // #region variables
   const saintNames = [...saints]
-    .sort((a, b) => a.name.localeCompare(b.name))
+    .sort((a, b) => {
+      const priorityDiff = getSortPriority(a.name) - getSortPriority(b.name);
+
+      if (priorityDiff !== 0) {
+        return priorityDiff;
+      }
+
+      return a.name.localeCompare(b.name);
+    })
     .map((s) => s.name);
   const darkModelogic = darkColor ? "black" : "white";
   // #endregion
