@@ -5,6 +5,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import CoffeeIcon from "@mui/icons-material/Coffee";
 import { Tooltip } from "@mui/material";
+import DiscordIcon from "./DiscordIcon";
 
 const Footer = () => {
   // #region constants
@@ -18,6 +19,11 @@ const Footer = () => {
       name: "Github",
       icon: <GitHubIcon />,
       url: "https://github.com/kyleghughes",
+    },
+    {
+      name: "Discord",
+      icon: <DiscordIcon />,
+      url: "https://discord.gg/vf9ywuj2uK",
     },
     {
       name: "Donate",
