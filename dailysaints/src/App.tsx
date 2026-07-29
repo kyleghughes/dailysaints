@@ -18,7 +18,7 @@ import MobileSearchBar from "./components/MobileSearchBar";
 import dayjs from "dayjs";
 import Footer from "./components/Footer";
 import QuoteCard from "./components/QuoteCard";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 
 // #region helper function
