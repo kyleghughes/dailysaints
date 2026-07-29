@@ -5976,6 +5976,34 @@ export const saints: Saint[] = [
   },
   {
     month: 7,
+    day: 29,
+    name: "St. Olaf",
+    image:
+      "https://catholicism.org/wp-content/blogs.dir/1/files/2000/07/Saint_Olav.jpg",
+    description:
+      "The King of Norway who brought Christianity to his kingdom and gave his life defending the Christian faith.",
+
+    patronOf: "Norway, kings, converts, and Christian rulers",
+
+    longDescription: {
+      earlyLife:
+        "Olaf was born around 995 AD in Ringerike, Norway, into the Norwegian royal family. As a young man, he travelled widely as a Viking warrior before embracing the Christian faith during his journeys in England and Normandy.",
+
+      spiritualLife:
+        "After being baptized, Olaf returned to Norway and became king in 1015 AD. He worked tirelessly to establish Christianity throughout his kingdom by building churches, supporting the clergy, and encouraging the people to embrace the Catholic faith. Although his methods were sometimes forceful, his sincere desire was to unite Norway under Christ and strengthen the Church.",
+
+      death:
+        "Olaf was killed on July 29, 1030 AD, at the Battle of Stiklestad while attempting to reclaim the Norwegian throne. His death was soon regarded as martyrdom for the Christian faith.",
+
+      legacy:
+        "St. Olaf is remembered as the patron saint of Norway and one of the most influential rulers in Scandinavian history. His witness helped establish Christianity permanently in Norway, and his shrine at Nidaros became one of the greatest pilgrimage sites in medieval Europe.",
+
+      canonization:
+        "Olaf was recognized as a saint through the ancient tradition of the Church shortly after his death, with his canonization proclaimed by Bishop Grimkell of Nidaros in 1031 AD.",
+    },
+  },
+  {
+    month: 7,
     day: 30,
     name: "St. Peter Chrysologus",
     image:
