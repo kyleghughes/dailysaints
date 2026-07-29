@@ -18,6 +18,7 @@ import MobileSearchBar from "./components/MobileSearchBar";
 import dayjs from "dayjs";
 import Footer from "./components/Footer";
 import QuoteCard from "./components/QuoteCard";
+import { Analytics } from "@vercel/analytics/next";
 
 // #region helper function
 const { month, day } = getTodayKey();
@@ -82,9 +83,11 @@ const App = () => {
         onToggleMode={toggleMode}
         onSelectSaint={setSelectedSaint}
       />
+
       {isMobile && (
         <MobileSearchBar darkColor={true} onSelectSaint={setSelectedSaint} />
       )}
+
       <Container
         maxWidth="md"
         sx={{
@@ -94,6 +97,7 @@ const App = () => {
         <Box sx={{ mt: 4 }}>
           <QuoteCard />
         </Box>
+
         <Box sx={{ mt: 4, mb: 4 }}>
           {displayedSaints.length > 0 ? (
             <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
@@ -109,8 +113,10 @@ const App = () => {
             </Box>
           )}
         </Box>
+
         <Footer />
       </Container>
+      <Analytics />
     </ThemeProvider>
   );
 };

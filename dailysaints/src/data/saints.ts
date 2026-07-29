@@ -3085,6 +3085,1494 @@ export const saints: Saint[] = [
     },
   },
   {
+    month: 3,
+    day: 1,
+    name: "St. Felix III, Pope",
+    image:
+      "https://www.vaticannews.va/content/dam/vaticannews/santi/20180301_Basilica%20di%20san%20Paolo%20fuori%20le%20mura_medaglioni%20papi_FELICE%20III.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+    description:
+      "A Roman pope known for defending orthodox Christian doctrine and preserving the unity of the Church during theological controversies.",
+
+    patronOf: "Popes, Church leaders, and defenders of the faith",
+
+    longDescription: {
+      earlyLife:
+        "Felix was born in Rome during the 5th century AD into a distinguished Christian family. Before becoming pope, he served the Church faithfully and was respected for his wisdom and commitment to orthodox teaching.",
+
+      spiritualLife:
+        "Felix III was elected Pope in 483 AD. His pontificate was marked by the Acacian Schism, during which he firmly defended the doctrine defined at the Council of Chalcedon concerning the two natures of Christ. He worked tirelessly to preserve the unity and integrity of the Church's teaching despite significant opposition from the Eastern Empire.",
+
+      death:
+        "Felix III died on March 1, 492 AD, in Rome after nearly nine years as pope.",
+
+      legacy:
+        "St. Felix III is remembered for his unwavering defence of Catholic doctrine and his determination to preserve the faith during one of the Church's most significant theological disputes.",
+
+      canonization:
+        "Felix III was recognized as a saint through the ancient tradition of the Church as a holy pope.",
+    },
+  },
+  {
+    month: 3,
+    day: 1,
+    name: "St. Albinus of Angers",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2021/02/st-albinus-bishop-of-angers-confessor-header.jpg",
+    description:
+      "A French bishop known for his holiness, charity, and efforts to reform Christian family life and defend the poor.",
+
+    patronOf: "Angers, France, bishops, and those seeking justice",
+
+    longDescription: {
+      earlyLife:
+        "Albinus was born around 470 AD near Vannes in Brittany, France. He entered the monastery of Tintillant at a young age and was later elected abbot because of his wisdom and exemplary way of life.",
+
+      spiritualLife:
+        "In 529 AD, Albinus became Bishop of Angers. He was a courageous defender of Christian morality, opposing unlawful marriages and protecting the rights of the poor and imprisoned. He frequently ransomed captives and was known for his compassion, justice, and pastoral care.",
+
+      death:
+        "Albinus died on March 1, 550 AD, in Angers, France, after faithfully serving his people as bishop.",
+
+      legacy:
+        "St. Albinus is remembered as a reforming bishop whose concern for justice, charity, and the dignity of family life made him one of the most respected bishops of Merovingian France.",
+
+      canonization:
+        "Albinus was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 2,
+    name: "St. Angela of the Cross",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Santa_%C3%81ngela_de_la_Cruz_%281846-1932%29.jpg",
+    description:
+      "A Spanish religious sister and foundress known for her humble service to the poor, the sick, and the abandoned.",
+
+    patronOf: "The poor, the sick, religious sisters, and caregivers",
+
+    longDescription: {
+      earlyLife:
+        "Angela of the Cross was born María de los Ángeles Guerrero González on January 30, 1846 AD, in Seville, Spain. Raised in a poor but devout family, she worked as a shoemaker from a young age while developing a deep life of prayer and charity.",
+
+      spiritualLife:
+        "After discerning her vocation, Angela founded the Institute of the Sisters of the Company of the Cross in 1875 AD. The congregation dedicated itself to caring for the poor, the elderly, and the sick in their own homes. Angela lived in radical humility, insisting that her sisters serve Christ by serving the most neglected members of society.",
+
+      death:
+        "Angela of the Cross died on March 2, 1932 AD, in Seville after a lifetime devoted to humble service and love for the poor.",
+
+      legacy:
+        "St. Angela of the Cross is remembered as one of Spain's great saints of charity. Her congregation continues her mission of serving those most in need with humility, compassion, and Christian love.",
+
+      canonization:
+        "Angela of the Cross was beatified by Pope John Paul II in 1982 AD and canonized by Pope John Paul II on May 4, 2003 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 3,
+    name: "St. Cunegunda",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQkwICCxc1FLgcHPmy3eFciP7iUkukJQ1GUERNDLZLVA1oPyaUgIaHlk&s=10",
+    description:
+      "A Holy Roman Empress renowned for her deep faith, charity, and support of the Church alongside her husband, Emperor St. Henry II.",
+
+    patronOf:
+      "Luxembourg, childless couples, empresses, and those falsely accused",
+
+    longDescription: {
+      earlyLife:
+        "Cunegunda was born around 975 AD into the noble House of Luxembourg. Raised in a devout Christian family, she received an education that fostered a strong love for God and a commitment to serving others.",
+
+      spiritualLife:
+        "Cunegunda married St. Henry II, Holy Roman Emperor, and together they dedicated their marriage to God, according to tradition living in perpetual continence. She generously supported monasteries, churches, and charitable works throughout the empire. Following Henry's death, she entered the Benedictine Abbey of Kaufungen, which she had founded, where she lived the remainder of her life in humility and prayer as a nun.",
+
+      death:
+        "Cunegunda died on March 3, 1033 AD, at Kaufungen Abbey in present-day Germany.",
+
+      legacy:
+        "St. Cunegunda is remembered for combining the responsibilities of an empress with a life of holiness, generosity, and humility. She remains an example of Christian leadership, charity, and trust in God's providence.",
+
+      canonization: "Cunegunda was canonized by Pope Innocent III in 1200 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 4,
+    name: "B. Humbert III of Savoy",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2024/03/bl-humbert-iii-header-1-ritratto_di_umberto_iii_di_savoia.jpg",
+    description:
+      "A Count of Savoy remembered for his piety, justice, generosity to the poor, and devotion to the Church.",
+
+    patronOf: "Rulers, widowers, and those seeking wisdom in leadership",
+
+    longDescription: {
+      earlyLife:
+        "Humbert III was born on August 1, 1136 AD, in Avigliana, Piedmont. He became Count of Savoy at a young age following the death of his father and was raised with a deep appreciation for the Christian faith.",
+
+      spiritualLife:
+        "Although he longed to enter monastic life, Humbert accepted his responsibilities as ruler. He governed with justice and compassion, supported monasteries, and generously cared for the poor. Throughout his reign, he sought to promote peace while remaining faithful to the teachings of the Church.",
+
+      death:
+        "Humbert died on March 4, 1189 AD, at Chambéry after more than forty years as Count of Savoy.",
+
+      legacy:
+        "Blessed Humbert III is remembered as a model of Christian leadership who placed the welfare of his people above personal ambition and lived a life marked by prayer, charity, and humility.",
+
+      canonization: "Humbert III was beatified by Pope Gregory XVI in 1838 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 4,
+    name: "St. Casimir of Lithuania",
+    image:
+      "https://www.britishpoles.uk/wp-content/uploads/2025/03/Sw-Kazimierz.jpeg",
+    description:
+      "A Polish prince renowned for his purity, humility, charity, and unwavering devotion to God despite his royal status.",
+
+    patronOf: "Lithuania, Poland, young people, and rulers",
+
+    longDescription: {
+      earlyLife:
+        "Casimir was born on October 3, 1458 AD, in Kraków, Poland, the son of King Casimir IV of Poland and Elizabeth of Austria. He received an excellent education and was known from an early age for his piety and compassion for the poor.",
+
+      spiritualLife:
+        "Though destined for political leadership, Casimir preferred a life of prayer, simplicity, and service. He refused opportunities for worldly advancement that conflicted with his conscience and devoted himself to caring for the poor and defending the Christian faith. His deep devotion to the Blessed Virgin Mary was reflected in his daily life and prayer.",
+
+      death:
+        "Casimir died on March 4, 1484 AD, in Grodno, at the age of twenty-five after suffering from tuberculosis.",
+
+      legacy:
+        "St. Casimir is remembered as a model of youthful holiness who demonstrated that political power and personal wealth are best used in the service of God and others. He remains one of the principal patron saints of Lithuania.",
+
+      canonization: "Casimir was canonized by Pope Clement VIII in 1602 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 5,
+    name: "St. Lucius I, Pope",
+    image:
+      "https://www.vaticannews.va/content/dam/vaticannews/santi/20180305_Basilica%20di%20san%20Paolo%20fuori%20le%20mura_medaglioni%20papi_LUCIO.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+    description:
+      "An early Roman pope and martyr known for defending the faith, caring for persecuted Christians, and maintaining Church discipline during a time of persecution.",
+
+    patronOf: "Popes, clergy, and those facing persecution",
+
+    longDescription: {
+      earlyLife:
+        "Lucius was born in Rome during the 3rd century AD. Little is known about his early life, but he became a respected member of the Roman clergy before being elected Pope.",
+
+      spiritualLife:
+        "Lucius became Pope in 253 AD, during a period when Christians were recovering from the persecution under Emperor Decius. He continued the work of his predecessor, Pope St. Cornelius, by defending the reconciliation of Christians who had fallen away during persecution but wished to return to the Church. He also maintained discipline among the clergy and cared for the poor and persecuted.",
+
+      death:
+        "Lucius died on March 5, 254 AD, in Rome. According to tradition, he was martyred during the persecution under Emperor Valerian, although historical details of his death remain uncertain.",
+
+      legacy:
+        "St. Lucius I is remembered as a compassionate shepherd who guided the Church through a difficult period and upheld both mercy and faithfulness in Christian discipline.",
+
+      canonization:
+        "Lucius I was recognized as a saint through the ancient tradition of the Church as a holy pope and martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 5,
+    name: "St. Adrian of Batanea",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Menologion_of_Basil_II_-_Adrian_of_Batanea_and_Eubulus.jpg",
+    description:
+      "An early Christian martyr of Batanea in Palestine who gave his life for Christ during the persecution of Emperor Diocletian.",
+
+    patronOf:
+      "Those facing persecution and Christians seeking courage in faith",
+
+    longDescription: {
+      earlyLife:
+        "Adrian was a Christian who lived in Batanea, Palestine, during the early 4th century AD. Little is known about his early life, but he belonged to the Christian community during one of the most severe periods of persecution in the Roman Empire.",
+
+      spiritualLife:
+        "During the persecution under Emperor Diocletian, Adrian openly professed his Christian faith and refused to participate in pagan worship. His courage and willingness to suffer for Christ became a witness to other believers.",
+
+      death:
+        "Adrian was martyred around 309 AD in Batanea, Palestine, during the persecution of Emperor Diocletian and his successors.",
+
+      legacy:
+        "St. Adrian of Batanea is remembered as a faithful witness of the early Church and an example of courage in the face of persecution.",
+
+      canonization:
+        "Adrian was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 5,
+    name: "St. John Joseph of the Cross",
+    image:
+      "https://connection.newmanministry.com/wp-content/uploads/2024/10/1afdcfaf-36d4-4010-b022-ee0df57f2ca2-1200x1653.jpg",
+    description:
+      "An Italian Franciscan friar known for his humility, strict observance of religious life, and deep devotion to Christ and the poor.",
+
+    patronOf: "Franciscans, religious communities, and those seeking humility",
+
+    longDescription: {
+      earlyLife:
+        "John Joseph of the Cross was born Carlo Gaetano Calosirto on August 15, 1654 AD, on the island of Ischia, Italy. At a young age, he entered the Order of Friars Minor and became one of the first Italians to join the Alcantarine reform of the Franciscans.",
+
+      spiritualLife:
+        "John Joseph lived a life of prayer, penance, and service, following the example of St. Peter of Alcántara. He held positions of leadership within his community but remained humble and devoted to serving others. He was known for his care for the poor, his guidance in confession, and his deep devotion to the Passion of Christ.",
+
+      death:
+        "John Joseph of the Cross died on March 5, 1734 AD, in Naples, Italy, after many years of religious life.",
+
+      legacy:
+        "St. John Joseph of the Cross is remembered as a model Franciscan who combined strict spiritual discipline with great charity and humility.",
+
+      canonization:
+        "John Joseph of the Cross was canonized by Pope Gregory XVI in 1839 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 6,
+    name: "St. Rose of Viterbo",
+    image:
+      "https://faith.nd.edu/wp-content/uploads/2024/09/St.-Rose-of-Viterbo-e1743688209541.jpg",
+    description:
+      "An Italian virgin and mystic known for her preaching, devotion to the poor, and defence of the Catholic faith during political and religious conflict.",
+
+    patronOf: "Viterbo, exiles, florists, and young people",
+
+    longDescription: {
+      earlyLife:
+        "Rose was born around 1233 AD in Viterbo, Italy, into a humble Christian family. From childhood, she showed a deep devotion to prayer and concern for the poor. According to tradition, she experienced mystical visions and a strong desire to serve God from an early age.",
+
+      spiritualLife:
+        "Rose became a public defender of the Catholic faith during conflicts between supporters of the Pope and those loyal to imperial authority. She preached repentance and encouraged people to remain faithful to the Church. Although she faced opposition and was eventually expelled from Viterbo, she continued her life of prayer and charity.",
+
+      death:
+        "Rose of Viterbo died on March 6, 1251 AD, in Viterbo, Italy, at around eighteen years of age.",
+
+      legacy:
+        "St. Rose of Viterbo is remembered as a remarkable young witness to faith whose courage, devotion, and love for the Church inspired generations of Christians.",
+
+      canonization:
+        "Rose of Viterbo was canonized by Pope Alexander IV in 1457 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 6,
+    name: "St. Colette Boylet",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2021/03/santa_coletta-o_colette-di_corbie_a.jpg?w=480",
+    description:
+      "A French Franciscan religious reformer and foundress known for renewing the Poor Clare Order and promoting a life of poverty, prayer, and penance.",
+
+    patronOf:
+      "Poor Clares, widows, expectant mothers, and those seeking reform in religious life",
+
+    longDescription: {
+      earlyLife:
+        "Colette Boylet was born Nicolette Boellet on January 13, 1381 AD, in Corbie, France. After the death of her parents, she entered religious life and became a member of the Third Order of St. Francis before seeking a stricter life of solitude and prayer.",
+
+      spiritualLife:
+        "Colette became a hermit under the direction of the Franciscan Order and later reformed the Poor Clare monasteries, restoring the original spirit of poverty and simplicity intended by St. Clare of Assisi. She founded numerous monasteries of the Colettine Poor Clares and dedicated her life to prayer, penance, and renewal of religious discipline.",
+
+      death:
+        "Colette Boylet died on March 6, 1447 AD, in Ghent, Belgium, after a lifetime devoted to reforming religious life.",
+
+      legacy:
+        "St. Colette is remembered as one of the great women reformers of the Franciscan tradition. The monasteries she founded continue her emphasis on contemplation, poverty, and devotion to Christ.",
+
+      canonization: "Colette Boylet was canonized by Pope Pius VII in 1807 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 7,
+    name: "Sts. Perpetua and Felicitas",
+    image:
+      "https://connection.newmanministry.com/wp-content/uploads/2024/10/a2d0ff5e-a859-4e83-882a-6b47c7edc9a1-1200x1423.jpg",
+    description:
+      "Two early Christian martyrs of Carthage remembered for their extraordinary courage, faith, and witness while imprisoned for Christ.",
+
+    patronOf:
+      "Mothers, expectant mothers, martyrs, and those facing persecution",
+
+    longDescription: {
+      earlyLife:
+        "Perpetua was a young noblewoman from Carthage, North Africa, who lived during the 3rd century AD. Felicitas was her fellow Christian and servant, who was pregnant while imprisoned. Both women belonged to a group of catechumens preparing for baptism.",
+
+      spiritualLife:
+        "During the persecution under Emperor Septimius Severus, Perpetua, Felicitas, and their companions were arrested for their Christian faith. Despite pressure from family and authorities to renounce Christ, they remained steadfast. Perpetua's prison writings, known as the 'Passion of Perpetua and Felicitas', are among the earliest surviving Christian texts written by a woman.",
+
+      death:
+        "Perpetua and Felicitas were martyred on March 7, 203 AD, in Carthage, North Africa, after refusing to deny their faith.",
+
+      legacy:
+        "Saints Perpetua and Felicitas are among the most celebrated martyrs of the early Church. Their courage, especially as women facing persecution, has inspired Christians for centuries.",
+
+      canonization:
+        "Perpetua and Felicitas were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
+    },
+  },
+  {
+    month: 3,
+    day: 7,
+    name: "St. Teresa Margaret Redi",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYHBAXSdNLPcftKzLPxZRaDhixF0YEyVjKDkupUdMcnZTOThwLEv0Dfu-y&s=10",
+    description:
+      "An Italian Carmelite nun known for her hidden life of prayer, humility, and profound devotion to the love of God.",
+
+    patronOf:
+      "Carmelite nuns, spiritual growth, and those seeking a life of prayer",
+
+    longDescription: {
+      earlyLife:
+        "Teresa Margaret Redi was born Anna Maria Redi on July 15, 1747 AD, in Arezzo, Italy, into a noble Christian family. From childhood, she showed a strong desire for holiness and entered the Carmelite convent of St. Teresa in Florence at the age of eighteen.",
+
+      spiritualLife:
+        "As a Carmelite nun, Teresa Margaret lived a deeply interior life centred on prayer, humility, and love of God. She was especially devoted to the words of St. John: 'God is love.' Although her life appeared ordinary, she was known among her sisters for extraordinary charity, obedience, and hidden holiness.",
+
+      death:
+        "Teresa Margaret Redi died on March 7, 1770 AD, in Florence, Italy, at the age of twenty-two.",
+
+      legacy:
+        "St. Teresa Margaret Redi is remembered as a model of contemplative holiness, showing that deep union with God can be found through humility, love, and faithful daily service.",
+
+      canonization:
+        "Teresa Margaret Redi was canonized by Pope Pius XI in 1934 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 8,
+    name: "St. John of God",
+    image:
+      "https://saintmichaelusa.org/wp-content/uploads/2021/03/john-of-god.jpg",
+    description:
+      "A Portuguese religious brother and founder known for his care of the sick, the poor, and the abandoned, establishing a lasting tradition of Christian healthcare.",
+
+    patronOf:
+      "Hospitals, nurses, the sick, firefighters, and healthcare workers",
+
+    longDescription: {
+      earlyLife:
+        "John of God was born João Cidade around 1495 AD in Montemor-o-Novo, Portugal. As a young man, he lived a varied life as a shepherd, soldier, and travelling labourer before experiencing a profound conversion while listening to the preaching of St. John of Ávila.",
+
+      spiritualLife:
+        "After his conversion, John dedicated himself completely to serving Christ in the poor and suffering. He collected abandoned and sick people from the streets of Granada, Spain, caring for them with great compassion. His work eventually developed into the Order of Brothers Hospitallers of St. John of God, dedicated to the care of the sick and those in need.",
+
+      death:
+        "John of God died on March 8, 1550 AD, in Granada, Spain, while praying before a crucifix after a life of service and charity.",
+
+      legacy:
+        "St. John of God is remembered as one of the great saints of Christian charity. The order he founded continues to operate hospitals and healthcare services throughout the world, inspired by his example of compassionate care.",
+
+      canonization:
+        "John of God was canonized by Pope Alexander VIII in 1690 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 9,
+    name: "Sts. Forty Martyrs of Sebaste",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/3b/FortyMartyrsofSebaste.JPG",
+    description:
+      "A group of Roman soldiers who were martyred for their Christian faith after refusing to renounce Christ.",
+
+    patronOf:
+      "Soldiers, those facing persecution, and Christians seeking perseverance",
+
+    longDescription: {
+      earlyLife:
+        "The Forty Martyrs of Sebaste were soldiers of the Roman army stationed in Sebaste, Armenia, during the early 4th century AD. They were Christians who served faithfully while remaining devoted to Christ.",
+
+      spiritualLife:
+        "During the persecution of Emperor Licinius, the soldiers were ordered to sacrifice to pagan gods. They refused and were imprisoned, tortured, and condemned to death. According to tradition, they were exposed naked on a frozen lake and encouraged one another to remain faithful until the end.",
+
+      death:
+        "The Forty Martyrs of Sebaste were martyred around 320 AD in Sebaste, Armenia, after enduring suffering rather than deny their faith.",
+
+      legacy:
+        "The Forty Martyrs are remembered as one of the most famous groups of early Christian martyrs. Their unity and courage became a powerful example of faithfulness and brotherhood in Christ.",
+
+      canonization:
+        "The Forty Martyrs of Sebaste were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
+    },
+  },
+  {
+    month: 3,
+    day: 9,
+    name: "St. Catherine of Bologna",
+    image:
+      "https://static.wixstatic.com/media/909794_cb909a76abd048eea0219c6bf437161e~mv2.jpg/v1/fill/w_458,h_455,al_c,lg_1,q_80/909794_cb909a76abd048eea0219c6bf437161e~mv2.jpg",
+    description:
+      "An Italian Poor Clare nun known for her mystical experiences, devotion to Christ, and contributions to Christian art and spirituality.",
+
+    patronOf: "Artists, painters, liberal arts, and Bologna",
+
+    longDescription: {
+      earlyLife:
+        "Catherine was born Caterina de' Vigri on September 8, 1413 AD, in Bologna, Italy, into a noble family. She received a strong education and developed an early love for prayer, Scripture, and the arts.",
+
+      spiritualLife:
+        "Catherine entered religious life and eventually became a Poor Clare nun. She served as abbess of the monastery of Corpus Domini in Bologna and was known for her humility, mystical visions, and devotion to the Passion of Christ. She also wrote spiritual works and created religious artwork, using her talents to glorify God.",
+
+      death:
+        "Catherine of Bologna died on March 9, 1463 AD, in Bologna, Italy.",
+
+      legacy:
+        "St. Catherine of Bologna is remembered as a model of contemplative holiness and as a rare example of a saint who combined deep spirituality with artistic creativity.",
+
+      canonization:
+        "Catherine of Bologna was canonized by Pope Clement XI in 1712 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 9,
+    name: "St. Francesca Romana",
+    image:
+      "https://gndm.it/wp-content/uploads/2023/08/visione-santa-francesca-romana-gndm-full-scaled.jpg",
+    description:
+      "An Italian noblewoman and foundress known for her charity, humility, and dedication to serving the poor while living a life of prayer.",
+
+    patronOf: "Widows, motorists, Benedictine Oblates, and Rome",
+
+    longDescription: {
+      earlyLife:
+        "Francesca Romana was born Francesca Bussa de' Leoni in 1384 AD in Rome, Italy, into a noble family. From childhood, she desired a religious life, but she accepted marriage and became the wife of Lorenzo Ponziano, with whom she had several children.",
+
+      spiritualLife:
+        "Despite her responsibilities as a wife and mother, Francesca lived a life of deep prayer and charity. During times of war and plague, she cared for the poor, the sick, and abandoned people in Rome. After becoming a widow, she founded the Oblates of Mary, a community of women dedicated to serving God while remaining in the world.",
+
+      death: "Francesca Romana died on March 9, 1440 AD, in Rome, Italy.",
+
+      legacy:
+        "St. Francesca Romana is remembered as a model of holiness in ordinary life, showing that family responsibilities, charity, and devotion to God can be united.",
+
+      canonization: "Francesca Romana was canonized by Pope Paul V in 1608 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 10,
+    name: "St. Simplicius, Pope",
+    image:
+      "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog883815/47-St_Simplicius_1200x628.jpg?s=e6d751e5de774f5321f8d6766d083bd8&e=jpg",
+    description:
+      "A Roman pope known for defending the faith, supporting the decisions of the Council of Chalcedon, and guiding the Church during the fall of the Western Roman Empire.",
+
+    patronOf: "Popes, Church leaders, and defenders of orthodox teaching",
+
+    longDescription: {
+      earlyLife:
+        "Simplicius was born in Tivoli, Italy, during the 5th century AD. Little is known about his early life, but he became a member of the Roman clergy before being elected pope.",
+
+      spiritualLife:
+        "Simplicius became Pope in 468 AD during a period of great political and religious uncertainty. He defended the teachings of the Council of Chalcedon concerning the nature of Christ and opposed theological errors that threatened the unity of the Church. He also worked to preserve the Church's presence in Rome as the Western Roman Empire collapsed and supported charitable works for the poor.",
+
+      death:
+        "Simplicius died on March 10, 483 AD, in Rome after fifteen years of service as pope.",
+
+      legacy:
+        "St. Simplicius is remembered as a steadfast shepherd who protected Catholic doctrine and guided the Church through one of the most challenging periods of late antiquity.",
+
+      canonization:
+        "Simplicius was recognized as a saint through the ancient tradition of the Church as a holy pope.",
+    },
+  },
+  {
+    month: 3,
+    day: 10,
+    name: "St. John Ogilvie",
+    image:
+      "https://i0.wp.com/www.americamagazine.org/wp-content/uploads/2017/01/saints3-9ogilivie-203874.gif?fit=500%2C610&ssl=1",
+    description:
+      "A Scottish Jesuit priest and martyr known for his courage in secretly serving Catholics during the persecution of the Church in Scotland.",
+
+    patronOf: "Scotland, priests, and those persecuted for their faith",
+
+    longDescription: {
+      earlyLife:
+        "John Ogilvie was born around 1579 AD near Keith, Scotland, into a noble Protestant family. During his studies in Europe, he converted to Catholicism and entered the Society of Jesus, eventually being ordained a priest.",
+
+      spiritualLife:
+        "John returned to Scotland as a missionary priest in 1613 AD, where Catholic worship was forbidden. He secretly celebrated Mass, reconciled Catholics with the Church, and encouraged the faithful to remain steadfast. After being arrested, he endured imprisonment and torture but refused to reveal the names of those who helped him or abandon his faith.",
+
+      death:
+        "John Ogilvie was martyred on March 10, 1615 AD, in Glasgow, Scotland, when he was executed for his priesthood and loyalty to the Catholic faith.",
+
+      legacy:
+        "St. John Ogilvie is remembered as Scotland's great Catholic martyr of the Reformation era and as an example of courage, fidelity, and missionary zeal.",
+
+      canonization: "John Ogilvie was canonized by Pope Paul VI in 1976 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 11,
+    name: "St. Sophronius of Jerusalem",
+    image:
+      "https://byzantinela.com/wp-content/uploads/2022/03/Mar11-Sophronius.jpg",
+    description:
+      "A Patriarch of Jerusalem, theologian, and defender of the Catholic faith known for preserving orthodox teaching during a time of theological controversy.",
+
+    patronOf: "Jerusalem, theologians, and defenders of the faith",
+
+    longDescription: {
+      earlyLife:
+        "Sophronius was born around 560 AD in Damascus, Syria. He was highly educated and became a teacher before entering monastic life. He travelled widely with other monks, studying the spiritual traditions of the Church.",
+
+      spiritualLife:
+        "Sophronius became Patriarch of Jerusalem in 634 AD. He defended the true faith against Monothelitism, a theological error concerning the will of Christ, and worked to preserve the teachings of the Church. During the Muslim conquest of Jerusalem, he sought to protect the city's Christian population and sacred places.",
+
+      death:
+        "Sophronius died on March 11, 638 AD, in Jerusalem after years of faithful service as patriarch.",
+
+      legacy:
+        "St. Sophronius is remembered as a courageous defender of Christian doctrine, a gifted writer, and a protector of the traditions of the Church in the Holy Land.",
+
+      canonization:
+        "Sophronius was recognized as a saint through the ancient tradition of the Church as a holy patriarch.",
+    },
+  },
+  {
+    month: 3,
+    day: 11,
+    name: "St. Eulogius of Córdoba",
+    image:
+      "https://catholicexchange.com/wp-content/uploads/2025/03/937px-Horb_Stiftskirche_Orgelempore_Eulogius-e1771974019938.jpg",
+    description:
+      "A Spanish priest and martyr known for defending the Christian faith during the persecution of Christians in Muslim-ruled Córdoba.",
+
+    patronOf: "Priests, martyrs, and those defending the faith",
+
+    longDescription: {
+      earlyLife:
+        "Eulogius was born in Córdoba, Spain, during the early 9th century AD. He received a strong Christian education and became a priest, dedicating himself to teaching and supporting the Christian community.",
+
+      spiritualLife:
+        "Eulogius encouraged Christians who faced persecution under the Islamic rulers of Córdoba. He supported those imprisoned for their faith, defended Christian teaching, and wrote accounts of the martyrs who gave their lives for Christ. His own courage eventually led to his arrest.",
+
+      death:
+        "Eulogius was martyred on March 11, 859 AD, in Córdoba after refusing to deny the Christian faith.",
+
+      legacy:
+        "St. Eulogius is remembered as one of the great Martyrs of Córdoba and as a faithful priest who strengthened the Church through his writings and example.",
+
+      canonization:
+        "Eulogius was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 12,
+    name: "St. Maximilian of Tebessa",
+    image:
+      "https://www.vermontcatholic.org/wp-content/uploads/2026/03/VTCSpring2026_Saint_March_IMG_website.jpg",
+    description:
+      "A young Christian martyr who refused military service because of his faith and became a witness to the primacy of loyalty to Christ.",
+
+    patronOf:
+      "Conscientious objectors, soldiers, and those seeking courage in faith",
+
+    longDescription: {
+      earlyLife:
+        "Maximilian was born around 274 AD in Tebessa, North Africa. He was the son of a Roman army veteran and was called to military service during a time when Christians faced pressure to participate in practices connected with Roman religion.",
+
+      spiritualLife:
+        "When Maximilian was ordered to join the Roman army, he refused, declaring that as a Christian he could not serve in a military system that required participation in pagan rituals. Despite attempts to persuade him, he remained firm in his faith and chose obedience to Christ over earthly commands.",
+
+      death:
+        "Maximilian was martyred on March 12, 295 AD, in Tebessa, North Africa, at the age of twenty-one after refusing military service because of his Christian convictions.",
+
+      legacy:
+        "St. Maximilian of Tebessa is remembered as one of the earliest Christian witnesses associated with conscientious objection and as an example of courageously following one's faith despite the consequences.",
+
+      canonization:
+        "Maximilian was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 12,
+    name: "St. Innocent I, Pope",
+    image:
+      "https://www.vaticannews.va/content/dam/vaticannews/santi/20190312_Basilica%20di%20san%20Paolo%20fuori%20le%20mura_medaglioni%20papi_INNOCENZO%20I.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+    description:
+      "A Roman pope known for defending Church authority, supporting orthodox teaching, and guiding the faithful during the decline of the Western Roman Empire.",
+
+    patronOf: "Popes, Church leaders, and defenders of Christian unity",
+
+    longDescription: {
+      earlyLife:
+        "Innocent was born in Albano, Italy, during the late 4th century AD. He was the son of Pope Anastasius I and became a member of the Roman clergy before being elected pope.",
+
+      spiritualLife:
+        "Innocent became Pope in 401 AD and strongly defended the authority of the Bishop of Rome. He supported St. John Chrysostom during his exile, worked to maintain unity among the churches, and addressed theological disputes, including those surrounding Pelagianism. He also helped coordinate relief efforts after the sack of Rome in 410 AD.",
+
+      death:
+        "Innocent I died on March 12, 417 AD, in Rome after sixteen years of service as pope.",
+
+      legacy:
+        "St. Innocent I is remembered as an influential early pope who strengthened the role of the papacy and defended the teachings and unity of the Church during a time of great change.",
+
+      canonization:
+        "Innocent I was recognized as a saint through the ancient tradition of the Church as a holy pope.",
+    },
+  },
+  {
+    month: 3,
+    day: 13,
+    name: "St. Sabinus of Hermopolis",
+    image: "https://images.oca.org/icons/sm/march/0316sabinasegypt.jpg",
+    description:
+      "An Egyptian martyr remembered for his steadfast faith and courage during the persecutions of the early Church.",
+
+    patronOf: "Those facing persecution and Christians seeking perseverance",
+
+    longDescription: {
+      earlyLife:
+        "Sabinus was a Christian from Hermopolis in Egypt who lived during the early centuries of the Church. Little is known about his early life, but he belonged to the Christian community during a period of intense persecution under the Roman Empire.",
+
+      spiritualLife:
+        "Sabinus remained faithful to Christ despite the dangers faced by Christians in Egypt. According to tradition, he encouraged fellow believers and refused to renounce his faith when challenged by pagan authorities.",
+
+      death:
+        "Sabinus was martyred around the 3rd century AD in Hermopolis, Egypt, during a period of persecution against Christians.",
+
+      legacy:
+        "St. Sabinus of Hermopolis is remembered as a witness to the faith whose courage strengthened the early Christian community in Egypt.",
+
+      canonization:
+        "Sabinus was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 13,
+    name: "St. Christina of Persia",
+    image:
+      "https://static.wikia.nocookie.net/eastern-orthodox/images/d/df/Cristina.png/revision/latest?cb=20240401155916",
+    description:
+      "An early Christian martyr known for her courage in remaining faithful to Christ despite persecution in Persia.",
+
+    patronOf: "Those facing persecution and converts seeking strength in faith",
+
+    longDescription: {
+      earlyLife:
+        "Christina lived in Persia during the early centuries of Christianity, a time when Christians in the Persian Empire often faced opposition and persecution. Little is known about her family or early life.",
+
+      spiritualLife:
+        "Christina embraced the Christian faith and refused to abandon Christ when pressured by authorities. Her steadfastness became a witness to the strength of Christian faith in the face of suffering.",
+
+      death:
+        "Christina was martyred in Persia during the 4th century AD after enduring persecution because of her Christian faith.",
+
+      legacy:
+        "St. Christina of Persia is remembered as an example of courage and fidelity among the early martyrs of the Eastern Church.",
+
+      canonization:
+        "Christina was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 13,
+    name: "St. Leander of Seville",
+    image:
+      "https://images.oca.org/icons/lg/february/0227leandre-of-seville0012.jpg",
+    description:
+      "A Spanish bishop known for strengthening the Catholic faith in Spain, promoting monastic life, and helping bring the Visigoths into full communion with the Church.",
+
+    patronOf: "Bishops, theologians, and those working for Christian unity",
+
+    longDescription: {
+      earlyLife:
+        "Leander was born around 534 AD in Cartagena, Spain, into a Christian family that produced several saints, including St. Isidore of Seville, St. Fulgentius of Cartagena, and St. Florentina. He later became a monk and devoted himself to the study of theology.",
+
+      spiritualLife:
+        "Leander became Archbishop of Seville and played a major role in the conversion of the Visigothic king Reccared I from Arianism to Catholic Christianity. He helped organize the Third Council of Toledo in 589 AD, which marked a major moment in the religious unity of Spain. He also promoted monastic life and encouraged deeper Christian education.",
+
+      death:
+        "Leander died around 600 AD in Seville, Spain, after many years of service as archbishop.",
+
+      legacy:
+        "St. Leander of Seville is remembered as one of the great bishops of Visigothic Spain. His work helped establish Catholic unity throughout the Iberian Peninsula and influenced the writings of his brother St. Isidore of Seville.",
+
+      canonization:
+        "Leander was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 14,
+    name: "St. Matilda",
+    image: "https://www.catholic.org/files/images/saints/307.jpg",
+    description:
+      "A German queen known for her humility, generosity, and dedication to charity, prayer, and the founding of churches and monasteries.",
+
+    patronOf: "Queens, widows, large families, and those serving the poor",
+
+    longDescription: {
+      earlyLife:
+        "Matilda was born around 895 AD in Enger, Saxony, into a noble Saxon family. She was educated by her grandmother at the monastery of Herford, where she developed a strong foundation in Christian faith and charity.",
+
+      spiritualLife:
+        "Matilda married Henry the Fowler, Duke of Saxony and later King of Germany. As queen, she used her position to support the poor, establish monasteries, and encourage religious life. After her husband's death, she devoted herself even more deeply to prayer, charity, and caring for those in need, despite facing opposition from members of her own family.",
+
+      death:
+        "Matilda died on March 14, 968 AD, at the monastery of Quedlinburg, Germany, which she had helped establish.",
+
+      legacy:
+        "St. Matilda is remembered as a model of Christian queenship, showing how wealth and influence can be used in service of God and the vulnerable.",
+
+      canonization:
+        "Matilda was recognized as a saint through the ancient tradition of the Church as a holy queen.",
+    },
+  },
+  {
+    month: 3,
+    day: 14,
+    name: "St. Placido Riccardi",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2024/03/bl-placidus_riccardi.jpg",
+    description:
+      "An Italian Benedictine monk known for his deep prayer life, humility, and devotion to the renewal of monastic spirituality.",
+
+    patronOf: "Benedictines, monks, and those seeking a life of prayer",
+
+    longDescription: {
+      earlyLife:
+        "Placido Riccardi was born Tommaso Riccardi on June 24, 1844 AD, in Trevi, Italy. After studying law, he felt called to religious life and entered the Benedictine monastery of St. Paul Outside the Walls in Rome.",
+
+      spiritualLife:
+        "As a Benedictine monk, Placido dedicated himself to prayer, penance, and service. He lived a hidden life of holiness marked by humility and obedience, while also serving as a spiritual guide for others. Despite suffering from illness throughout his life, he remained faithful to his vocation and united his suffering with Christ.",
+
+      death:
+        "Placido Riccardi died on March 15, 1915 AD, at the monastery of Farfa, Italy, after many years of Benedictine religious life.",
+
+      legacy:
+        "St. Placido Riccardi is remembered as an example of Benedictine spirituality, showing the importance of perseverance, humility, and trust in God through suffering.",
+
+      canonization:
+        "Placido Riccardi was beatified by Pope Pius XII in 1951 AD and canonized by Pope John Paul II in 2005 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 15,
+    name: "St. Clement Mary Hofbauer",
+    image:
+      "https://www.africaredemptorists.com/wp-content/uploads/2019/03/tumblr_ndkftycWjb1sknvnko1_500.jpg",
+    description:
+      "An Austrian Redemptorist priest known for his missionary zeal, care for the poor, and efforts to renew Catholic life in Central Europe.",
+
+    patronOf: "Bakers, Vienna, parish priests, and missionaries",
+
+    longDescription: {
+      earlyLife:
+        "Clement Mary Hofbauer was born Johannes Hofbauer on December 26, 1751 AD, in Tasswitz, Moravia. After the death of his father, he worked as a baker before discerning a vocation to the priesthood. He studied theology and later joined the Congregation of the Most Holy Redeemer, founded by St. Alphonsus Liguori.",
+
+      spiritualLife:
+        "Clement dedicated his life to preaching the Gospel, hearing confessions, and caring for the spiritual needs of the faithful. He brought the Redemptorist mission to Central Europe and worked tirelessly in Vienna, where he helped revive Catholic faith after the challenges of the Enlightenment and religious conflicts. He was known for his compassion toward the poor and his dedication to the Sacraments.",
+
+      death:
+        "Clement Mary Hofbauer died on March 15, 1820 AD, in Vienna, Austria, after many years of priestly ministry.",
+
+      legacy:
+        "St. Clement Mary Hofbauer is remembered as the second founder of the Redemptorists and as a great missionary who helped restore Catholic devotion in Europe.",
+
+      canonization:
+        "Clement Mary Hofbauer was canonized by Pope Pius X in 1909 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 15,
+    name: "St. Zachary, Pope",
+    image:
+      "https://www.vaticannews.va/content/dam/vaticannews/santi/20180315_Basilica%20di%20san%20Paolo%20fuori%20le%20mura_medaglioni%20papi_ZACCARIA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+    description:
+      "A Greek pope known for his wisdom, charity, and efforts to preserve peace and strengthen the Church during a time of political instability.",
+
+    patronOf: "Popes, Church leaders, and those seeking wisdom",
+
+    longDescription: {
+      earlyLife:
+        "Zachary was born in Calabria, Italy, during the 7th century AD, into a Greek-speaking family. Little is known about his early life, but he became a member of the Roman clergy before being elected pope.",
+
+      spiritualLife:
+        "Zachary became Pope in 741 AD and was known for his gentle leadership and diplomatic skill. He worked to maintain peace between the Church and secular rulers, supported missionary efforts in Germany, and helped strengthen the work of St. Boniface. He also promoted charity and care for the poor.",
+
+      death:
+        "Zachary died on March 15, 752 AD, in Rome after eleven years as pope.",
+
+      legacy:
+        "St. Zachary is remembered as a wise and peaceful pope who guided the Church through political challenges while supporting missionary expansion and Christian unity.",
+
+      canonization:
+        "Zachary was recognized as a saint through the ancient tradition of the Church as a holy pope.",
+    },
+  },
+  {
+    month: 3,
+    day: 16,
+    name: "Sts. Hilarius and Tatianus",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULkzyYsnGjC1D9WdNqxwL1dCWtnNE38nBzdmG2ypu5XUVFdhZULC94l0&s=10",
+    description:
+      "Two early Christian martyrs of Aquileia remembered for their courage and fidelity to Christ during persecution.",
+
+    patronOf: "Those facing persecution and Christians seeking perseverance",
+
+    longDescription: {
+      earlyLife:
+        "Hilarius and Tatianus were Christians who lived in Aquileia, a major Roman city in northern Italy, during the early centuries of the Church. Little is known about their early lives, but they were members of the Christian community during a period of persecution.",
+
+      spiritualLife:
+        "Hilarius served as a bishop of Aquileia, while Tatianus was a deacon who assisted him. Together they witnessed to the Christian faith and refused to participate in pagan worship when commanded by Roman authorities.",
+
+      death:
+        "Hilarius and Tatianus were martyred around 284 AD in Aquileia during the persecution under Emperor Numerian, remaining faithful to Christ until death.",
+
+      legacy:
+        "Sts. Hilarius and Tatianus are remembered as early witnesses of the Christian faith in northern Italy and as examples of courage and devotion in the face of persecution.",
+
+      canonization:
+        "Hilarius and Tatianus were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
+    },
+  },
+  {
+    month: 3,
+    day: 17,
+    name: "St. Patrick",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXiBHujN94JJwkUOOl2NrxOrruvFr9WU25HhHNPrzfn99LFtyn9V9h9sH&s=10",
+    description:
+      "The patron saint of Ireland, a missionary bishop known for bringing Christianity to Ireland and establishing the foundations of the Irish Church.",
+
+    patronOf:
+      "Ireland, missionaries, engineers, miners, and those seeking protection from snakes",
+
+    longDescription: {
+      earlyLife:
+        "Patrick was born around 385 AD in Roman Britain, likely in the region of modern-day Wales or western England. At the age of sixteen, he was kidnapped by Irish raiders and taken as a slave to Ireland, where he spent years tending sheep and deepening his relationship with God through prayer.",
+
+      spiritualLife:
+        "After escaping captivity, Patrick later returned to Ireland as a missionary bishop, feeling called to bring the Gospel to the people who had once enslaved him. He preached throughout the island, baptized thousands, established churches, and trained clergy. According to tradition, he used the three-leaf shamrock to explain the mystery of the Holy Trinity.",
+
+      death:
+        "Patrick died around 461 AD in Ireland after decades of missionary work and service to the Church.",
+
+      legacy:
+        "St. Patrick is remembered as the great evangelizer of Ireland. His missionary efforts helped transform Ireland into one of the major centres of Christian learning and monasticism in the early medieval world.",
+
+      canonization:
+        "Patrick was recognized as a saint through the ancient tradition of the Church as a missionary bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 17,
+    name: "St. John Sarkander",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2020/03/st-jan-sarkandra.jpg?w=640",
+    description:
+      "A Czech priest and martyr known for his loyalty to the Catholic faith, his devotion to the Eucharist, and his refusal to violate the seal of confession.",
+
+    patronOf: "Priests, confessors, and those defending religious freedom",
+
+    longDescription: {
+      earlyLife:
+        "John Sarkander was born on December 20, 1576 AD, in Skoczów, Silesia. He studied theology and philosophy before being ordained a priest. He served in several parishes in Moravia during a time of intense religious conflict following the Protestant Reformation.",
+
+      spiritualLife:
+        "John was known for his deep devotion to the Eucharist, the Blessed Virgin Mary, and the sacrament of confession. During political and religious tensions, he was accused of collaborating with Catholic forces and was imprisoned. His persecutors attempted to force him to reveal the contents of a confession, but he remained faithful to the priestly seal.",
+
+      death:
+        "John Sarkander died on March 17, 1620 AD, in Olomouc, Moravia, after suffering torture during imprisonment because he refused to break the seal of confession.",
+
+      legacy:
+        "St. John Sarkander is remembered as a heroic defender of the sacrament of confession and as a witness to the courage required to remain faithful to Christ under persecution.",
+
+      canonization:
+        "John Sarkander was canonized by Pope John Paul II in 1995 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 18,
+    name: "St. Cyril of Jerusalem",
+    image:
+      "https://static.wixstatic.com/media/f1312c_e39acc0f8bc14b21bec8116e1829a644~mv2.jpg/v1/fill/w_611,h_776,al_c,q_85/f1312c_e39acc0f8bc14b21bec8116e1829a644~mv2.jpg",
+    description:
+      "A bishop and Doctor of the Church known for his teachings on the faith, the sacraments, and the Christian mysteries.",
+
+    patronOf:
+      "Catechists, theologians, and those seeking deeper understanding of the faith",
+
+    longDescription: {
+      earlyLife:
+        "Cyril was born around 313 AD in Jerusalem. He received a strong Christian education and was ordained a priest before being chosen as Bishop of Jerusalem.",
+
+      spiritualLife:
+        "As bishop, Cyril instructed catechumens preparing for baptism through his famous 'Catechetical Lectures', which explain the Creed, the sacraments, and the teachings of the Church. He defended the orthodox faith during the Arian controversy and suffered exile several times because of his opposition to false teachings. He played an important role in preserving the Christian traditions of Jerusalem.",
+
+      death:
+        "Cyril died around 386 AD in Jerusalem after many years of faithful service as bishop.",
+
+      legacy:
+        "St. Cyril of Jerusalem is remembered as one of the greatest teachers of the early Church. His writings provide a valuable witness to early Christian belief in the Eucharist, baptism, and the authority of the Church.",
+
+      canonization:
+        "Cyril of Jerusalem was recognized as a saint through the ancient tradition of the Church and was declared a Doctor of the Church by Pope Leo XIII in 1882 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 18,
+    name: "St. Anselm of Lucca",
+    image:
+      "https://cdnarautos.s3.amazonaws.com/2021/03/0098-San-Anselmo-Vincenzo-di-Antonio-Frediani-Museo-Nazionale-di-Villa-Guinigi-Lucca-Italia.jpg",
+    description:
+      "An Italian bishop and reformer known for defending Church authority and promoting discipline among the clergy.",
+
+    patronOf: "Bishops, Church reformers, and defenders of Church unity",
+
+    longDescription: {
+      earlyLife:
+        "Anselm was born around 1036 AD in Milan, Italy, into a noble family. He became a priest and was later appointed Bishop of Lucca by Pope Alexander II, his uncle.",
+
+      spiritualLife:
+        "Anselm supported the Gregorian Reform, which sought to renew the Church by defending clerical discipline and the independence of the Church from secular influence. He worked closely with Pope Gregory VII during the Investiture Controversy and remained committed to reform despite opposition and political difficulties.",
+
+      death:
+        "Anselm of Lucca died on March 18, 1086 AD, in Mantua, Italy, while serving the Church as a bishop.",
+
+      legacy:
+        "St. Anselm of Lucca is remembered as a courageous reforming bishop who defended the freedom of the Church and worked for greater holiness among clergy and laity.",
+
+      canonization:
+        "Anselm of Lucca was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 19,
+    name: "St. Joseph",
+    image:
+      "https://m.media-amazon.com/images/I/91ZDxdSM9jL._AC_UF894,1000_QL80_.jpg",
+    description:
+      "The foster father of Jesus Christ and husband of the Blessed Virgin Mary, known for his humility, obedience, and faithful protection of the Holy Family.",
+
+    patronOf:
+      "The Universal Church, fathers, workers, carpenters, and families",
+
+    longDescription: {
+      earlyLife:
+        "Joseph was a descendant of King David and lived in Nazareth, where he worked as a carpenter. He was betrothed to the Virgin Mary and became the earthly guardian of Jesus Christ.",
+
+      spiritualLife:
+        "When Joseph learned that Mary had conceived through the Holy Spirit, he faithfully accepted God's will after receiving guidance from an angel. He protected Mary and Jesus, cared for the Holy Family, and obeyed God's commands by taking them to Egypt and later settling in Nazareth. His life was marked by silent faithfulness, humility, and trust in divine providence.",
+
+      death:
+        "The exact date of Joseph's death is unknown, but tradition holds that he died peacefully before the beginning of Jesus' public ministry, surrounded by Jesus and Mary.",
+
+      legacy:
+        "St. Joseph is honoured as the patron of the Universal Church and as a model of fatherhood, work, humility, and faithful obedience to God. His example continues to inspire families and workers throughout the world.",
+
+      canonization:
+        "Joseph was recognized as a saint through the ancient tradition of the Church. His title as Patron of the Universal Church was proclaimed by Pope Pius IX in 1870 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 20,
+    name: "St. John Nepomucen of Prague",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Johannes_von_Nepomuk_Hinterglasbild.jpg/250px-Johannes_von_Nepomuk_Hinterglasbild.jpg",
+    description:
+      "A Czech priest and martyr known for defending the seal of confession and remaining faithful to the Church despite persecution.",
+
+    patronOf:
+      "Priests, confessors, bridges, and those seeking protection of reputation",
+
+    longDescription: {
+      earlyLife:
+        "John Nepomucen was born around 1345 AD in Nepomuk, Bohemia. He studied theology and law before becoming a priest and serving the Church in Prague. He was later appointed canon of Prague Cathedral and became known for his preaching and pastoral care.",
+
+      spiritualLife:
+        "John served as vicar general of the Archdiocese of Prague under Archbishop Jan of Jenštejn. According to tradition, he was the confessor of Queen Sophia of Bohemia, and when King Wenceslaus IV attempted to force him to reveal the contents of her confession, John refused to break the seal of confession. His defence of the sacrament made him a symbol of priestly fidelity and courage.",
+
+      death:
+        "John Nepomucen was martyred on March 20, 1393 AD, in Prague. According to tradition, he was tortured and then thrown from the Charles Bridge into the Vltava River after refusing to violate the secrecy of confession.",
+
+      legacy:
+        "St. John Nepomucen is remembered as one of the great martyrs of the priesthood and as a defender of the sacred trust between priest and penitent. His devotion spread throughout Central Europe and beyond.",
+
+      canonization:
+        "John Nepomucen was canonized by Pope Benedict XIII in 1729 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 21,
+    name: "St. Nicholas of Flüe",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2018/03/st-nicholas-of-flue-snip.jpg",
+    description:
+      "A Swiss hermit and mystic known for his deep prayer life, wisdom, and role in preserving peace among the Swiss cantons.",
+
+    patronOf: "Switzerland, peace, politicians, and those seeking guidance",
+
+    longDescription: {
+      earlyLife:
+        "Nicholas of Flüe was born on March 21, 1417 AD, in Flüeli, Switzerland, into a farming family. He married Dorothea Wyss and became a farmer, soldier, magistrate, and father of ten children.",
+
+      spiritualLife:
+        "Although he lived an active life in society, Nicholas felt a deep calling to solitude and prayer. With his wife's permission, he left ordinary life and became a hermit, dedicating himself entirely to contemplation and penance. His wisdom attracted many visitors, including political leaders who sought his advice. He helped bring peace among the Swiss cantons during times of division.",
+
+      death:
+        "Nicholas of Flüe died on March 21, 1487 AD, in Ranft, Switzerland, where he had lived as a hermit for many years.",
+
+      legacy:
+        "St. Nicholas of Flüe is remembered as a model of contemplative holiness and a peacemaker whose spiritual wisdom helped guide the development of Switzerland.",
+
+      canonization:
+        "Nicholas of Flüe was canonized by Pope Pius XII in 1947 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 22,
+    name: "St. Paul of Narbonne",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxw84pDj0MSkSp22lKHIeCn4PTKaH_dgYciK-8qAZCuMPYxQh614V71HQ&s=10",
+    description:
+      "An early Christian bishop and missionary remembered as one of the founders of the Church in southern Gaul.",
+
+    patronOf: "Narbonne, bishops, and missionaries",
+
+    longDescription: {
+      earlyLife:
+        "Paul of Narbonne lived during the 3rd century AD and was one of the missionaries sent from Rome to evangelize Gaul. According to tradition, he was among the companions of St. Saturninus of Toulouse.",
+
+      spiritualLife:
+        "Paul preached the Gospel throughout the region of Narbonne and became the first bishop of the city. He helped establish Christian communities in southern France during a time when Christianity was still spreading throughout the Roman Empire.",
+
+      death:
+        "Paul of Narbonne died around the 3rd century AD in Narbonne, Gaul, after a lifetime of missionary work.",
+
+      legacy:
+        "St. Paul of Narbonne is remembered as an early evangelizer of France and one of the foundational figures of the Christian Church in the region.",
+
+      canonization:
+        "Paul of Narbonne was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 22,
+    name: "St. Leah",
+    image:
+      "https://m.media-amazon.com/images/I/71NhSLYrTKL._AC_UF894,1000_QL80_.jpg",
+    description:
+      "A Roman widow and disciple of St. Jerome known for her humility, charity, and dedication to a life of prayer.",
+
+    patronOf: "Widows, religious women, and those seeking a life of humility",
+
+    longDescription: {
+      earlyLife:
+        "Leah lived in Rome during the 4th century AD and belonged to a noble Roman family. After becoming a widow, she devoted herself entirely to Christian service and a life of prayer.",
+
+      spiritualLife:
+        "Leah was part of a community of women in Rome guided spiritually by St. Jerome. She gave up her wealth and social status to live a life of humility, fasting, and charity. St. Jerome praised her as an example of Christian virtue and devotion.",
+
+      death:
+        "Leah died around 384 AD in Rome, shortly before St. Jerome left the city for the Holy Land.",
+
+      legacy:
+        "St. Leah is remembered as an example of holiness through simplicity, humility, and dedication to God rather than worldly honour.",
+
+      canonization:
+        "Leah was recognized as a saint through the ancient tradition of the Church as a holy widow.",
+    },
+  },
+  {
+    month: 3,
+    day: 23,
+    name: "St. Turibius of Mogrovejo",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/33/Santo_Toribio_Alfonso_de_Mogrovejo%2C_Arzobispo_de_Lima.jpg",
+    description:
+      "A Spanish archbishop and missionary known for defending indigenous peoples, reforming the Church, and spreading the faith in Peru.",
+
+    patronOf: "Latin American bishops, missionaries, and indigenous peoples",
+
+    longDescription: {
+      earlyLife:
+        "Turibius was born Toribio Alfonso de Mogrovejo on November 16, 1538 AD, in Mayorga, Spain. He studied law and became a professor before being unexpectedly appointed Archbishop of Lima, Peru, despite not yet being a priest.",
+
+      spiritualLife:
+        "After his ordination, Turibius travelled to Peru and dedicated himself to reforming the Church. He travelled extensively throughout his vast archdiocese, often on foot, to visit remote communities and provide the sacraments. He defended the rights of indigenous peoples, established seminaries, and worked to improve the education and formation of clergy.",
+
+      death:
+        "Turibius of Mogrovejo died on March 23, 1606 AD, in Saña, Peru, while visiting his diocese.",
+
+      legacy:
+        "St. Turibius is remembered as one of the great missionary bishops of the Americas. His commitment to evangelization, justice, and pastoral care made him a model for bishops throughout the Church.",
+
+      canonization:
+        "Turibius of Mogrovejo was canonized by Pope Benedict XIII in 1726 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 24,
+    name: "St. Oscar Romero",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg",
+    description:
+      "A Salvadoran archbishop and martyr known for his defence of the poor, his commitment to justice, and his courageous preaching of the Gospel during a time of conflict.",
+
+    patronOf:
+      "El Salvador, bishops, social justice, and those defending human dignity",
+
+    longDescription: {
+      earlyLife:
+        "Óscar Arnulfo Romero was born on August 15, 1917 AD, in Ciudad Barrios, El Salvador. He entered the seminary at a young age and later studied theology in Rome before being ordained a priest in 1942 AD.",
+
+      spiritualLife:
+        "Romero served as a priest and bishop before becoming Archbishop of San Salvador in 1977 AD. During a period of political violence and oppression, he became a powerful voice defending the poor, the persecuted, and the dignity of every human person. Through his homilies and pastoral letters, he called for peace, conversion, and respect for human rights while remaining faithful to the teachings of the Church.",
+
+      death:
+        "Oscar Romero was assassinated on March 24, 1980 AD, while celebrating Mass in the chapel of the Hospital of Divine Providence in San Salvador.",
+
+      legacy:
+        "St. Oscar Romero is remembered as a modern martyr who gave his life proclaiming the Gospel and standing alongside those who suffered. His witness continues to inspire Christians committed to justice, peace, and charity.",
+
+      canonization:
+        "Oscar Romero was canonized by Pope Francis on October 14, 2018 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 24,
+    name: "St. Catherine of Sweden",
+    image:
+      "https://angelusnews.com/wp-content/uploads/2020/03/Saint-Catherine-of-Sweden.jpg",
+    description:
+      "A Swedish religious woman and abbess known for her devotion to Christ, purity, and leadership in the Bridgettine Order.",
+
+    patronOf: "Widows, protection against abortion, and those seeking purity",
+
+    longDescription: {
+      earlyLife:
+        "Catherine of Sweden was born around 1331 AD, the daughter of St. Bridget of Sweden and Ulf Gudmarsson, a noble Swedish couple. She was raised in a deeply religious household and was educated in Christian virtue from childhood.",
+
+      spiritualLife:
+        "Catherine married Edgar Lydersson von Kyren but lived with him in a spirit of continence according to tradition. After his death, she joined her mother St. Bridget in Rome and helped continue the work of the Bridgettine Order. Following her mother's death, Catherine returned to Sweden and became abbess of Vadstena Abbey, guiding the community in prayer and religious discipline.",
+
+      death:
+        "Catherine of Sweden died on March 24, 1381 AD, at Vadstena Abbey in Sweden.",
+
+      legacy:
+        "St. Catherine of Sweden is remembered as a faithful daughter of St. Bridget and a strong leader who helped preserve and spread the Bridgettine spiritual tradition.",
+
+      canonization:
+        "Catherine of Sweden was recognized as a saint through the ancient tradition of the Church. Her canonization process was formally confirmed by Pope Innocent VIII in 1484 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 25,
+    name: "St. Dismas",
+    image:
+      "https://faith.nd.edu/wp-content/uploads/2024/03/The_Good_Thief_LACMA_M.88.91.1-e1739479514204.jpg",
+    description:
+      "The repentant thief crucified alongside Jesus, remembered for his faith, humility, and trust in Christ's mercy at the moment of his death.",
+
+    patronOf:
+      "Prisoners, prisoners seeking conversion, condemned people, and repentant sinners",
+
+    longDescription: {
+      earlyLife:
+        "Little is known about Dismas before his crucifixion. According to the Gospel tradition, he was a criminal who was condemned to death alongside Jesus Christ.",
+
+      spiritualLife:
+        "While hanging on the cross, Dismas recognized Jesus as the Messiah and rebuked the other thief who mocked Him. He asked Jesus to remember him when He came into His kingdom. Christ responded by promising that he would be with Him in Paradise, making Dismas a powerful example of repentance and the mercy of God.",
+
+      death:
+        "Dismas was crucified alongside Jesus on Calvary and died on Good Friday, around 30–33 AD, after receiving Christ's promise of salvation.",
+
+      legacy:
+        "St. Dismas is remembered as the first saint to be promised Paradise by Christ Himself and as a symbol of hope for all who seek forgiveness and conversion, even at the end of life.",
+
+      canonization:
+        "Dismas was recognized as a saint through the ancient tradition of the Church as the repentant thief who received Christ's promise of salvation.",
+    },
+  },
+  {
+    month: 3,
+    day: 25,
+    name: "St. Quirinus of Rome",
+    image:
+      "https://i0.wp.com/findthesaint.com/wp-content/uploads/2023/03/St-Quirinus-of-Sescia-June-4.jpg?resize=275%2C376&ssl=1",
+    description:
+      "An early Christian martyr remembered for his courage and faithfulness during the persecution of the Roman Empire.",
+
+    patronOf: "Soldiers, prisoners, and those facing persecution",
+
+    longDescription: {
+      earlyLife:
+        "Quirinus was a Roman tribune who lived during the 2nd century AD. According to tradition, he encountered Christians while carrying out his duties and was moved by their faith and courage.",
+
+      spiritualLife:
+        "After converting to Christianity, Quirinus openly professed his faith despite the danger it brought. He refused to renounce Christ when commanded by Roman authorities and accepted suffering rather than abandon his beliefs.",
+
+      death:
+        "Quirinus was martyred around 116 AD in Rome during the persecution under Emperor Trajan.",
+
+      legacy:
+        "St. Quirinus is remembered as an example of conversion and courage, showing how God's grace can transform even those who oppose the faith.",
+
+      canonization:
+        "Quirinus was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 25,
+    name: "St. Lucy Filippini",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lucia_filippini.jpg",
+    description:
+      "An Italian religious foundress known for educating girls, promoting Christian formation, and serving the poor through schools and charitable works.",
+
+    patronOf: "Teachers, educators, and Catholic schools",
+
+    longDescription: {
+      earlyLife:
+        "Lucy Filippini was born on January 13, 1672 AD, in Corneto, Italy. Orphaned at a young age, she was raised by relatives and developed a strong devotion to God and a desire to serve others.",
+
+      spiritualLife:
+        "Lucy worked with Cardinal Marco Antonio Barbarigo and was influenced by the educational mission of St. Rose Venerini. She founded the Religious Teachers Filippini, a congregation dedicated to educating girls, especially those from poor families. Through her schools, she promoted Christian doctrine, virtue, and practical education.",
+
+      death:
+        "Lucy Filippini died on March 25, 1732 AD, in Montefiascone, Italy, after a lifetime devoted to education and charity.",
+
+      legacy:
+        "St. Lucy Filippini is remembered as a pioneer of Catholic education whose work transformed the lives of countless women and children through faith-based learning.",
+
+      canonization: "Lucy Filippini was canonized by Pope Pius XI in 1930 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 26,
+    name: "St. Castulus",
+    image:
+      "https://anastpaul.com/wp-content/uploads/2021/03/st-castulus-crowned-1.jpg?w=448",
+    description:
+      "A Roman martyr remembered for sheltering persecuted Christians and remaining faithful to Christ despite great danger.",
+
+    patronOf: "Farmers, guards, and those seeking courage during persecution",
+
+    longDescription: {
+      earlyLife:
+        "Castulus lived in Rome during the 3rd century AD and was a member of the imperial court. According to tradition, he served as a chamberlain to Emperor Diocletian while secretly supporting the Christian community.",
+
+      spiritualLife:
+        "Castulus used his position to help persecuted Christians by providing shelter and assistance. He is associated with aiding Christians during the persecutions of Emperor Diocletian and remained faithful to Christ despite the risks involved.",
+
+      death:
+        "Castulus was martyred around 286 AD in Rome after being discovered as a Christian and suffering persecution for his faith.",
+
+      legacy:
+        "St. Castulus is remembered as a courageous witness who used his influence to protect the Church during a time of severe persecution.",
+
+      canonization:
+        "Castulus was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 27,
+    name: "St. Rupert of Salzburg",
+    image:
+      "https://catholicexchange.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-095954.jpg",
+    description:
+      "A missionary bishop and founder of the Church of Salzburg known for evangelizing Bavaria and Austria and establishing monasteries.",
+
+    patronOf: "Salzburg, Austria, salt miners, and brewers",
+
+    longDescription: {
+      earlyLife:
+        "Rupert was born around 660 AD into a noble Frankish family. He became a bishop and was known for his knowledge, holiness, and desire to spread the Christian faith.",
+
+      spiritualLife:
+        "Rupert travelled to Bavaria and Austria as a missionary, preaching the Gospel and restoring Christian communities. He founded the monastery of St. Peter in Salzburg and established a centre of Christian learning and evangelization. He also developed the salt industry in the region, helping provide stability for the growing Christian community.",
+
+      death:
+        "Rupert died on March 27, around 710 AD, in Salzburg, Austria, after years of missionary and pastoral work.",
+
+      legacy:
+        "St. Rupert is remembered as the founder of Christian Salzburg and one of the great missionaries of Central Europe whose work helped shape the religious identity of the region.",
+
+      canonization:
+        "Rupert was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 28,
+    name: "St. Castor of Tarsus",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBmB0XbGokFtGUn1TNHGaQteiiCHwOCSsUBQCf6-1pl-eYkyLkAhkim3S&s=10",
+    description:
+      "An early Christian martyr remembered for his steadfast faith and witness during persecution in the Roman Empire.",
+
+    patronOf: "Those facing persecution and Christians seeking perseverance",
+
+    longDescription: {
+      earlyLife:
+        "Castor was a Christian who lived in Tarsus, Cilicia, during the early centuries of the Church. Little is known about his life before his martyrdom.",
+
+      spiritualLife:
+        "Castor remained faithful to Christ during a period when Christians were pressured to participate in pagan worship. According to tradition, he refused to abandon his faith despite threats and persecution.",
+
+      death:
+        "Castor was martyred in Tarsus, likely during the persecutions of the Roman Empire in the early centuries AD.",
+
+      legacy:
+        "St. Castor of Tarsus is remembered as a faithful witness of the early Church whose courage strengthened other Christians facing persecution.",
+
+      canonization:
+        "Castor was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+    },
+  },
+  {
+    month: 3,
+    day: 29,
+    name: "St. Eustasius of Naples",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/S.Eustace_%28Cretan_school%2C_16th_c.%29.jpg",
+    description:
+      "An early bishop of Naples remembered for his holiness, pastoral care, and service to the Christian community.",
+
+    patronOf: "Bishops, Naples, and Church leaders",
+
+    longDescription: {
+      earlyLife:
+        "Eustasius lived during the early centuries of Christianity and became bishop of Naples, Italy. Little is known about his early life or family background.",
+
+      spiritualLife:
+        "As bishop, Eustasius dedicated himself to strengthening the Christian community of Naples. He guided the faithful, promoted Christian teaching, and served the Church during a period when Christianity was still developing within the Roman world.",
+
+      death:
+        "Eustasius died around the 3rd century AD in Naples, Italy, after faithfully serving as bishop.",
+
+      legacy:
+        "St. Eustasius of Naples is remembered as one of the early shepherds of the Neapolitan Church and as an example of faithful episcopal service.",
+
+      canonization:
+        "Eustasius was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+    },
+  },
+  {
+    month: 3,
+    day: 30,
+    name: "St. John Climacus of Sinai",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Lestvichnik.jpg",
+    description:
+      "A monk and spiritual writer known for his work 'The Ladder of Divine Ascent', which describes the journey toward holiness through prayer, humility, and virtue.",
+
+    patronOf:
+      "Monks, contemplatives, spiritual writers, and those seeking spiritual growth",
+
+    longDescription: {
+      earlyLife:
+        "John Climacus was born around 525 AD, likely in Syria. Little is known about his early life, but he received a strong education before renouncing the world to pursue monastic life at Mount Sinai.",
+
+      spiritualLife:
+        "John lived as a monk and hermit for many years at the Monastery of St. Catherine on Mount Sinai. Through prayer, fasting, and spiritual discipline, he developed deep wisdom about the Christian life. His famous work, 'The Ladder of Divine Ascent', describes thirty stages of spiritual growth, leading the soul toward union with God.",
+
+      death:
+        "John Climacus died around 606 AD at the Monastery of St. Catherine on Mount Sinai, Egypt.",
+
+      legacy:
+        "St. John Climacus is remembered as one of the greatest spiritual teachers of Eastern Christianity. His writings remain influential in monastic spirituality and Christian teachings on virtue and holiness.",
+
+      canonization:
+        "John Climacus was recognized as a saint through the ancient tradition of the Church as a holy monk and spiritual writer.",
+    },
+  },
+  {
+    month: 3,
+    day: 30,
+    name: "B. Amadeus IX of Savoy",
+    image:
+      "https://kids.kiddle.co/images/thumb/b/b9/Ritratto_del_beato_Amedeo_IX_di_Savoia.png/300px-Ritratto_del_beato_Amedeo_IX_di_Savoia.png",
+    description:
+      "A blessed Duke of Savoy known for his charity, humility, and dedication to serving the poor and those in need.",
+
+    patronOf: "Those suffering from illness, the poor, and charitable works",
+
+    longDescription: {
+      earlyLife:
+        "Amadeus IX was born on February 1, 1435 AD, in Thonon-les-Bains, Savoy. He became Duke of Savoy in 1465 AD after the death of his father, Louis I.",
+
+      spiritualLife:
+        "Although affected by epilepsy and poor health throughout his life, Amadeus governed with compassion and humility. He supported hospitals, cared for the poor, and devoted much of his wealth to charitable causes. He allowed his wife, Yolande of France, to assist in governing due to his illness while he focused on prayer and acts of mercy.",
+
+      death:
+        "Amadeus IX died on March 30, 1472 AD, in Vercelli, Italy, after a life dedicated to Christian charity and service.",
+
+      legacy:
+        "Blessed Amadeus IX is remembered as a model Christian ruler who used authority not for personal gain but for the service of the poor and vulnerable.",
+
+      canonization: "Amadeus IX was beatified by Pope Gregory XVI in 1838 AD.",
+    },
+  },
+  {
+    month: 3,
+    day: 31,
+    name: "St. Balbina",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBftI6M3MqbW8BD78C-SLG-d1adIz7su5zw_gkE54wFH4_n3oNoY1w2-0&s=10",
+    description:
+      "An early Roman virgin remembered for her faith, purity, and dedication to Christ during the age of persecution.",
+
+    patronOf: "Young women, throat ailments, and those seeking purity",
+
+    longDescription: {
+      earlyLife:
+        "Balbina lived in Rome during the 2nd century AD and was the daughter of St. Quirinus of Rome, according to Christian tradition. She was raised in a Christian household during a period when believers faced persecution.",
+
+      spiritualLife:
+        "After her conversion and baptism, Balbina dedicated her life to Christ. According to tradition, she was healed through the grace of God and lived a life of prayer and Christian virtue.",
+
+      death:
+        "Balbina died around the 2nd century AD in Rome after a life devoted to the Christian faith.",
+
+      legacy:
+        "St. Balbina is remembered as one of the early Roman saints and as an example of steadfast faith and devotion during the first centuries of Christianity.",
+
+      canonization:
+        "Balbina was recognized as a saint through the ancient tradition of the Church as a holy virgin.",
+    },
+  },
+  {
     month: 7,
     day: 1,
     name: "Sts. Julius and Aaron",
