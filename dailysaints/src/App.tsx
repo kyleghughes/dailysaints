@@ -19,6 +19,7 @@ import dayjs from "dayjs";
 import Footer from "./components/Footer";
 import QuoteCard from "./components/QuoteCard";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 // #region helper function
 const { month, day } = getTodayKey();
@@ -117,6 +118,7 @@ const App = () => {
         <Footer />
       </Container>
       <Analytics />
+      <SpeedInsights />
     </ThemeProvider>
   );
 };
