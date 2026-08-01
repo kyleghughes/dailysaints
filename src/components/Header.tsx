@@ -13,6 +13,9 @@ import Tooltip from "@mui/material/Tooltip";
 import DailySaintsLogo from "../../DailySaintsLogo.png";
 import type { Saint } from "../data/saints";
 import useMediaQuery from "@mui/material/useMediaQuery";
+import Divider from "@mui/material/Divider";
+import { feastDays } from "../data/feastDays";
+import { getTodayKey } from "../utils/date";
 
 // #region interface
 interface HeaderProps {
@@ -47,6 +50,10 @@ const Header = ({
   const darkColor = darken(baseColor, isWhiteColour ? 0.1 : 0.5);
   const textColor = isWhiteColour ? "#000" : "inherit";
   const isMobile = useMediaQuery("(max-width:600px)");
+  const feastDay = feastDays.find((f) => {
+    const today = getTodayKey();
+    return f.month === today.month && f.day === today.day;
+  });
   // #endregion
 
   return (
@@ -57,85 +64,119 @@ const Header = ({
         background: `linear-gradient(135deg, ${darkColor} 0%, ${baseColor} 100%)`,
       }}
     >
-      <Toolbar sx={{ display: "flex" }}>
-        <Box
-          sx={{
-            flex: 1,
-            display: "flex",
-            alignItems: "center",
-          }}
-        >
-          <Box
-            component="img"
-            src={DailySaintsLogo}
-            alt="D"
-            sx={{
-              height: 32,
-              width: 32,
-              mr: 0.1,
-              mb: 1,
-              objectFit: "contain",
-            }}
-          />
-
-          <Typography
-            variant="h6"
-            component="span"
-            sx={{
-              fontWeight: 600,
-              color: textColor,
-            }}
-          >
-            ailySaints
-          </Typography>
-        </Box>
-
-        {!isMobile && (
+      <Box sx={{ display: "flex", flexDirection: "column" }}>
+        <Toolbar sx={{ display: "flex" }}>
           <Box
             sx={{
               flex: 1,
               display: "flex",
-              justifyContent: "center",
-              px: 2,
+              alignItems: "center",
             }}
           >
-            <Box sx={{ width: "100%", maxWidth: 450 }}>
-              <Searchbar
-                darkColor={true}
-                isMobile={false}
-                onSelectSaint={onSelectSaint}
-              />
-            </Box>
+            <Box
+              component="img"
+              src={DailySaintsLogo}
+              alt="D"
+              sx={{
+                height: 32,
+                width: 32,
+                mr: 0.1,
+                mb: 1,
+                objectFit: "contain",
+              }}
+            />
+
+            <Typography
+              variant="h6"
+              component="span"
+              sx={{
+                fontWeight: 600,
+                color: textColor,
+              }}
+            >
+              ailySaints
+            </Typography>
           </Box>
-        )}
 
-        <Box
-          sx={{
-            flex: 1,
-            display: "flex",
-            justifyContent: "flex-end",
-            alignItems: "center",
-            gap: 1,
-          }}
-        >
-          <Typography variant="body2" sx={{ color: textColor }}>
-            {date}
-          </Typography>
+          {!isMobile && (
+            <Box
+              sx={{
+                flex: 1,
+                display: "flex",
+                justifyContent: "center",
+                px: 2,
+              }}
+            >
+              <Box sx={{ width: "100%", maxWidth: 450 }}>
+                <Searchbar
+                  darkColor={true}
+                  isMobile={false}
+                  onSelectSaint={onSelectSaint}
+                />
+              </Box>
+            </Box>
+          )}
 
-          <Tooltip
-            arrow
-            title={
-              mode === "light"
-                ? "Darkness came over the whole land."
-                : "Let there be light!"
-            }
+          <Box
+            sx={{
+              flex: 1,
+              display: "flex",
+              justifyContent: "flex-end",
+              alignItems: "center",
+              gap: 1,
+            }}
           >
-            <IconButton onClick={onToggleMode} sx={{ color: textColor }}>
-              {mode === "light" ? <DarkModeIcon /> : <LightModeIcon />}
-            </IconButton>
-          </Tooltip>
-        </Box>
-      </Toolbar>
+            <Typography variant="body2" sx={{ color: textColor }}>
+              {date}
+            </Typography>
+
+            <Tooltip
+              arrow
+              title={
+                mode === "light"
+                  ? "Darkness came over the whole land."
+                  : "Let there be light!"
+              }
+            >
+              <IconButton onClick={onToggleMode} sx={{ color: textColor }}>
+                {mode === "light" ? <DarkModeIcon /> : <LightModeIcon />}
+              </IconButton>
+            </Tooltip>
+          </Box>
+        </Toolbar>
+
+        {feastDay && (
+          <>
+            <Divider
+              sx={{
+                borderColor: isWhiteColour
+                  ? "rgba(0,0,0,0.12)"
+                  : "rgba(255,255,255,0.2)",
+              }}
+            />
+
+            <Box
+              sx={{
+                px: 0,
+                py: 1,
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <Typography
+                variant="body2"
+                sx={{
+                  color: textColor,
+                  textAlign: "center",
+                }}
+              >
+                {feastDay.name}
+              </Typography>
+            </Box>
+          </>
+        )}
+      </Box>
     </AppBar>
   );
 };

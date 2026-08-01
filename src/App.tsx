@@ -54,7 +54,7 @@ const App = () => {
   const isMobile = useMediaQuery("(max-width:600px)");
   const formattedDate = useMemo(
     () => dayjs().format(isMobile ? "DD/MM/YYYY" : "dddd, D MMMM YYYY"),
-    [],
+    [isMobile],
   );
 
   // #endregion

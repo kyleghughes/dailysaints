@@ -1,13 +1,13 @@
-import { useMemo } from "react";
+import { useState } from "react";
 import { Card, CardContent, Typography } from "@mui/material";
 import { saintQuotes } from "../data/saintQuotes";
 
 const QuoteCard = () => {
-  // #region hooks
-  const quote = useMemo(() => {
+  // #region state
+  const [quote] = useState(() => {
     const randomIndex = Math.floor(Math.random() * saintQuotes.length);
     return saintQuotes[randomIndex];
-  }, []);
+  });
   // #endregion
 
   return (
