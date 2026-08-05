@@ -1822,26 +1822,26 @@ export const saints: Saint[] = [
     image:
       "https://georgesstreetarcade.ie/wp-content/uploads/2023/01/St-Brigid-of-Ireland.jpeg",
     description:
-      "An Irish abbess and one of the patron saints of Ireland, renowned for her charity, wisdom, and leadership in establishing monastic communities.",
+      "An Irish abbess, founder of monasteries, and one of the patron saints of Ireland, renowned for her extraordinary charity, wisdom, hospitality, and leadership in the growth of Christianity throughout Ireland.",
 
     patronOf:
-      "Ireland, nuns, midwives, children, poets, scholars, blacksmiths, and livestock",
+      "Ireland, nuns, midwives, children, poets, scholars, blacksmiths, dairy workers, and livestock",
 
     longDescription: {
       earlyLife:
-        "Brigid was born around 451 AD in Faughart, near Dundalk, Ireland. From a young age, she was known for her compassion and generosity, often giving food and possessions to the poor. She chose to dedicate her life to Christ rather than marry.",
+        "Brigid was born around 451 AD in Faughart, near Dundalk, Ireland, during the early years of Irish Christianity. According to tradition, her father was Dubhthach, a local chieftain, and her mother, Broicsech, had been baptized by St. Patrick. From childhood, Brigid was known for her exceptional compassion and generosity, frequently giving away food, clothing, and household goods to those in need. Despite her family's concerns, she remained committed to a life of charity and chose to dedicate herself entirely to Christ rather than marry.",
 
       spiritualLife:
-        "Brigid founded the famous double monastery at Kildare, where monks and nuns lived in separate communities under her leadership. She became known for her wisdom, hospitality, and care for the poor, the sick, and travellers. Numerous traditions recount miracles associated with her charity, including the multiplication of food and healing the sick. Her monastery became one of the most important centres of Christianity and learning in Ireland.",
+        "After professing her religious vows, Brigid became one of the most influential leaders of the early Irish Church. Around 480 AD, she founded the famous double monastery at Kildare, where communities of monks and nuns lived separately under her spiritual leadership. Kildare grew into one of Ireland's greatest centres of prayer, education, manuscript production, and missionary activity. Brigid became renowned for her hospitality, welcoming pilgrims, travellers, and the poor with remarkable generosity. Numerous traditions recount miracles associated with her life, including the multiplication of food, healing the sick, and providing for those in need. She worked alongside many of Ireland's earliest saints, including St. Patrick, helping to establish Christianity throughout the country.",
 
       death:
-        "Brigid died around 525 AD at Kildare, Ireland, after a lifetime devoted to prayer, charity, and the growth of the Irish Church.",
+        "Brigid died around 525 AD at Kildare, Ireland, after a lifetime devoted to prayer, charity, and the service of the Church. She was buried with great honour, and her tomb soon became a place of pilgrimage for Christians from across Ireland and beyond.",
 
       legacy:
-        "St. Brigid is honoured as one of Ireland's three principal patron saints alongside St. Patrick and St. Columba. Her life of generosity, humility, and service made her one of the most beloved figures in Irish Christianity, and the monastery she founded remained an important spiritual centre for centuries.",
+        "St. Brigid is honoured as one of Ireland's three principal patron saints alongside St. Patrick and St. Columba. Her life of generosity, humility, and compassionate leadership made her one of the most beloved figures in Irish Christianity. The monastery she founded remained an important spiritual and educational centre for centuries, and her example continues to inspire Christians to serve others with charity, hospitality, and trust in God's providence. The traditional St. Brigid's Cross, woven from rushes, remains a well-known symbol of Irish Christian faith and protection.",
 
       canonization:
-        "Brigid was recognized as a saint through the ancient tradition of the Church as a holy abbess.",
+        "Brigid was recognized as a saint through the ancient tradition of the Church as a holy abbess and one of the great founders of the Irish Church.",
     },
   },
   {
@@ -1851,23 +1851,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FYNlLtSRJjDHGbzu58wH67T8s3j5xkBFtaAKU0xP9Q&s=10",
     description:
-      "An Italian professed religious of the Minims known for his humility, obedience, and hidden life of prayer and service.",
+      "An Italian lay brother of the Order of Minims known for his profound humility, obedience, and hidden life of prayer, charity, and faithful service. He demonstrated that holiness can be attained through ordinary acts performed with extraordinary love.",
 
     patronOf:
       "Lay brothers, those living humble lives of service, and the town of Longobardi",
 
     longDescription: {
       earlyLife:
-        "Nicola Saggio was born Giovanni Battista Saggio on January 6, 1650 AD, in Longobardi, Calabria, Italy. Raised in a devout family, he worked as a shepherd during his youth and developed a deep love for prayer and the Eucharist.",
+        "Nicola Saggio was born Giovanni Battista Saggio on January 6, 1650 AD, in Longobardi, Calabria, Italy, into a devout and hardworking family. As a young shepherd, he spent long hours in solitude, developing a deep habit of prayer and contemplation. From an early age, he showed a great love for the Eucharist, the Blessed Virgin Mary, and the teachings of the Church. Although he desired to dedicate his life completely to God, he had to persevere patiently before being accepted into religious life.",
 
       spiritualLife:
-        "After several attempts to enter religious life, Nicola was accepted as a lay brother in the Order of Minims, founded by St. Francis of Paola. He spent his life carrying out simple duties with extraordinary humility, obedience, and charity. Although he never became a priest, his holiness attracted many people seeking spiritual advice, and he was known for his devotion to the Blessed Virgin Mary and the Blessed Sacrament.",
+        "After several unsuccessful attempts to enter a religious order, Nicola was finally accepted as a lay brother in the Order of Minims, founded by St. Francis of Paola. Rather than seeking positions of honour, he embraced the simplest tasks with joy, carrying out manual labour, caring for the needs of his community, and serving others with humility. Though he never became a priest, his reputation for holiness spread widely. Many people sought his prayers and spiritual counsel, recognising his wisdom, gentleness, and deep union with God. Nicola was especially devoted to the Blessed Sacrament and the Blessed Virgin Mary, and he encouraged others to grow in prayer, repentance, and trust in Divine Providence.",
 
       death:
-        "Nicola Saggio died on February 2, 1709 AD, in Rome after a life of quiet holiness and faithful service.",
+        "Nicola Saggio died on February 2, 1709 AD, in Rome after a lifetime of quiet holiness, humble service, and unwavering fidelity to his religious vocation. His reputation for sanctity continued to grow after his death, and many people sought his intercession.",
 
       legacy:
-        "St. Nicola Saggio is remembered as a model of humility and hidden sanctity, demonstrating that ordinary acts of service performed with great love can lead to holiness.",
+        "St. Nicola Saggio is remembered as a model of humility and hidden sanctity. His life demonstrates that greatness in God's eyes is found not through public recognition or extraordinary achievements, but through faithful obedience, charity, and the loving fulfilment of everyday duties. His example continues to inspire lay brothers, religious communities, and all Christians striving to serve God through the ordinary circumstances of daily life.",
 
       canonization:
         "Nicola Saggio was beatified by Pope John Paul II in 1999 AD and canonized by Pope Francis on October 23, 2016 AD.",
@@ -1880,22 +1880,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTVBuPopRtnsuFuXyuknPJi0l8pFE7PGJ5DDErvA8ML5iD6XK4ymZVE8&s=10",
     description:
-      "An Italian Dominican nun and mystic known for her profound devotion to the Passion of Christ and her life of prayer and reform.",
+      "An Italian Dominican nun, mystic, and reformer renowned for her profound devotion to the Passion of Christ, her mystical experiences, and her faithful leadership of religious life.",
 
-    patronOf: "The sick, mystics, and Dominican religious",
+    patronOf:
+      "The sick, mystics, Dominican religious, and those devoted to the Passion of Christ",
 
     longDescription: {
       earlyLife:
-        "Catherine de' Ricci was born Alessandra Lucrezia Romola de' Ricci on April 23, 1522 AD, in Florence, Italy. Following the death of her mother, she was educated in a Benedictine convent before entering the Dominican convent of San Vincenzo in Prato at the age of fourteen.",
+        "Catherine de' Ricci was born Alessandra Lucrezia Romola de' Ricci on April 23, 1522 AD, in Florence, Italy, into a distinguished Florentine family. After the death of her mother when she was still a child, she was entrusted to the care of a Benedictine convent, where she developed a deep love for prayer and religious life. At the age of fourteen, she entered the Dominican convent of San Vincenzo in Prato, taking the name Catherine in honour of St. Catherine of Siena. From the beginning of her religious life, she was noted for her humility, obedience, and desire for complete union with Christ.",
 
       spiritualLife:
-        "Catherine became renowned for her deep mystical experiences, especially her weekly ecstasies in which she meditated on the Passion of Christ. She served for many years as prioress of her convent, encouraging strict religious observance, charity, and devotion among the sisters. She also maintained a spiritual correspondence with St. Philip Neri, with whom she shared a mutual respect and friendship.",
+        "Catherine became renowned throughout Italy for her extraordinary mystical experiences, particularly her weekly ecstasies in which she contemplated and spiritually shared in the sufferings of Christ's Passion. These experiences, witnessed by members of her community, deepened her devotion to the crucified Lord and inspired many others to meditate on Christ's sacrifice. Despite her mystical gifts, Catherine remained humble and devoted to the ordinary duties of convent life. She served for many years as prioress, promoting faithful observance of the Dominican Rule, charity among the sisters, and a spirit of prayer and self-sacrifice. She also maintained a well-known spiritual friendship and correspondence with St. Philip Neri, encouraging one another in holiness despite never meeting in person.",
 
       death:
-        "Catherine de' Ricci died on February 2, 1590 AD, in Prato, Italy, after a life devoted to contemplative prayer and religious leadership.",
+        "Catherine de' Ricci died on February 2, 1590 AD, in Prato, Italy, after nearly fifty years of religious life. She spent her final years enduring illness with patience and offering her sufferings in union with Christ. Her reputation for holiness spread rapidly after her death, and her body remains incorrupt, preserved in the Basilica of San Vincenzo in Prato.",
 
       legacy:
-        "St. Catherine de' Ricci is remembered for her profound union with Christ through meditation on His Passion and for her faithful leadership within the Dominican Order. Her life continues to inspire those called to contemplative prayer.",
+        "St. Catherine de' Ricci is remembered as one of the great Dominican mystics and a model of contemplative prayer. Her deep meditation on the Passion of Christ, faithful leadership as prioress, and unwavering humility continue to inspire religious communities and lay faithful alike. Her life reminds Christians that profound union with God is nurtured through prayer, obedience, and loving fidelity in the ordinary duties of daily life.",
 
       canonization:
         "Catherine de' Ricci was beatified by Pope Clement XII in 1732 AD and canonized by Pope Benedict XIV in 1746 AD.",
@@ -1908,23 +1909,23 @@ export const saints: Saint[] = [
     image:
       "https://cdn.diocesanweb.org/beacon/stblaise/wp-content/uploads/2025/04/St_Blaise_Cave_Animals.png",
     description:
-      "An Armenian bishop and martyr known for his miraculous healing of a boy choking on a fishbone and for his steadfast faith during persecution.",
+      "An Armenian bishop, physician, and martyr renowned for his miraculous healing of a boy choking on a fishbone, his compassion for the sick, and his unwavering faith during persecution.",
 
     patronOf:
-      "Those with throat illnesses, physicians, veterinarians, wool combers, and wild animals",
+      "Those with throat illnesses, physicians, veterinarians, wool combers, wild animals, and sufferers of illnesses",
 
     longDescription: {
       earlyLife:
-        "Blaise was born during the 3rd century AD in Sebaste, Armenia. He was trained as a physician and became well known for his compassion and care for the sick. His holiness led to his election as Bishop of Sebaste.",
+        "Blaise was born during the 3rd century AD in Sebaste, Armenia (modern-day Sivas, Türkiye). Trained as a physician, he became widely respected for both his medical skill and his compassionate care for the sick, treating the poor as readily as the wealthy. His reputation for holiness and wisdom led the Christian community to choose him as Bishop of Sebaste during a time when the Church was still subject to periods of persecution under the Roman Empire.",
 
       spiritualLife:
-        "During the persecution of Christians under Emperor Licinius, Blaise withdrew to a cave where he devoted himself to prayer. Tradition holds that wild animals gathered peacefully around him and that he continued healing both people and animals. After his arrest, he miraculously healed a boy who was choking on a fishbone, an event that led to his enduring association with the blessing of throats. He remained steadfast in his faith despite imprisonment and torture.",
+        "As bishop, Blaise devoted himself to preaching the Gospel, caring for his flock, and ministering to the sick in both body and soul. During the persecution under Emperor Licinius, he withdrew to a cave in the mountains to spend more time in prayer while continuing to encourage the faithful. According to tradition, wild animals gathered peacefully around him, and he cared for them as he did for people, leading to his patronage of animals and veterinarians. After being discovered and arrested, Blaise performed the miracle for which he is best remembered by healing a young boy who was choking on a fishbone after the child's desperate mother sought his help. Even while imprisoned, he continued strengthening fellow Christians through his prayers and steadfast example, refusing every demand to renounce Christ despite severe torture.",
 
       death:
-        "Blaise was martyred around 316 AD in Sebaste after refusing to renounce his Christian faith.",
+        "Blaise was martyred around 316 AD in Sebaste after enduring imprisonment, scourging, and torture for refusing to abandon his Christian faith. According to tradition, he was ultimately beheaded, joyfully offering his life in witness to Christ.",
 
       legacy:
-        "St. Blaise is one of the most widely venerated early Christian martyrs. The traditional Blessing of Throats, celebrated each year near his feast day, continues to commemorate his miraculous intercession.",
+        "St. Blaise became one of the most widely venerated martyrs of both the Eastern and Western Churches. His intercession has long been sought by those suffering from illnesses of the throat, and the traditional Blessing of Throats, celebrated each year on or near his feast day using two crossed candles, remains one of the Church's best-known sacramentals. His compassion as both a physician and bishop, together with his courageous martyrdom, continues to inspire Christians to trust in God's healing power and remain faithful in times of suffering.",
 
       canonization:
         "Blaise was recognized as a saint through the ancient tradition of the Church as an early Christian bishop and martyr.",
@@ -1937,26 +1938,26 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg",
     description:
-      "A Benedictine monk, missionary bishop, and the 'Apostle of the North' who brought the Gospel to Scandinavia.",
+      "A Benedictine monk, missionary bishop, and the 'Apostle of the North' who devoted his life to bringing the Gospel to Scandinavia and laying the foundations of Christianity in Northern Europe.",
 
     patronOf:
-      "Scandinavia, missionaries, Denmark, Sweden, and converts to Christianity",
+      "Scandinavia, missionaries, Denmark, Sweden, converts to Christianity, and the Archdiocese of Hamburg",
 
     longDescription: {
       earlyLife:
-        "Ansgar was born on September 8, 801 AD, near Amiens in the Frankish Kingdom. He entered the Benedictine monastery of Corbie as a young man, where he received a strong education and developed a deep desire to preach the Gospel.",
+        "Ansgar was born on September 8, 801 AD, near Amiens in the Frankish Kingdom. After the death of his mother while he was still a child, he was entrusted to the care of the Benedictine monks at the Abbey of Corbie, where he received an excellent education. From an early age, he was deeply influenced by the lives of the saints and developed a strong desire to dedicate himself to God. As a monk, he became known for his intelligence, humility, and zeal for spreading the Christian faith.",
 
       spiritualLife:
-        "Ansgar was sent as a missionary to Denmark and later to Sweden, becoming one of the first great evangelizers of Scandinavia. He founded churches and schools, cared for the poor, and worked tirelessly despite political instability and frequent setbacks. In 831 AD he became the first Archbishop of Hamburg, and later also governed the See of Bremen, continuing his missionary efforts throughout Northern Europe.",
+        "Ansgar's missionary vocation began when he was sent to Denmark to assist in evangelizing the Scandinavian peoples. He later travelled to Sweden, where he established one of the first lasting Christian communities in the region. Despite political unrest, Viking raids, and repeated setbacks that destroyed churches and interrupted his work, Ansgar remained steadfast in preaching the Gospel. In 831 AD he was appointed the first Archbishop of Hamburg and was later entrusted with the See of Bremen after Hamburg was devastated by Viking attacks. He founded churches, monasteries, and schools, promoted the education of clergy, ransomed Christian captives, cared for the poor, and worked tirelessly to establish the Church throughout Northern Europe. His missionary efforts earned him the enduring title 'Apostle of the North.'",
 
       death:
-        "Ansgar died on February 3, 865 AD, in Bremen after more than three decades of missionary work among the Scandinavian peoples.",
+        "Ansgar died on February 3, 865 AD, in Bremen after more than three decades of missionary work among the Scandinavian peoples. Although many of his missions faced enormous difficulties during his lifetime, he remained faithful to his calling until the end.",
 
       legacy:
-        "St. Ansgar is remembered as the 'Apostle of the North' for laying the foundations of Christianity in Denmark and Sweden. His perseverance in the face of hardship made him one of the great missionary saints of the medieval Church.",
+        "St. Ansgar is remembered as the pioneer who laid the foundations for the later Christianization of Denmark, Sweden, and much of Northern Europe. While widespread conversion occurred after his lifetime, his perseverance, courage, and trust in God prepared the way for future missionaries. His life remains a powerful example of missionary dedication, patience, and hope in the face of adversity.",
 
       canonization:
-        "Ansgar was recognized as a saint through the ancient tradition of the Church as a holy bishop and missionary.",
+        "Ansgar was recognized as a saint through the ancient tradition of the Church as a holy bishop, missionary, and evangelizer of Northern Europe.",
     },
   },
   {
@@ -1966,23 +1967,23 @@ export const saints: Saint[] = [
     image:
       "https://www.capuchin.org/images/stories/auto-extract/iosephus-web-960x1280-2x-1_resized.jpg",
     description:
-      "An Italian Capuchin friar and missionary known for his fearless preaching, care for the poor, and tireless efforts to minister to Christians held captive in the Ottoman Empire.",
+      "An Italian Capuchin friar and missionary known for his fearless preaching, extraordinary charity, and tireless efforts to defend and minister to Christians suffering under Ottoman captivity.",
 
     patronOf:
-      "Missionaries, Capuchin friars, prisoners, and the town of Leonessa",
+      "Missionaries, Capuchin friars, prisoners, captives, and the town of Leonessa",
 
     longDescription: {
       earlyLife:
-        "Joseph of Leonessa was born Eufranio Desideri on January 8, 1556 AD, in Leonessa, Italy. After receiving a solid Christian education, he declined offers of marriage and a successful career to enter the Order of Friars Minor Capuchin at the age of sixteen.",
+        "Joseph of Leonessa was born Eufranio Desideri on January 8, 1556 AD, in Leonessa, Italy, into a devout Christian family. From childhood, he was known for his piety, intelligence, and desire to serve God. Although he was offered opportunities for marriage and a comfortable worldly life, he felt called to religious service and entered the Order of Friars Minor Capuchin at the age of sixteen, taking the religious name Joseph. Within the Capuchin community, he embraced a life of poverty, prayer, fasting, and humility.",
 
       spiritualLife:
-        "Following his ordination, Joseph devoted himself to preaching, hearing confessions, and caring for the poor. In 1587 AD he was sent as a missionary to Constantinople, where he ministered to Christian galley slaves and sought the release of captives. His fearless preaching led to his arrest and torture after he publicly challenged the treatment of Christians. After being freed, he returned to Italy and spent the remainder of his life preaching missions, reconciling divided families, and encouraging repentance throughout central Italy.",
+        "After his ordination to the priesthood, Joseph devoted himself to preaching, hearing confessions, and caring for the poor. He became renowned throughout Italy for his powerful sermons, simple lifestyle, and ability to encourage people toward repentance and conversion. In 1587 AD, he was sent as a missionary to Constantinople, where he dedicated himself to serving Christian slaves forced to work on Ottoman ships and in difficult conditions. He boldly preached the Gospel and sought to improve the lives of imprisoned Christians. His efforts to challenge injustice and call for the conversion of Muslims led to his arrest and torture. According to tradition, he was condemned to death but was miraculously spared and later returned to Italy. After his return, Joseph continued preaching missions throughout central Italy, travelling from town to town, reconciling conflicts, helping the poor, and encouraging spiritual renewal.",
 
       death:
-        "Joseph of Leonessa died on February 4, 1612 AD, in Amatrice, Italy, after years of missionary work, preaching, and charitable service.",
+        "Joseph of Leonessa died on February 4, 1612 AD, in Amatrice, Italy, after a lifetime of missionary preaching, penance, and service to those in need. He spent his final years continuing his ministry despite declining health, remaining devoted to prayer and the salvation of souls until his death.",
 
       legacy:
-        "St. Joseph of Leonessa is remembered for his missionary zeal, courage in defending persecuted Christians, and unwavering compassion for the poor and imprisoned. His life exemplifies fearless witness to the Gospel and selfless service to those in need.",
+        "St. Joseph of Leonessa is remembered as a fearless missionary and a model of Capuchin spirituality. His courage in defending persecuted Christians, his compassion for prisoners and the poor, and his dedication to preaching the Gospel made him one of the great missionary figures of the Capuchin Order. His life continues to inspire Christians to combine love of God with active charity toward those who suffer.",
 
       canonization:
         "Joseph of Leonessa was beatified by Pope Clement XII in 1737 AD and canonized by Pope Benedict XIV on June 29, 1746 AD.",
@@ -1995,23 +1996,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKa1IOdHyHWJdBc5_HMXn7LgY-8Qm_UDlkwFe9lTmY6DXWUq3u1ldDj3U&s=10",
     description:
-      "A Sicilian virgin and martyr renowned for her unwavering faith, purity, and courage during the persecution of Christians.",
+      "A Sicilian virgin and martyr renowned for her unwavering faith, purity, and courage during the persecution of Christians under the Roman Empire. She is honoured as one of the great early virgin martyrs of the Church.",
 
     patronOf:
       "Sicily, nurses, breast cancer patients, bell founders, bakers, and protection against fire and earthquakes",
 
     longDescription: {
       earlyLife:
-        "Agatha was born around 231 AD in Catania, Sicily, into a wealthy and noble Christian family. From a young age, she dedicated her life to Christ and made a vow of perpetual virginity.",
+        "Agatha was born around 231 AD in Catania, Sicily, into a wealthy and noble Christian family. From an early age, she showed a deep love for Christ and a desire to dedicate her entire life to God. According to ancient tradition, she consecrated herself as a virgin and refused offers of marriage because she had chosen Christ as her spiritual bridegroom. Her beauty, virtue, and devotion became widely known among the Christian community of Sicily.",
 
       spiritualLife:
-        "During the persecution under Emperor Decius, Agatha refused the advances of the Roman governor Quintianus because of her commitment to Christ. Enraged by her refusal, he subjected her to imprisonment and brutal torture in an attempt to force her to renounce her faith. Despite her suffering, Agatha remained steadfast and placed her complete trust in God.",
+        "During the persecution of Christians under Emperor Decius, Agatha was arrested after refusing the advances of the Roman governor Quintianus, who desired to marry her. Because she remained faithful to her vow of virginity and her commitment to Christ, she was subjected to imprisonment, interrogation, and brutal torture in an attempt to make her abandon her faith. Ancient accounts describe her enduring suffering with remarkable courage, praying for strength and placing her trust entirely in God. Despite her torment, she refused to deny Christ and became a powerful witness of Christian faithfulness and purity.",
 
       death:
-        "Agatha was martyred around 251 AD in Catania, Sicily, after enduring severe torture for her faith. According to tradition, she died peacefully after praying to God to receive her soul.",
+        "Agatha was martyred around 251 AD in Catania, Sicily, during the persecution of Emperor Decius. According to tradition, after enduring imprisonment and severe suffering, she died while praying and entrusting her soul to God. Shortly after her death, Christians began honouring her as a holy virgin and martyr, and her tomb became a place of devotion.",
 
       legacy:
-        "St. Agatha is one of the most beloved virgin martyrs of the early Church. Devotion to her spread rapidly throughout the Christian world, and she is especially invoked for protection against breast diseases, fire, and natural disasters. Her witness of purity and courage continues to inspire Christians today.",
+        "St. Agatha is one of the most beloved virgin martyrs of the early Church and is included among the Canonical Saints mentioned in the Roman Canon of the Mass. Devotion to her spread throughout the Christian world, particularly in Sicily, where she is regarded as the principal patron saint of Catania. She is traditionally invoked for protection against fire and earthquakes, especially because of accounts that her intercession helped protect Catania from volcanic eruptions of Mount Etna. She is also associated with breast diseases because of the traditional accounts of her martyrdom. Her courage and purity continue to inspire Christians facing suffering and persecution.",
 
       canonization:
         "Agatha was recognized as a saint through the ancient tradition of the Church as an early Christian virgin and martyr.",
@@ -2023,25 +2024,26 @@ export const saints: Saint[] = [
     name: "St. Adelaide",
     image: "https://anastpaul.com/wp-content/uploads/2019/02/st-adelaide.jpg",
     description:
-      "A Benedictine abbess known for her holiness, wisdom, and faithful leadership of her religious community.",
+      "A Benedictine abbess known for her holiness, wisdom, and faithful leadership of her religious communities. She was renowned for her charity toward the poor, devotion to prayer, and commitment to the Benedictine way of life.",
 
-    patronOf: "Abbesses, Benedictine nuns, and those living the religious life",
+    patronOf:
+      "Abbesses, Benedictine nuns, religious communities, and those living the consecrated life",
 
     longDescription: {
       earlyLife:
-        "Adelaide lived during the 11th century AD in what is now Germany. Drawn to a life of prayer from an early age, she entered the Benedictine monastery of Vilich, where her sister Bertha served as abbess.",
+        "Adelaide lived during the 10th and early 11th centuries AD in the region of Lorraine, within the Holy Roman Empire. She was born into a noble family and was raised with a strong Christian faith. From an early age, she felt called to religious life and entered the Benedictine monastery of Vilich near Bonn, Germany, which had been founded by her parents. There she devoted herself to prayer, study, and the service of God.",
 
       spiritualLife:
-        "After the death of her sister, Adelaide became Abbess of Vilich. She faithfully guided the community through her example of humility, prayer, and charity, encouraging the sisters to live according to the Rule of St. Benedict. She was widely respected for her wisdom and compassionate care for both her religious community and the poor.",
+        "After the death of her sister Bertha, who had served as the first abbess of Vilich, Adelaide was chosen to succeed her as abbess. Under her leadership, the monastery flourished as a centre of prayer, education, and charity. She encouraged the sisters to faithfully follow the Rule of St. Benedict, emphasizing humility, obedience, hospitality, and care for those in need. Adelaide was especially known for her compassion toward the poor and her concern for the spiritual and material welfare of those entrusted to her care. Later, she was also appointed Abbess of St. Maria im Kapitol in Cologne, where she continued her work of reform and spiritual leadership.",
 
       death:
-        "Adelaide died around 1015 AD at the Abbey of Vilich after many years of devoted service as abbess.",
+        "Adelaide died around 1015 AD at the Abbey of Vilich after many years of devoted service as an abbess. She was honoured by her community as a holy woman whose life reflected deep faith, wisdom, and charity.",
 
       legacy:
-        "St. Adelaide is remembered as a holy Benedictine leader whose life demonstrated the importance of faithful service, prayer, and charity within religious life.",
+        "St. Adelaide is remembered as an exemplary Benedictine leader whose life demonstrated the holiness found in faithful service, prayer, and responsibility for others. Her leadership of multiple religious communities helped strengthen Benedictine spirituality in medieval Germany, and she remains an inspiration for abbesses, religious sisters, and all those called to lives of service and devotion.",
 
       canonization:
-        "Adelaide was recognized as a saint through the ancient tradition of the Church as a holy abbess.",
+        "Adelaide was recognized as a saint through the ancient tradition of the Church as a holy abbess and religious leader.",
     },
   },
   {
@@ -2051,26 +2053,26 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/0/07/Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-%28made-c1635%29.png",
     description:
-      "A group of Japanese martyrs who gave their lives for Christ during the persecution of Christians in Japan, remaining faithful even in the face of execution.",
+      "A group of Japanese martyrs who gave their lives for Christ during the persecution of Christians in Japan. They remained faithful even in the face of execution and became a powerful witness to the strength of Christian faith.",
 
     patronOf:
-      "Japan, missionaries, catechists, and those persecuted for their faith",
+      "Japan, missionaries, catechists, evangelists, and those persecuted for their faith",
 
     longDescription: {
       earlyLife:
-        "St. Paul Miki was born around 1562 AD in Japan into a wealthy family and was educated by the Jesuits. He entered the Society of Jesus and became a gifted preacher, using his knowledge of Japanese culture and language to spread the Gospel. The other martyrs included priests, brothers, and lay Christians from both Japanese and foreign backgrounds.",
+        "Paul Miki was born around 1562 AD in Japan into a wealthy family and was educated by Jesuit missionaries. He became deeply interested in Christianity and entered the Society of Jesus, where he developed a reputation as a gifted preacher and teacher. Using his knowledge of Japanese language, culture, and philosophy, he was able to explain the Christian faith effectively to his people. His companions included Jesuit priests, religious brothers, Franciscan missionaries, and Japanese lay Christians who shared the same commitment to Christ.",
 
       spiritualLife:
-        "Sts. Paul Miki and his companions dedicated themselves to evangelizing Japan during a period when Christianity was rapidly growing. In 1597 AD, they were arrested during the persecution ordered by Toyotomi Hideyoshi. While imprisoned, they continued to preach and encourage fellow Christians. Even while being crucified, St. Paul Miki forgave his executioners and proclaimed his faith in Christ.",
+        "During the late 16th century, Christianity experienced significant growth in Japan through the work of missionaries and local converts. However, political leaders became increasingly suspicious of the influence of Christianity, leading to periods of persecution. In 1597 AD, Paul Miki and his companions were arrested under the orders of Toyotomi Hideyoshi. While imprisoned and during their journey to Nagasaki, they continued to pray, encourage fellow Christians, and proclaim the Gospel. Even while being crucified, Paul Miki preached forgiveness and declared his faith in Christ, showing extraordinary courage and charity toward his persecutors.",
 
       death:
-        "St Paul Miki and his 25 companions were martyred on February 5, 1597 AD, in Nagasaki, Japan. They were crucified on a hill that became known as the Hill of the Martyrs.",
+        "Sts. Paul Miki and his 25 companions were martyred on February 5, 1597 AD, in Nagasaki, Japan. They were crucified on a hill overlooking the city, which later became known as the Hill of the Martyrs. Among the group were both Japanese Christians and foreign missionaries, united in their willingness to give their lives rather than abandon their faith.",
 
       legacy:
-        "The Japanese martyrs are remembered as a powerful witness to the strength of Christian faith in the face of persecution. Their courage helped preserve Christianity in Japan and inspired generations of believers.",
+        "The Japanese martyrs are remembered as one of the greatest examples of Christian witness in Asia. Their courage helped strengthen the faith of Japanese Christians who continued to practise Christianity despite intense persecution. The site of their martyrdom remains a place of pilgrimage, and their example continues to inspire missionaries and Christians facing persecution throughout the world.",
 
       canonization:
-        "St. Paul Miki and his companions were canonized by Pope Pius IX in 1862 AD as holy martyrs of Japan.",
+        "Paul Miki and his companions were canonized by Pope Pius IX in 1862 AD as holy martyrs of Japan.",
     },
   },
   {
@@ -2080,23 +2082,23 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2019/02/franz_ittenbach_hl_dorothea.jpg",
     description:
-      "A virgin and martyr of Cappadocia known for her faithfulness to Christ and her courage during persecution.",
+      "A virgin and martyr of Cappadocia known for her unwavering faithfulness to Christ, purity, and courage during the persecution of Christians under the Roman Empire.",
 
     patronOf:
-      "Gardeners, florists, brides, and those seeking help in times of persecution",
+      "Gardeners, florists, brides, young women, and those seeking courage during persecution",
 
     longDescription: {
       earlyLife:
-        "Dorothea was a Christian virgin who lived in Cappadocia, Asia Minor, during the persecution of Christians under Emperor Diocletian. Little is known about her early life, but tradition remembers her as a woman deeply devoted to Christ.",
+        "Dorothea was a Christian virgin who lived during the late 3rd and early 4th centuries AD in Caesarea of Cappadocia, in modern-day Türkiye. Little is known with certainty about her early life, but ancient Christian tradition remembers her as a woman of great purity, humility, and devotion to Christ. She lived during the persecution of Emperor Diocletian, when Christians throughout the Roman Empire were pressured to abandon their faith and worship pagan gods.",
 
       spiritualLife:
-        "Dorothea refused to abandon her Christian faith despite pressure from Roman authorities. According to tradition, she was brought before the governor and endured imprisonment and torture because she would not sacrifice to pagan gods. Her steadfastness became an example of courage and trust in God.",
+        "Dorothea remained steadfast in her commitment to Christ despite threats and suffering. According to tradition, she was brought before the Roman governor and ordered to sacrifice to pagan deities, but she refused and openly professed her Christian faith. She endured imprisonment and torture with patience, placing her trust entirely in God. Her courage inspired other Christians and established her as an example of faithful witness during times of persecution.",
 
       death:
-        "Dorothea was martyred around 304 AD in Caesarea of Cappadocia. According to tradition, she was executed after refusing to renounce Christ.",
+        "Dorothea was martyred around 304 AD in Caesarea of Cappadocia during the persecution of Emperor Diocletian. According to tradition, she was condemned to death after refusing to renounce Christ. As she was led to her execution, she remained joyful and peaceful, trusting in the promise of eternal life with God.",
 
       legacy:
-        "St. Dorothea is remembered as one of the early virgin martyrs of the Church. She is often depicted carrying flowers and fruit because of a tradition that, after her martyrdom, she sent a miraculous basket of roses and apples to a pagan official who had mocked her faith.",
+        "St. Dorothea is remembered as one of the great early virgin martyrs of the Church. She is traditionally depicted carrying a basket of roses, flowers, and fruit because of the famous legend that after her martyrdom she sent a miraculous basket of roses and apples to the pagan official Theophilus, who had mocked her faith. According to the tradition, this miracle led to his conversion and martyrdom as well. Her association with flowers and gardens led to her becoming the patron saint of gardeners and florists, while her purity and courage continue to inspire Christians seeking holiness.",
 
       canonization:
         "Dorothea was recognized as a saint through the ancient tradition of the Church as an early Christian virgin and martyr.",
@@ -2109,25 +2111,26 @@ export const saints: Saint[] = [
     image:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWu8KXixuprxPxHQG4EqiesKqF6hg4K0TfCQicpX-v3HfrzZ1_1ZBTCGTruU3OeyhEykM2C0XoekqbqW3fz3_yyzuo3hEC-tk9R2m3BXVXPlymgEUBAo8CCoES6Rcecw3TShB3Hqj-DT5h4Q00trF0K-Hk6dZ7FHo-IgcmRXczhkg5B5yBGU9lKveFk6E/s2048/C2D94E41-0604-4441-8649-0A521D4F2A57.jpeg",
     description:
-      "An English nobleman of the 8th century known for his deep faith, pilgrimage to Rome, and for being the father of three saints.",
+      "An English nobleman and pilgrim of the 8th century known for his deep faith, devotion to pilgrimage, and for being the father of three saints who helped spread Christianity throughout Europe.",
 
-    patronOf: "Pilgrims, parents, and families seeking holiness",
+    patronOf:
+      "Pilgrims, parents, fathers, families seeking holiness, and travellers",
 
     longDescription: {
       earlyLife:
-        "Richard was an English nobleman who lived in the Kingdom of Wessex during the 8th century AD. He was married to Wunna and was the father of three children who would become saints: Willibald, Winebald, and Walburga.",
+        "Richard was an English nobleman who lived in the Kingdom of Wessex during the 8th century AD. He was married to Wunna and belonged to a respected family within Anglo-Saxon society. Together they had three children who would become saints: Willibald, Winebald, and Walburga. From an early age, Richard was known for his strong Christian faith and his desire to raise his family in devotion to God.",
 
       spiritualLife:
-        "Richard was known for his strong Christian faith and desire to dedicate his family to the service of God. He raised his children in the faith and supported their religious vocations. Together with his sons, he undertook a pilgrimage to Rome, seeking to deepen his devotion and grow closer to God.",
+        "Richard devoted himself to Christian virtue and sought to place his family's life entirely in God's hands. He supported the religious callings of his children and encouraged their dedication to serving Christ. According to tradition, he travelled with his sons Willibald and Winebald on a pilgrimage to Rome and the Holy Land, seeking spiritual growth and deeper communion with the Church. During their journey, the family visited important Christian sites and became part of the wider missionary movement that was bringing the Gospel to Europe. Richard's example of faith and fatherly guidance became a model of Christian parenthood.",
 
       death:
-        "Richard died around 722 AD in Lucca, Italy, while travelling as a pilgrim to Rome. He was buried in the Church of San Frediano in Lucca, where his relics became the focus of devotion.",
+        "Richard died around 722 AD in Lucca, Italy, while travelling as a pilgrim toward Rome. According to tradition, he fell ill during the journey and died after reaching Lucca. He was buried in the Church of San Frediano, where his tomb became a place of prayer and devotion. His relics were later honoured by Christians who recognised his holiness and his role as the father of saints.",
 
       legacy:
-        "St. Richard is remembered as a model of Christian fatherhood and noble virtue. Through his children, Sts. Willibald, Winebald, and Walburga, his family played an important role in the evangelization and renewal of Christianity in Germany.",
+        "St. Richard the Pilgrim is remembered as an example of Christian fatherhood, humility, and dedication to God. Through his children, Sts. Willibald, Winebald, and Walburga, his family had a lasting influence on the evangelization and Christian renewal of Germany. His life demonstrates the importance of passing on faith within the family and supporting others in their call to holiness.",
 
       canonization:
-        "Richard was recognized as a saint through the ancient tradition of the Church as a holy nobleman and pilgrim.",
+        "Richard was recognized as a saint through the ancient tradition of the Church as a holy nobleman, pilgrim, and father of saints.",
     },
   },
   {
@@ -2137,23 +2140,23 @@ export const saints: Saint[] = [
     image:
       "https://www.catholicmom.com/hs-fs/hubfs/Imported_Blog_Media/jeronimo_emiliani.jpg?width=447&height=600&name=jeronimo_emiliani.jpg",
     description:
-      "An Italian nobleman and founder known for his care of orphans, abandoned children, and the poor, as well as his dedication to Christian education.",
+      "An Italian nobleman, soldier, and founder known for his extraordinary care of orphans, abandoned children, and the poor. Through his works of charity and Christian education, he became a pioneer of organised care for vulnerable children.",
 
     patronOf:
-      "Orphans, abandoned children, educators, and the Somaschi Fathers",
+      "Orphans, abandoned children, educators, caregivers, and the Somaschi Fathers",
 
     longDescription: {
       earlyLife:
-        "Jerome Emiliani was born in 1486 AD in Venice, Italy, into a noble family. He became a soldier in the Venetian army and was captured during a conflict with the League of Cambrai. During his imprisonment, he experienced a profound conversion and entrusted himself to the Virgin Mary.",
+        "Jerome Emiliani was born in 1486 AD in Venice, Italy, into a noble and influential family. As a young man, he followed the expectations of his social class and became a soldier in the Venetian army. During the conflict between Venice and the League of Cambrai, he was captured and imprisoned in 1511 AD. While imprisoned, Jerome experienced a profound spiritual conversion and attributed his liberation to the intercession of the Blessed Virgin Mary. After returning to Venice, he abandoned his former ambitions and began dedicating his life entirely to God and the service of others.",
 
       spiritualLife:
-        "After returning to Venice, Jerome dedicated his life to serving the poor and vulnerable. He cared especially for orphaned and abandoned children, providing them with food, shelter, education, and religious instruction. He founded the Company of the Servants of the Poor, later known as the Clerks Regular of Somasca (Somaschi Fathers), to continue this mission. He also established schools and homes for those in need.",
+        "Following his conversion, Jerome devoted himself to works of mercy, especially caring for the poor, the sick, and abandoned children who had been left without families or support. He used his own resources to provide food, shelter, education, and Christian formation for orphaned children. In 1532 AD, he founded the Company of the Servants of the Poor, which later became the Clerks Regular of Somasca, also known as the Somaschi Fathers. The community continued Jerome's mission of caring for disadvantaged children and promoting Christian education. Jerome was also known for his deep devotion to prayer, the Eucharist, and the Blessed Virgin Mary.",
 
       death:
-        "Jerome Emiliani died on February 8, 1537 AD, in Somasca, Italy, after contracting a disease while caring for people affected by an epidemic.",
+        "Jerome Emiliani died on February 8, 1537 AD, in Somasca, Italy, after contracting a serious illness while caring for people suffering during an epidemic. He continued serving others until the end of his life, offering his suffering in union with Christ.",
 
       legacy:
-        "St. Jerome Emiliani is remembered as a great protector of abandoned children and a pioneer of Christian social care. His work laid the foundation for institutions dedicated to education and the care of the vulnerable.",
+        "St. Jerome Emiliani is remembered as a great apostle of charity and a pioneer in the organised care and education of orphaned children. His compassion transformed the lives of countless young people and inspired the continued work of the Somaschi Fathers around the world. His life remains an example of how personal conversion can lead to a lifelong mission of serving the most vulnerable.",
 
       canonization:
         "Jerome Emiliani was canonized by Pope Clement XIII in 1767 AD and declared the universal patron of orphans and abandoned children by Pope Pius XI in 1928 AD.",
@@ -2166,23 +2169,23 @@ export const saints: Saint[] = [
     image:
       "https://giveninstitute.com/wp-content/uploads/2018/08/Given-Institute-Inspiring-Women-Saint-Josephine-Bakhita.jpg",
     description:
-      "A Sudanese Canossian sister known for her forgiveness, humility, and deep trust in God after enduring slavery and suffering.",
+      "A Sudanese Canossian sister known for her forgiveness, humility, and deep trust in God after enduring years of slavery and suffering. Her life became a powerful witness to the dignity of every person and the transforming power of God's grace.",
 
     patronOf:
-      "Victims of human trafficking, Sudan, and those seeking freedom and healing",
+      "Victims of human trafficking, Sudan, survivors of abuse, migrants, and those seeking freedom and healing",
 
     longDescription: {
       earlyLife:
-        "Josephine Bakhita was born around 1869 AD in Darfur, Sudan. As a child, she was kidnapped by slave traders and endured years of suffering through forced slavery. She was eventually sold several times before being taken to Italy, where she encountered Christianity.",
+        "Josephine Bakhita was born around 1869 AD in the Darfur region of Sudan. At a young age, she was kidnapped by slave traders and separated from her family, beginning years of hardship and suffering. She was sold multiple times and endured physical and emotional abuse before eventually being taken to Italy. Despite the trauma she experienced, she later described how God had been quietly guiding her throughout her life, even during her darkest moments.",
 
       spiritualLife:
-        "While living with the Canossian Sisters in Venice, Josephine discovered the Christian faith and experienced the love of God. She was baptized in 1890 AD and later joined the Institute of the Daughters of Charity, becoming a Canossian sister in 1896 AD. She spent the rest of her life serving others with humility, kindness, and joy. Despite the suffering she had endured, she forgave those who had harmed her and saw her life as guided by God's providence.",
+        "After arriving in Italy, Josephine came into contact with the Canossian Sisters in Venice, where she discovered Christianity and experienced the love and mercy of God. She was baptized on January 9, 1890 AD, taking the name Josephine Margaret Bakhita. Soon afterward, she chose to dedicate her life completely to Christ and entered the Institute of the Daughters of Charity, becoming a Canossian sister in 1896 AD. As a religious sister, she served as a cook, seamstress, and doorkeeper, carrying out ordinary duties with extraordinary love and humility. She became known for her gentle character, joyful spirit, and willingness to forgive those who had caused her suffering. She often spoke of God's providence and the freedom she found through faith in Christ.",
 
       death:
-        "Josephine Bakhita died on February 8, 1947 AD, in Schio, Italy, after many years of religious life and service.",
+        "Josephine Bakhita died on February 8, 1947 AD, in Schio, Italy, after many years of devoted service as a Canossian sister. In her final moments, she repeatedly expressed her desire to see God and peacefully entrusted herself to Him.",
 
       legacy:
-        "St. Josephine Bakhita is remembered as a powerful witness to forgiveness, human dignity, and the transforming grace of God. Her life has become a source of hope for survivors of slavery and human trafficking around the world.",
+        "St. Josephine Bakhita is remembered as a powerful witness to forgiveness, resilience, and the dignity of every human person. Her journey from slavery to religious life demonstrates the transforming power of God's grace and the hope found in Christ. She has become a symbol of hope for survivors of slavery and human trafficking, and her life continues to inspire efforts to defend human dignity and freedom throughout the world.",
 
       canonization:
         "Josephine Bakhita was beatified by Pope John Paul II in 1992 AD and canonized by Pope John Paul II on October 1, 2000 AD.",
@@ -2195,23 +2198,23 @@ export const saints: Saint[] = [
     image:
       "https://blog.sesamehub.com/gorczyca-annmarie/files/2016/11/Dr-G-St_Apollonia._Oil_painting_by_a_follower_of_Francisco_de_Zur_Wellcome_V0017334.jpg",
     description:
-      "An Alexandrian virgin and martyr known for her courage, faithfulness to Christ, and endurance during persecution.",
+      "An Alexandrian virgin and martyr known for her unwavering faith in Christ, courage during persecution, and willingness to endure suffering rather than abandon the Gospel.",
 
     patronOf:
-      "Dentists, tooth problems, dental patients, and those suffering from illness",
+      "Dentists, dental patients, those suffering from tooth pain, and those facing illness or persecution",
 
     longDescription: {
       earlyLife:
-        "Apollonia was a Christian woman who lived in Alexandria, Egypt, during the 3rd century AD. Little is known about her early life, but she was a respected member of the Christian community and was known for her devotion to God.",
+        "Apollonia was a Christian woman who lived in Alexandria, Egypt, during the 3rd century AD. She was a respected member of the Christian community and was known for her devotion to prayer and service. Although few details of her early life are known, ancient accounts describe her as a woman of great faith who lived during a time when Christians frequently faced hostility and persecution within the Roman Empire.",
 
       spiritualLife:
-        "During a violent persecution of Christians in Alexandria, Apollonia was seized by a mob that demanded she renounce her faith. Despite threats and suffering, she refused to deny Christ. She remained steadfast, offering her life as a witness to the truth of the Gospel.",
+        "During a violent uprising against Christians in Alexandria around 249 AD, Apollonia was seized by a pagan mob. According to the writings of St. Dionysius of Alexandria, her attackers attempted to force her to renounce Christ by threatening her with torture. Despite the suffering inflicted upon her, Apollonia remained faithful and refused to abandon her belief in Jesus Christ. Her courage and willingness to suffer for the faith became a powerful witness to other Christians facing persecution.",
 
       death:
-        "Apollonia was martyred around 249 AD in Alexandria during the persecution under Emperor Decius. According to tradition, her persecutors knocked out her teeth before she willingly gave her life rather than abandon her faith.",
+        "Apollonia was martyred around 249 AD in Alexandria, Egypt, during the persecution that occurred before the reign of Emperor Decius. According to tradition, her persecutors violently removed her teeth as part of her torture. Rather than deny Christ, she chose to give her life as a martyr. Ancient accounts state that she willingly accepted death after enduring her sufferings with remarkable courage.",
 
       legacy:
-        "St. Apollonia is one of the most famous virgin martyrs of the early Church. Because of the suffering she endured, she became the patron saint of dentists and those suffering from dental pain. Her courage continues to inspire Christians facing trials and persecution.",
+        "St. Apollonia became one of the most widely venerated virgin martyrs of the early Church. Because of the torture she endured involving her teeth, she became associated with dental suffering and was adopted as the patron saint of dentists and those experiencing tooth pain. Artists traditionally depict her holding pincers or a tooth as symbols of her martyrdom. Her witness continues to inspire Christians to remain faithful during times of suffering and trial.",
 
       canonization:
         "Apollonia was recognized as a saint through the ancient tradition of the Church as an early Christian virgin and martyr.",
@@ -2224,26 +2227,26 @@ export const saints: Saint[] = [
     image:
       "https://beingbenedictine.com/wp-content/uploads/2021/02/scholastica-and-benedict.jpg",
     description:
-      "An Italian nun and founder of the Benedictine women's monastic tradition, known for her devotion to prayer, humility, and her close spiritual bond with her brother St. Benedict.",
+      "An Italian nun and founder of the Benedictine women's monastic tradition, known for her devotion to prayer, humility, and her close spiritual bond with her twin brother St. Benedict of Nursia.",
 
     patronOf:
-      "Nuns, Benedictine communities, convulsive children, storms, and education",
+      "Nuns, Benedictine communities, contemplatives, education, convulsive children, and protection from storms",
 
     longDescription: {
       earlyLife:
-        "Scholastica was born around 480 AD in Nursia, Italy, into a Christian family. She was the twin sister of St. Benedict of Nursia, the founder of Western monasticism. From an early age, she dedicated herself to God and pursued a life of prayer and holiness.",
+        "Scholastica was born around 480 AD in Nursia, Italy, into a Christian family. She was the twin sister of St. Benedict of Nursia, the founder of Western monasticism. Raised in a deeply religious household, she developed a strong desire for a life dedicated entirely to God from an early age. Like her brother, she sought a deeper relationship with Christ through prayer, simplicity, and devotion.",
 
       spiritualLife:
-        "Scholastica founded a community of women dedicated to prayer and the monastic life near Monte Cassino, following principles similar to those of her brother Benedict. She devoted herself to contemplation, charity, and obedience. According to the writings of St. Gregory the Great, her deep love for God was shown through her final meeting with Benedict, when her prayer for more time together was answered through a miraculous storm that prevented him from leaving.",
+        "Scholastica dedicated herself to the religious life and established a community of women devoted to prayer and monastic discipline near Monte Cassino, where her brother had founded his famous monastery. Although she lived separately from Benedict's monks, her community followed a similar spirit of devotion, humility, obedience, and service. She became known for her profound love of God and her life of contemplation. According to St. Gregory the Great's account in the 'Dialogues', Scholastica's final meeting with Benedict revealed the depth of her faith. When Benedict prepared to leave after their spiritual conversation, Scholastica prayed that they might continue speaking, and a sudden storm prevented him from departing. Benedict recognized this as a sign that God had answered her prayer, and they spent the night sharing in holy conversation.",
 
       death:
-        "Scholastica died around 547 AD at her monastery near Monte Cassino. According to tradition, St. Benedict saw her soul ascending to Heaven in the form of a dove shortly after her death.",
+        "Scholastica died around 547 AD at her monastery near Monte Cassino, shortly after her final meeting with her brother. According to the tradition recorded by St. Gregory the Great, Benedict saw a vision of her soul ascending to Heaven in the form of a dove, symbolizing her purity and peaceful entrance into eternal life.",
 
       legacy:
-        "St. Scholastica is remembered as the mother of Benedictine nuns and as a model of contemplative prayer and complete dedication to God. Her life demonstrates the power of love, humility, and faithfulness.",
+        "St. Scholastica is remembered as the mother of Benedictine women religious and one of the great figures of Western monasticism. Her life demonstrates the importance of contemplative prayer, humility, and complete trust in God. Her close spiritual relationship with St. Benedict also highlights the shared vocation of men and women in the pursuit of holiness. Benedictine communities around the world continue to look to her as an example of faithful devotion and love of God.",
 
       canonization:
-        "Scholastica was recognized as a saint through the ancient tradition of the Church as a holy virgin and foundress of monastic life.",
+        "Scholastica was recognized as a saint through the ancient tradition of the Church as a holy virgin and foundress of Benedictine monastic life.",
     },
   },
   {
@@ -2253,26 +2256,26 @@ export const saints: Saint[] = [
     image:
       "https://young-catholics.com/wp-content/uploads/2025/02/Three-Witnesses-Of-Courage-And-Charity-Download-WM.jpg",
     description:
-      "Early Christian martyrs remembered for their faithfulness to Christ during the persecutions of the Roman Empire.",
+      "Early Christian martyrs remembered for their steadfast faith in Christ, courage during persecution, and willingness to suffer rather than abandon the Gospel.",
 
     patronOf:
-      "Those facing persecution and Christians seeking courage in faith",
+      "Those facing persecution, Christians seeking courage in faith, and communities enduring hardship",
 
     longDescription: {
       earlyLife:
-        "Little is known about the lives of Zoticus, Hyacinth, and Amantius. They were Christians who lived during the early centuries of the Church, when believers faced persecution for their faith.",
+        "Little is known with certainty about the lives of Zoticus, Hyacinth, and Amantius. They were Christians who lived during the early centuries of the Church, a period when followers of Christ often faced hostility and persecution throughout the Roman Empire. Ancient Christian tradition preserves their names as witnesses who remained faithful to Christ despite the dangers of openly professing the Christian faith.",
 
       spiritualLife:
-        "The three martyrs remained devoted to Christ despite the dangers faced by Christians under Roman rule. Their witness showed their willingness to suffer rather than deny their belief in the Gospel.",
+        "Zoticus, Hyacinth, and Amantius lived during a time when becoming a Christian could bring serious consequences, including imprisonment, torture, and death. According to tradition, they remained devoted to Christ and refused to compromise their faith when faced with persecution. Their witness reflected the belief of the early Church that faithfulness to Christ was worth more than earthly security or preserving one's own life. Their courage encouraged other Christians to remain steadfast during times of trial.",
 
       death:
-        "Zoticus, Hyacinth, and Amantius were martyred during the Roman persecutions. The exact circumstances and date of their martyrdom are uncertain, but they were honoured by the early Christian community for their sacrifice.",
+        "Sts. Zoticus, Hyacinth, and Amantius were martyred during the Roman persecutions, though the exact date, location, and circumstances of their deaths are uncertain. Like many early Christian martyrs, they were honoured by the local Christian communities who preserved their memory and celebrated their example of faithfulness to Christ.",
 
       legacy:
-        "Sts. Zoticus, Hyacinth, and Amantius are remembered as examples of the courage and fidelity of the early martyrs who helped strengthen the Church through their witness.",
+        "Sts. Zoticus, Hyacinth, and Amantius are remembered as examples of the countless unnamed and lesser-known martyrs whose sacrifices helped strengthen the early Church. Their lives remind Christians that holiness is often found in quiet perseverance, courage, and complete trust in God even during suffering.",
 
       canonization:
-        "Zoticus, Hyacinth, and Amantius were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
+        "Zoticus, Hyacinth, and Amantius were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -2282,22 +2285,23 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2024/02/st-soteris-the-martyr-vm-10-feb.jpg",
     description:
-      "A Roman virgin and martyr remembered for her courage, humility, and steadfast faith during the persecution of Christians.",
+      "A Roman virgin and martyr remembered for her courage, humility, and steadfast faith during the persecution of Christians. She was honoured by St. Ambrose of Milan as an example of Christian virtue and fearless witness to Christ.",
 
-    patronOf: "Those facing persecution and those seeking courage in faith",
+    patronOf:
+      "Those facing persecution, virgins, and those seeking courage in faith",
 
     longDescription: {
       earlyLife:
-        "Sotera was a Christian woman from Rome who lived during the 3rd century AD. According to tradition, she came from a noble Christian family and was related to St. Ambrose of Milan, who later praised her faith and courage.",
+        "Sotera was a Christian woman who lived in Rome during the 3rd century AD. According to ancient tradition, she came from a noble Christian family and was related to St. Ambrose of Milan, who later praised her holiness and courage. Despite her privileged background, she embraced a life of humility and devotion to Christ during a period when Christians often faced social pressure and persecution for their faith.",
 
       spiritualLife:
-        "Sotera dedicated her life to Christ and refused to abandon her faith during persecution. Despite her noble background, she chose humility and remained committed to the Gospel, becoming an example of Christian courage and purity.",
+        "Sotera dedicated her life entirely to Christ and was known for her purity, humility, and strong commitment to the Gospel. During a time when Christians were threatened for refusing to worship pagan gods, she remained faithful and would not deny her belief in Christ. Her example of courage and steadfastness became a source of inspiration for later generations of Christians. St. Ambrose specifically honoured her as a model of faithfulness and virtue in his writings.",
 
       death:
-        "Sotera was martyred around 304 AD in Rome during the persecution under Emperor Diocletian. According to tradition, she endured torture without denying Christ and gave her life as a witness to her faith.",
+        "Sotera was martyred around 304 AD in Rome during the persecution of Emperor Diocletian. According to tradition, she endured torture without renouncing her Christian faith and accepted death as a witness to Christ. Her martyrdom became part of the memory of the early Roman Church, which honoured those who gave their lives for the Gospel.",
 
       legacy:
-        "St. Sotera is remembered as one of the early Roman virgin martyrs and as an example of steadfast devotion to Christ. Her witness was honoured by later generations of Christians, including St. Ambrose.",
+        "St. Sotera is remembered as one of the early Roman virgin martyrs and as an example of courage, humility, and complete dedication to Christ. Her witness was especially preserved through the writings of St. Ambrose, who looked to her life as an example of Christian strength and holiness. She remains a reminder that faithfulness to God can shine even in times of suffering and persecution.",
 
       canonization:
         "Sotera was recognized as a saint through the ancient tradition of the Church as an early Christian virgin and martyr.",
@@ -2310,22 +2314,23 @@ export const saints: Saint[] = [
     image:
       "https://www.vaticannews.va/content/dam/vaticannews/santi/20230211_Basilica-di-san-Paolo-fuori-le-mura_medaglioni-papi_GREGORIO-II.png/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.png",
     description:
-      "A Roman pope known for defending the veneration of sacred images, supporting missionary work, and strengthening the Church during a time of great political and religious conflict.",
+      "A Roman pope known for defending the veneration of sacred images, supporting missionary work, and strengthening the Church during a period of political instability and religious conflict.",
 
-    patronOf: "Popes, missionaries, and defenders of Christian tradition",
+    patronOf:
+      "Popes, missionaries, Church leaders, and defenders of Christian tradition",
 
     longDescription: {
       earlyLife:
-        "Gregory II was born around 669 AD in Rome into a Christian family. He received a thorough education in Scripture, theology, and Church administration before entering the service of the Roman Church.",
+        "Gregory II was born around 669 AD in Rome into a Christian family with strong ties to the Church. He received an excellent education in Scripture, theology, and Church administration and was eventually brought into the service of the Roman clergy. Before becoming pope, he served in important roles within the Church, gaining experience in pastoral leadership and diplomatic affairs during a time of growing tensions between Rome and the Byzantine Empire.",
 
       spiritualLife:
-        "Gregory was elected Pope in 715 AD. During his pontificate, he worked to reform Church discipline, support monastic life, and encourage missionary activity, especially in Germanic lands. He supported the missionary efforts of St. Boniface, whom he sent to evangelize central Europe. He also strongly defended the traditional Christian practice of venerating sacred images during the Byzantine Iconoclast controversy.",
+        "Gregory II was elected Pope in 715 AD and led the Church for sixteen years during a challenging period of political and religious upheaval. He worked to strengthen Church discipline, encourage monastic renewal, and promote the spread of Christianity among newly converted peoples. He played a major role in supporting missionary activity in Germanic territories, especially the work of St. Boniface, whom he commissioned to evangelize central Europe and later appointed as bishop. Gregory also became one of the strongest defenders of the traditional Christian practice of venerating sacred images during the Byzantine Iconoclast controversy. He opposed attempts to remove or destroy religious images, teaching that their proper use helped Christians honour Christ, the saints, and the truths of the faith they represented.",
 
       death:
-        "Gregory II died on February 11, 731 AD, in Rome after sixteen years of service as pope.",
+        "Gregory II died on February 11, 731 AD, in Rome after sixteen years of service as pope. He was buried in St. Peter's Basilica, where later generations continued to honour his memory as a faithful shepherd of the Church.",
 
       legacy:
-        "St. Gregory II is remembered as a courageous pope who defended Christian tradition, supported missionary expansion, and helped strengthen the Church during a difficult period of political and religious upheaval.",
+        "St. Gregory II is remembered as a courageous pope who defended the traditions of the Church, supported the evangelization of Europe, and helped preserve Christian unity during a time of conflict between Rome and the Byzantine world. His support of missionaries, especially St. Boniface, had a lasting impact on the spread of Christianity throughout central Europe.",
 
       canonization:
         "Gregory II was recognized as a saint through the ancient tradition of the Church as a holy pope.",
@@ -2338,22 +2343,23 @@ export const saints: Saint[] = [
     image:
       "https://www.vaticannews.va/content/dam/vaticannews/santi/20230211_Basilica-di-san-Paolo-fuori-le-mura_medaglioni-papi_PASQUALE.png/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.png",
     description:
-      "A ninth-century pope known for supporting the poor, protecting persecuted Christians, and promoting the decoration and restoration of Roman churches.",
+      "A ninth-century pope known for his care for the poor, protection of persecuted Christians, support of sacred art, and efforts to preserve the traditions and heritage of the Roman Church.",
 
-    patronOf: "Popes, Church builders, and those caring for the poor",
+    patronOf:
+      "Popes, Church builders, artists, those caring for the poor, and protectors of Christian heritage",
 
     longDescription: {
       earlyLife:
-        "Paschal I was born in Rome during the 8th century AD. He was educated at the Lateran school and later became a member of the Roman clergy before being elected pope in 817 AD.",
+        "Paschal I was born in Rome during the late 8th century AD. He was raised in a Christian environment and received his education at the Lateran school, one of the most important centres of learning in the medieval Roman Church. He later became a member of the Roman clergy and served in various roles before being elected Pope in 817 AD during a period of political uncertainty between Rome and the Byzantine Empire.",
 
       spiritualLife:
-        "During his pontificate, Paschal I worked to preserve the traditions of the Roman Church and supported the veneration of sacred images. He helped Christians fleeing persecution in the Byzantine Empire and provided care for the poor and refugees. He also restored and decorated several Roman churches, including Santa Prassede, where many ancient Christian mosaics from his time remain.",
+        "As pope, Paschal I dedicated himself to strengthening the spiritual life and traditions of the Roman Church. He continued the defence of sacred images during the Byzantine Iconoclast controversy and welcomed Christians who fled persecution in the Eastern Empire. He showed great concern for the poor, refugees, and those suffering because of political and religious conflicts. Paschal also promoted the beauty of Christian worship through the restoration and decoration of churches throughout Rome. His most famous achievement was the rebuilding and embellishment of the Basilica of Santa Prassede, where magnificent mosaics from his pontificate still survive. He also worked to preserve the memory of the early Christian martyrs by transferring many relics from abandoned catacombs to safer locations within Roman churches.",
 
       death:
-        "Paschal I died on February 11, 824 AD, in Rome after seven years as pope. He was buried in the Basilica of Santa Prassede.",
+        "Paschal I died on February 11, 824 AD, in Rome after serving as pope for seven years. He was buried in the Basilica of Santa Prassede, the church most closely associated with his pontificate and his devotion to preserving the heritage of the early Church.",
 
       legacy:
-        "St. Paschal I is remembered as a pope who protected Christian communities, supported the arts and liturgical life of the Church, and preserved the memory of early Christian martyrs by transferring many relics to Roman churches.",
+        "St. Paschal I is remembered as a pope who combined pastoral care, defence of Christian tradition, and support for sacred art. His efforts helped preserve the relics and memory of the early martyrs while strengthening Roman churches as centres of Christian worship. The mosaics and restorations from his time remain important examples of early medieval Christian art and devotion.",
 
       canonization:
         "Paschal I was recognized as a saint through the ancient tradition of the Church as a holy pope.",
@@ -2366,26 +2372,26 @@ export const saints: Saint[] = [
     image:
       "https://www.mountcarmelblessedsacrament.com/wp-content/uploads/2021/02/Saint-Saturninus.jpg",
     description:
-      "A group of early Christian martyrs of North Africa remembered for their courage, faithfulness, and witness to Christ during persecution.",
+      "A group of early Christian martyrs of North Africa remembered for their courage, devotion to the Eucharist, and refusal to abandon the worship of Christ during persecution.",
 
     patronOf:
-      "Those facing persecution and Christians seeking strength in faith",
+      "Those facing persecution, Eucharistic devotion, and Christians seeking strength in faith",
 
     longDescription: {
       earlyLife:
-        "Saturninus and his companions were Christians who lived in North Africa during the early 4th century AD. Little is known about their individual lives, but they belonged to a Christian community that remained faithful during a period of intense persecution.",
+        "Saturninus and his companions were members of the Christian community of Abitinae, a town in Roman North Africa, during the early 4th century AD. Among them were priests, readers, deacons, and lay Christians who gathered regularly for worship. Although little is known about their personal lives before their martyrdom, they were remembered as faithful members of a community deeply devoted to Christ and the celebration of the Eucharist.",
 
       spiritualLife:
-        "During the persecution of Emperor Diocletian, Saturninus and his companions continued to gather for Christian worship despite imperial laws forbidding such assemblies. Their devotion to the Eucharist and commitment to the Christian community led to their arrest. They refused to deny Christ and remained faithful even under interrogation and suffering.",
+        "During the persecution of Emperor Diocletian, imperial authorities attempted to suppress Christian worship by forbidding gatherings and the celebration of the Eucharist. Despite the danger, Saturninus and his companions continued to meet on the Lord's Day to celebrate Mass. When discovered, they were arrested and brought before Roman officials. During their interrogation, they refused to deny Christ or abandon Christian worship, declaring that the Eucharist and the Lord's Day were essential to their lives as believers.",
 
       death:
-        "Saturninus and his companions were martyred around 304 AD in Abitinae, North Africa, during the persecution under Emperor Diocletian. According to tradition, they were executed after refusing to abandon the celebration of the Eucharist, declaring that they could not live without the Lord's Day.",
+        "Saturninus and his companions were martyred around 304 AD in Abitinae, North Africa, during the persecution of Emperor Diocletian. They endured imprisonment, questioning, and suffering before being executed for their refusal to renounce the Christian faith. Their testimony became especially remembered through the words attributed to them: 'Without the Lord's Day we cannot live,' expressing the central importance of the Eucharist and Christian worship in the life of the early Church.",
 
       legacy:
-        "Sts. Saturninus and his companions are remembered as witnesses to the importance of the Eucharist and Christian worship. Their famous testimony, 'Without the Lord's Day we cannot live,' became a powerful expression of early Christian devotion.",
+        "Sts. Saturninus and his companions are remembered as powerful witnesses to the importance of the Eucharist and the courage of ordinary Christians who remained faithful during persecution. Their martyrdom provides one of the earliest testimonies of Christians refusing to separate themselves from Sunday worship, even when it placed their lives at risk. Their witness continues to inspire Christians to value the Mass and remain faithful in times of hardship.",
 
       canonization:
-        "Saturninus and his companions were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
+        "Saturninus and his companions were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
     },
   },
   {
@@ -2395,23 +2401,23 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2018/02/bl-jordan-of-saxony.jpg",
     description:
-      "A German Dominican friar and second Master General of the Order of Preachers known for his preaching, leadership, and role in spreading the Dominican Order throughout Europe.",
+      "A German Dominican friar and second Master General of the Order of Preachers known for his powerful preaching, leadership, and role in spreading the Dominican mission throughout Europe.",
 
     patronOf:
       "Dominicans, vocations, students, and those seeking guidance in religious life",
 
     longDescription: {
       earlyLife:
-        "Jordan of Saxony was born around 1190 AD in Saxony, Germany, into a noble family. He studied at the University of Paris, where he encountered the preaching of St. Dominic and was inspired to join the newly founded Order of Preachers in 1220 AD.",
+        "Jordan of Saxony was born around 1190 AD in Saxony, Germany, into a noble and well-educated family. He studied at the University of Paris, one of the leading centres of learning in medieval Europe, where he became known for his intelligence and dedication to theological study. While at Paris, he encountered the preaching of St. Dominic and was deeply moved by the Dominican vision of preaching the Gospel through study, poverty, and apostolic service. He joined the Order of Preachers in 1220 AD, becoming one of its earliest members.",
 
       spiritualLife:
-        "Jordan became one of the closest followers of St. Dominic and was chosen as the second Master General of the Dominican Order after Dominic's death in 1221 AD. He travelled extensively throughout Europe preaching, establishing Dominican communities, and encouraging many men and women to embrace religious life. He was known for his deep devotion, excellent preaching, and ability to inspire vocations. He also served as a spiritual guide to Blessed Diana degli Andalò and supported the foundation of the Dominican monastery of Saint Agnes in Bologna.",
+        "Jordan quickly became one of the closest companions and disciples of St. Dominic. After Dominic's death in 1221 AD, Jordan was elected the second Master General of the Dominican Order. Under his leadership, the Order experienced rapid growth, with new communities being established throughout Europe. He travelled extensively, preaching, teaching, and encouraging young men to dedicate themselves to religious life. Jordan was especially gifted in inspiring vocations and is credited with bringing thousands of people into the Dominican Order. He also maintained a close spiritual friendship with Blessed Diana degli Andalò and supported the foundation of the Dominican monastery of Saint Agnes in Bologna. His writings, including his biography of St. Dominic, helped preserve the memory and ideals of the Order's founder.",
 
       death:
-        "Jordan of Saxony died on February 13, 1237 AD, in a shipwreck off the coast of Syria while returning from a pilgrimage to the Holy Land.",
+        "Jordan of Saxony died on February 13, 1237 AD, when the ship carrying him and other pilgrims sank off the coast of Syria while he was returning from a pilgrimage to the Holy Land. His death was mourned throughout the Dominican Order, which had grown greatly through his leadership and dedication.",
 
       legacy:
-        "Blessed Jordan of Saxony is remembered as a great builder of the Dominican Order and a faithful successor of St. Dominic. His writings, especially his biography of St. Dominic, helped preserve the memory and spirituality of the Order's founder.",
+        "Blessed Jordan of Saxony is remembered as one of the great architects of the early Dominican Order. Through his preaching, leadership, and encouragement of religious vocations, he helped establish the Order as a major force in the renewal of the medieval Church. His life demonstrates the power of education, preaching, and spiritual guidance in spreading the Gospel.",
 
       canonization:
         "Jordan of Saxony was beatified by Pope Leo XII in 1826 AD.",
@@ -2424,23 +2430,23 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/7/75/Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg",
     description:
-      "Two Byzantine brothers and missionaries known as the Apostles of the Slavs for bringing Christianity to the Slavic peoples and developing the Glagolitic script.",
+      "Two Byzantine brothers and missionaries known as the Apostles of the Slavs for spreading Christianity among the Slavic peoples, translating Scripture, and developing a written language for evangelization.",
 
     patronOf:
-      "Europe, missionaries, translators, Slavic peoples, and ecumenism",
+      "Europe, missionaries, translators, Slavic peoples, educators, and ecumenism",
 
     longDescription: {
       earlyLife:
-        "Cyril was born Constantine around 826 AD in Thessalonica, Greece, and Methodius was born around 815 AD. They were brothers from a Christian family and received excellent education in philosophy, theology, and languages. Methodius initially served as a government official before becoming a monk, while Cyril became a scholar and philosopher.",
+        "Cyril was born Constantine around 826 AD in Thessalonica, Greece, and Methodius was born around 815 AD in the same region. They came from a Christian family and received an excellent education in philosophy, theology, languages, and classical literature. Methodius initially pursued a career in government administration before leaving public life to become a monk. Cyril became a renowned scholar and teacher in Constantinople, earning the title 'the Philosopher' because of his great knowledge and wisdom.",
 
       spiritualLife:
-        "The brothers were sent as missionaries to the Slavic peoples by the Byzantine Emperor and the Patriarch of Constantinople. They developed a written alphabet for the Slavic language, translated the Scriptures and liturgical texts, and allowed the people to worship using their own language. Their work faced opposition, especially from those who believed only Hebrew, Greek, and Latin could be used in worship. They travelled to Rome to defend their mission, where Pope Adrian II approved their use of Slavonic in the liturgy. Cyril became a monk in Rome and took the name Cyril shortly before his death.",
+        "The brothers dedicated their lives to missionary work and were sent by the Byzantine Emperor and the Patriarch of Constantinople to evangelize the Slavic peoples of Great Moravia. Recognizing the importance of teaching the faith in a language people could understand, they developed the Glagolitic alphabet and translated the Scriptures, prayers, and liturgical texts into Old Church Slavonic. Their approach allowed the Slavic peoples to encounter Christianity within their own culture and language. Their mission faced opposition from some clergy who believed worship should only be conducted in Latin, Greek, or Hebrew. The brothers travelled to Rome to defend their work, and Pope Adrian II approved the use of Slavonic in the liturgy. During his time in Rome, Constantine entered monastic life and took the name Cyril.",
 
       death:
-        "Cyril died on February 14, 869 AD, in Rome after a lifetime of missionary work. Methodius continued their mission and became Archbishop of Sirmium, where he died on April 6, 885 AD.",
+        "Cyril died on February 14, 869 AD, in Rome after years of missionary service. Before his death, he entrusted the continuation of their mission to his brother Methodius. Methodius continued evangelizing the Slavs, serving as Archbishop of Sirmium and enduring opposition while defending the use of the Slavonic language in worship. He died on April 6, 885 AD, in Great Moravia after a lifetime devoted to spreading the Gospel.",
 
       legacy:
-        "Sts. Cyril and Methodius are remembered as the Apostles of the Slavs for their extraordinary contribution to evangelization, language, and culture. Their work helped shape the Christian identity of many Slavic nations and promoted unity between Eastern and Western Christianity.",
+        "Sts. Cyril and Methodius are remembered as the Apostles of the Slavs for their extraordinary contribution to Christian evangelization, education, and culture. Their translation work helped preserve the faith among Slavic peoples and laid the foundation for the development of Slavic Christian literature. Their example of respecting local cultures while proclaiming the Gospel continues to inspire missionary efforts and Christian unity between Eastern and Western traditions.",
 
       canonization:
         "Cyril and Methodius were recognized as saints through the ancient tradition of the Church. They were declared Co-Patrons of Europe by Pope John Paul II in 1980 AD.",
@@ -2453,23 +2459,23 @@ export const saints: Saint[] = [
     image:
       "https://now.fordham.edu/wp-content/uploads/2026/02/Saint-Valentine-Image-1024x576.jpg",
     description:
-      "An early Christian martyr of Rome remembered for his faithfulness to Christ and later associated with Christian traditions of love and marriage.",
+      "An early Christian martyr of Rome remembered for his faithfulness to Christ, pastoral charity, and later association with Christian traditions of love and marriage.",
 
     patronOf:
       "Engaged couples, married couples, love, young people, and beekeepers",
 
     longDescription: {
       earlyLife:
-        "Little is known with certainty about Valentine. According to ancient tradition, he was a Christian priest or bishop who lived in Rome during the 3rd century AD.",
+        "Little is known with certainty about the life of Valentine. According to ancient Christian tradition, he was a priest or bishop who lived during the 3rd century AD in Rome during a period when Christians faced persecution under the Roman Empire. He was remembered by the early Church as a faithful shepherd who cared deeply for the Christian community entrusted to him.",
 
       spiritualLife:
-        "Valentine was known for his dedication to serving the Christian community during a time of persecution. Tradition holds that he assisted Christians who were suffering under Roman authorities and remained faithful despite the danger to his own life.",
+        "Valentine dedicated himself to serving Christ and the needs of the faithful during a time when openly practising Christianity could bring severe consequences. Tradition holds that he assisted Christians who were imprisoned or suffering because of their faith and encouraged believers to remain steadfast. Some later accounts associate him with performing Christian marriages during a period when such unions were restricted, though these details come from medieval traditions rather than contemporary records. His life became associated with the virtues of Christian charity, sacrifice, and faithful love.",
 
       death:
-        "Valentine was martyred around 269 AD in Rome during the persecution under Emperor Claudius II. According to tradition, he was executed for his Christian faith and buried along the Via Flaminia.",
+        "Valentine was martyred around 269 AD in Rome during the persecution under Emperor Claudius II, according to ancient tradition. He was executed because of his Christian faith and buried along the Via Flaminia, one of the major roads leading out of Rome. A basilica was later built near the traditional site of his burial, and his memory continued to be honoured by Christians for centuries.",
 
       legacy:
-        "St. Valentine became one of the most widely known saints in Christian tradition. Over time, devotion to him became associated with love and marriage, giving rise to the celebration of Valentine's Day.",
+        "St. Valentine became one of the most widely recognized saints in Christian tradition. While the historical details of his life remain limited, devotion to him spread throughout Europe during the Middle Ages. Over time, his name became connected with expressions of love, courtship, and marriage, leading to the modern celebration of Valentine's Day. Beyond romantic associations, his witness remains a reminder of sacrificial love rooted in Christian faith.",
 
       canonization:
         "Valentine was recognized as a saint through the ancient tradition of the Church as an early Christian martyr.",
@@ -2482,25 +2488,26 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/0/0b/San_Zeno_che_ride_-_San_Zeno_-_Verona_2016_%283%29.jpg",
     description:
-      "An early Christian martyr remembered for his faithfulness to Christ during persecution.",
+      "An early Christian martyr remembered for his steadfast faith, courage, and witness to Christ during a time of persecution.",
 
-    patronOf: "Those facing persecution and those seeking courage in faith",
+    patronOf:
+      "Those facing persecution and Christians seeking courage in faith",
 
     longDescription: {
       earlyLife:
-        "Little is known about the life of Zenon. He was a Christian who lived during the early centuries of the Church, when believers faced persecution throughout the Roman Empire.",
+        "Little is known with certainty about the life of Zenon. He was a Christian who lived during the early centuries of the Church, when followers of Christ often faced hostility and persecution throughout the Roman Empire. Although historical records about him are limited, the Christian community preserved his memory as a faithful witness who remained devoted to Christ.",
 
       spiritualLife:
-        "Zenon remained faithful to Christ despite opposition and danger. His witness demonstrated the courage and perseverance of early Christians who refused to abandon their faith.",
+        "Zenon lived his faith during a period when Christians were frequently challenged to abandon their beliefs and participate in pagan worship. According to tradition, he remained firm in his confession of Christ and encouraged others to remain faithful despite the dangers they faced. His example reflected the courage, humility, and trust in God that characterized many early Christian martyrs.",
 
       death:
-        "Zenon was martyred during the early persecutions of the Church. The exact circumstances and date of his martyrdom are uncertain, but he was honoured by the Christian community for his sacrifice.",
+        "Zenon was martyred during the early persecutions of the Church, although the exact date, location, and circumstances of his death are uncertain. According to Christian tradition, he gave his life rather than deny his faith in Christ. His sacrifice was remembered by the faithful as a testimony to the strength of Christian conviction under persecution.",
 
       legacy:
-        "St. Zenon is remembered as one of the many early Christian martyrs whose faith helped strengthen the Church during times of persecution.",
+        "St. Zenon is remembered as one of the many unnamed and lesser-known martyrs whose witness helped strengthen the early Church. His life represents the countless Christians who remained faithful during times of suffering and whose sacrifices contributed to the growth and perseverance of Christianity.",
 
       canonization:
-        "Zenon was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
+        "Zenon was recognized as a saint through the ancient tradition of the Church as an early Christian martyr.",
     },
   },
   {
@@ -2510,22 +2517,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqH2x3HdF7_IwLQfhsbhKTtQSQz6n-0uTS2u5QxgS0jI8ttWDihiLKHl2&s=10",
     description:
-      "Two brothers from Brescia who became Christian martyrs, remembered for their courage, preaching, and steadfast faith during persecution.",
+      "Two brothers from Brescia who became Christian martyrs, remembered for their courageous preaching, devotion to Christ, and steadfast witness during persecution.",
 
-    patronOf: "Brescia, Italy, and those facing persecution for their faith",
+    patronOf:
+      "Brescia, Italy, brothers, evangelists, and those facing persecution for their faith",
 
     longDescription: {
       earlyLife:
-        "Faustinus and Jovita were brothers from Brescia, Italy, who lived during the 2nd century AD. According to tradition, they were members of a noble family and became influential Christians known for their commitment to spreading the Gospel.",
+        "Faustinus and Jovita were brothers from Brescia in northern Italy who lived during the early centuries of Christianity, traditionally placed in the 2nd century AD. According to ancient tradition, they came from a noble family and were respected members of their local community. After embracing Christianity, they dedicated themselves to serving the Church and sharing the message of the Gospel with others.",
 
       spiritualLife:
-        "The brothers devoted themselves to preaching Christianity and encouraging others to embrace the faith. During the persecution of Christians under Emperor Hadrian, they were arrested because of their evangelizing work. Despite threats, imprisonment, and torture, they refused to renounce Christ and remained faithful to their beliefs.",
+        "The brothers became active evangelists, preaching Christ and encouraging others to abandon pagan practices and embrace the Christian faith. Their missionary work brought them into conflict with Roman authorities during a period when Christians were often viewed with suspicion. According to tradition, they were arrested during the persecution under Emperor Hadrian and were offered opportunities to renounce their faith. They refused, remaining committed to Christ despite imprisonment, threats, and suffering.",
 
       death:
-        "Faustinus and Jovita were martyred around 121 AD in Brescia, Italy, after enduring persecution for their Christian faith. According to tradition, they were executed after refusing to offer sacrifices to pagan gods.",
+        "Faustinus and Jovita were martyred around 121 AD in Brescia, Italy, according to Christian tradition. After enduring persecution and refusing to offer sacrifices to pagan gods, they were executed because of their steadfast confession of faith. Their courage became a source of encouragement for the Christian community of Brescia.",
 
       legacy:
-        "Sts. Faustinus and Jovita are honoured as the principal patrons of Brescia. Their courage and dedication to the Gospel made them enduring examples of Christian witness and perseverance.",
+        "Sts. Faustinus and Jovita are honoured as the principal patrons of Brescia, where devotion to them has continued for centuries. They are remembered as examples of brotherly faith, missionary courage, and perseverance under persecution. Their witness reflects the strength of the early Christians who proclaimed Christ despite the cost.",
 
       canonization:
         "Faustinus and Jovita were recognized as saints through the ancient tradition of the Church as early Christian martyrs.",
@@ -2538,22 +2546,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSYk-5OwfEs0pWczMqqZIVTe82yzvogkmd7hpO5iBLLtEaVkH-DXFhfU&s=10",
     description:
-      "An early Christian disciple known from the New Testament as the servant of Philemon who became a faithful follower of Christ and bishop.",
+      "An early Christian disciple known from the New Testament as the servant of Philemon who became a faithful follower of Christ, bishop, and witness to the Gospel.",
 
-    patronOf: "Servants, prisoners, and those seeking reconciliation",
+    patronOf:
+      "Servants, prisoners, slaves, reconciliation, and those seeking forgiveness",
 
     longDescription: {
       earlyLife:
-        "Onesimus was a servant belonging to Philemon, a Christian mentioned in the New Testament. According to tradition, Onesimus fled from Philemon and later encountered St. Paul, who was imprisoned at the time.",
+        "Onesimus was a servant belonging to Philemon, a wealthy Christian mentioned in the New Testament Letter to Philemon. He lived during the 1st century AD, when the early Church was spreading throughout the Roman Empire. According to tradition, Onesimus left Philemon's household and later encountered St. Paul while Paul was imprisoned, possibly in Rome. Through this encounter, he was introduced to the Christian faith.",
 
       spiritualLife:
-        "Through St. Paul's preaching, Onesimus became a Christian and was transformed by the Gospel. Paul wrote the Letter to Philemon, asking him to welcome Onesimus not merely as a servant but as a beloved brother in Christ. According to later tradition, Onesimus became a bishop and continued serving the Church.",
+        "After hearing the Gospel from St. Paul, Onesimus experienced a profound conversion and became a devoted follower of Christ. In his letter to Philemon, Paul appealed for Onesimus to be received not merely as a servant but as a beloved brother in Christ, showing the transformative power of Christian love and the dignity of every person before God. According to later Christian tradition, Onesimus continued his service to the Church and was eventually appointed bishop, possibly of Ephesus. He dedicated himself to preaching the Gospel and strengthening Christian communities.",
 
       death:
-        "According to tradition, Onesimus was martyred around 95 AD after preaching the Gospel. The details of his martyrdom are uncertain.",
+        "According to later Christian tradition, Onesimus was martyred around 95 AD after years of proclaiming the Gospel. The exact details and circumstances of his martyrdom are uncertain, but he was honoured by the early Church as a faithful disciple who gave his life for Christ.",
 
       legacy:
-        "St. Onesimus is remembered as a powerful example of conversion, forgiveness, and the dignity of every person in Christ. His story in the Letter to Philemon highlights the transforming power of Christian charity and reconciliation.",
+        "St. Onesimus is remembered as a powerful example of conversion, forgiveness, and the transforming grace of God. His story in the Letter to Philemon highlights the Christian teaching that all people share equal dignity in Christ. His journey from servant to Christian leader continues to inspire those seeking reconciliation, freedom from past struggles, and a renewed life of faith.",
 
       canonization:
         "Onesimus was recognized as a saint through the ancient tradition of the Church as an apostolic disciple and martyr.",
@@ -2566,23 +2575,23 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/6/63/Juliana_of_Nicomedia.jpg",
     description:
-      "A virgin and martyr of Nicomedia known for her courage, purity, and steadfast faith in Christ during persecution.",
+      "A virgin and martyr of Nicomedia known for her courage, purity, and unwavering faith in Christ during the persecution of the early Church.",
 
     patronOf:
-      "The sick, those suffering persecution, and women seeking strength in faith",
+      "The sick, those suffering persecution, women seeking strength in faith, and protection from illness",
 
     longDescription: {
       earlyLife:
-        "Juliana was born in Nicomedia, Asia Minor, during the 3rd century AD. She was the daughter of a pagan official but secretly embraced Christianity. According to tradition, she rejected marriage to a pagan official named Evilasius because she wished to dedicate herself entirely to Christ.",
+        "Juliana was born in Nicomedia, a major city of the Roman Empire in Asia Minor, during the 3rd century AD. According to Christian tradition, she was the daughter of a pagan Roman official and was raised in a society where Christians often faced hostility. Despite her background, she secretly embraced Christianity and devoted herself to following Christ. Tradition holds that she refused marriage to a pagan official named Evilasius because she desired to remain faithful to God rather than enter a marriage that conflicted with her beliefs.",
 
       spiritualLife:
-        "When her Christian faith became known, Juliana was arrested and brought before authorities. She was urged to renounce Christianity and marry, but she refused, declaring her loyalty to Christ above all earthly honours. She endured imprisonment and torture with great courage, becoming a witness to the strength of faith and the power of God’s grace.",
+        "After her Christian faith was discovered, Juliana was brought before Roman authorities and pressured to abandon Christianity. She refused to sacrifice to pagan gods and boldly professed her loyalty to Christ. Ancient accounts describe her enduring imprisonment, torture, and spiritual trials while remaining steadfast through prayer and trust in God. Her courage in the face of suffering became a powerful example of Christian faithfulness and the strength found through grace.",
 
       death:
-        "Juliana was martyred around 304 AD in Nicomedia during the persecution of Emperor Diocletian. According to tradition, she was executed after refusing to abandon her Christian faith.",
+        "Juliana was martyred around 304 AD in Nicomedia during the persecution of Emperor Diocletian. According to tradition, she was executed after refusing to renounce Christ despite severe suffering. Her witness was preserved by the early Christian community, and devotion to her spread throughout the Church.",
 
       legacy:
-        "St. Juliana of Nicomedia became one of the most widely venerated virgin martyrs of the early Church. Her story spread throughout both the Eastern and Western Churches, where she came to represent courage, purity, and victory over persecution.",
+        "St. Juliana of Nicomedia became one of the most widely venerated virgin martyrs of the early Church. Her story spread throughout both the Eastern and Western Christian traditions, where she came to symbolize purity, courage, and victory over persecution. She continues to be honoured as an example of a Christian who placed complete trust in Christ above worldly power and personal security.",
 
       canonization:
         "Juliana was recognized as a saint through the ancient tradition of the Church as an early Christian virgin and martyr.",
@@ -2595,26 +2604,26 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAS4EB6Q5AI8Z1-JIpU8-PZVmOY5CqEezBZQBzY9CZ57mzLw-gvHFi8xNF&s=10",
     description:
-      "Seven Italian saints who founded the Order of the Servants of Mary, known for their devotion to the Blessed Virgin Mary, prayer, and service to the Church.",
+      "Seven Italian saints who founded the Order of the Servants of Mary, known for their deep devotion to the Blessed Virgin Mary, commitment to prayer, and dedication to serving the suffering and poor.",
 
     patronOf:
-      "Servite Order, Marian devotion, and those seeking unity in religious life",
+      "The Servite Order, Marian devotion, religious communities, and those seeking unity in Christian service",
 
     longDescription: {
       earlyLife:
-        "The Seven Founders of the Servite Order were seven Florentine men: Bonfilius of Florence, Alexis Falconieri, Manettus of Florence, Amideus of Amidei, Hugh of Florence, Sostene of Florence, and Buonagiunta of Florence. They lived in 13th-century Florence and were members of a religious confraternity devoted to the Blessed Virgin Mary.",
+        "The Seven Founders of the Servite Order were seven Florentine men: Bonfilius of Florence, Alexis Falconieri, Manettus of Florence, Amideus of Amidei, Hugh of Florence, Sostene of Florence, and Buonagiunta of Florence. They lived in 13th-century Florence, Italy, during a time of political division and social unrest. The seven men were members of the Laudesi, a lay confraternity dedicated to praising the Blessed Virgin Mary through prayer and devotion. Although they came from wealthy and respected families, they felt called to leave behind worldly ambitions and seek a deeper life of holiness.",
 
       spiritualLife:
-        "In 1233 AD, the seven men withdrew from worldly life to dedicate themselves entirely to prayer, penance, and service to God. Inspired by their devotion to the Virgin Mary, they founded the Order of the Servants of Mary (Servites), which focused on contemplation, preaching, and compassion for those suffering. Among them, St. Alexis Falconieri was the only founder who lived into the 14th century and witnessed the growth of the order.",
+        "On the Feast of the Assumption of the Blessed Virgin Mary in 1233 AD, the seven men experienced a profound spiritual calling to dedicate themselves completely to God and the service of Mary. According to tradition, they withdrew from Florence and settled outside the city, where they embraced a life of prayer, penance, and contemplation. They later moved to Monte Senario, where they established their community and founded the Order of the Servants of Mary (Servites). The order followed a life inspired by the humility and suffering of the Virgin Mary, especially her compassion for the Passion of Christ. The Servites became known for preaching, spiritual guidance, care for the poor, and spreading devotion to Our Lady of Sorrows. St. Alexis Falconieri, one of the founders, humbly served the community as a lay brother and refused priestly ordination, dedicating his life to prayer and service.",
 
       death:
-        "The founders died between the 13th and 14th centuries AD. St. Alexis Falconieri, the last surviving founder, died on February 17, 1310 AD, in Monte Senario, Italy.",
+        "The Seven Founders lived long lives devoted to prayer and the growth of the Servite Order. Their deaths occurred throughout the 13th and early 14th centuries. St. Alexis Falconieri, the last surviving founder, died on February 17, 1310 AD, at Monte Senario, Italy, at the age of over 100. He was remembered for his humility, charity, and complete dedication to the Virgin Mary. The founders were buried at Monte Senario, which became an important spiritual centre for the Servite tradition.",
 
       legacy:
-        "The Seven Founders of the Servite Order are remembered for their humility, unity, and deep devotion to Mary. Their order continues to serve the Church through prayer, preaching, and works of mercy throughout the world.",
+        "The Seven Founders of the Servite Order are remembered as examples of unity, humility, and Marian devotion. Their decision to abandon worldly status and live in brotherhood became the foundation of one of the Church's major religious orders. The Servites played an important role in promoting devotion to the Seven Sorrows of the Blessed Virgin Mary and continue their mission through prayer, preaching, education, and works of mercy throughout the world.",
 
       canonization:
-        "The Seven Founders of the Servite Order were canonized by Pope Leo XIII in 1888 AD.",
+        "The Seven Founders of the Servite Order were canonized by Pope Leo XIII on January 15, 1888 AD, recognizing their holiness and their contribution to the life of the Church.",
     },
   },
   {
@@ -2624,25 +2633,26 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2018/02/header-fra-angelico.jpg",
     description:
-      "An Italian Dominican friar and renowned painter known for combining deep faith with sacred art, creating works that expressed the beauty and mystery of Christian worship.",
+      "An Italian Dominican friar and renowned painter known for uniting profound faith with sacred art, creating works that revealed the beauty of the Gospel and inspired prayerful contemplation.",
 
-    patronOf: "Artists, painters, and Christian art",
+    patronOf:
+      "Artists, painters, Christian art, and those seeking inspiration in creativity",
 
     longDescription: {
       earlyLife:
-        "John of Fiesole was born Guido di Pietro around 1395 AD near Vicchio, Tuscany, Italy. He began his career as a painter before entering the Dominican Order at the convent of San Domenico in Fiesole, where he took the religious name Fra Giovanni.",
+        "John of Fiesole was born Guido di Pietro around 1395 AD near Vicchio in Tuscany, Italy. Little is known about his early childhood, but he developed a talent for painting at a young age and became a respected artist in Florence. Rather than pursuing wealth or fame through his artistic gifts, he felt called to religious life and entered the Dominican Order at the convent of San Domenico in Fiesole around 1423 AD, taking the religious name Fra Giovanni. His humility and holiness led his brothers to affectionately call him 'Fra Angelico', meaning 'Angelic Brother'.",
 
       spiritualLife:
-        "Fra Angelico lived a life of prayer, humility, and devotion while using his artistic gifts to glorify God. His paintings, including the frescoes of the San Marco convent in Florence, reflected his deep spirituality and were intended to encourage prayer and contemplation. His work combined artistic excellence with profound expressions of Christian faith.",
+        "Fra Angelico lived his religious vocation through prayer, humility, and the creation of sacred art. He viewed painting not merely as a profession, but as a form of worship and evangelization, using his artistic abilities to lead people closer to God. He painted only religious subjects, especially scenes from the life of Christ, the Virgin Mary, and the saints. His most famous works include the frescoes of the San Marco convent in Florence, where each painting was created to encourage the Dominican friars in meditation and prayer. His art combined the beauty of the Renaissance with deep theological meaning, reflecting his love for Scripture and the teachings of the Church.",
 
       death:
-        "John of Fiesole died on February 18, 1455 AD, in the Dominican convent of Santa Maria sopra Minerva in Rome.",
+        "John of Fiesole died on February 18, 1455 AD, in the Dominican convent of Santa Maria sopra Minerva in Rome while serving his religious community. He was buried in the church attached to the convent, where his tomb remains a place of remembrance and devotion.",
 
       legacy:
-        "Blessed John of Fiesole, commonly known as Fra Angelico, is remembered as one of the greatest Christian artists of the Renaissance. His paintings continue to inspire devotion through their beauty, humility, and theological depth.",
+        "Blessed John of Fiesole, known as Fra Angelico, is remembered as one of the greatest Christian artists in history. His paintings are admired not only for their artistic excellence but also for their ability to communicate faith, humility, and the beauty of God's grace. His life showed that creativity can become a form of prayer and a powerful means of proclaiming the Gospel. His works continue to influence Christian artists and inspire people around the world to encounter God through beauty.",
 
       canonization:
-        "John of Fiesole was beatified by Pope John Paul II in 1982 AD and declared the patron of Catholic artists in 1984 AD.",
+        "John of Fiesole was beatified by Pope John Paul II on October 3, 1982 AD, and was declared the patron of Catholic artists by Pope John Paul II in 1984 AD.",
     },
   },
   {
@@ -2652,22 +2662,23 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2020/02/st-conrad-piacenza.jpg?w=840",
     description:
-      "An Italian nobleman and hermit known for his profound conversion, life of penance, and dedication to prayer after abandoning worldly wealth.",
+      "An Italian nobleman and hermit known for his dramatic conversion, life of penance, and complete dedication to prayer, solitude, and service to the poor.",
 
-    patronOf: "Hermits, penitents, and those seeking conversion",
+    patronOf:
+      "Hermits, penitents, those seeking conversion, and the city of Noto",
 
     longDescription: {
       earlyLife:
-        "Conrad Confalonieri was born around 1290 AD in Piacenza, Italy, into a noble family. As a young man, he lived a life of comfort and privilege. A hunting accident, in which a fire was accidentally started while pursuing game, led to an innocent man being blamed and condemned. Deeply troubled by this injustice, Conrad confessed his responsibility and sought forgiveness.",
+        "Conrad Confalonieri was born around 1290 AD in Piacenza, Italy, into a wealthy and noble family. As a young man, he enjoyed a comfortable life and was involved in hunting and the privileges of the aristocracy. During a hunting expedition, an attempt to flush out game accidentally caused a fire that spread through nearby fields and forests. An innocent man was arrested and sentenced for the damage, but Conrad, deeply moved by guilt, confessed that he was responsible. This experience led him to reconsider his life and seek a deeper relationship with God.",
 
       spiritualLife:
-        "After this event, Conrad and his wife chose to dedicate their lives to God, with his wife entering religious life and Conrad embracing a life of penance and solitude. He became a hermit and travelled to Sicily, where he spent many years in prayer, fasting, and service to the poor. He became known for his humility, charity, and deep union with God.",
+        "Following his conversion, Conrad and his wife Euphrosyne chose to dedicate themselves completely to God. Euphrosyne entered religious life as a Poor Clare nun, while Conrad embraced a life of prayer and penance as a hermit. He gave away his possessions, travelled to Sicily, and settled near Noto, where he lived in solitude while caring for the sick and poor. Despite seeking a hidden life, people were drawn to his holiness and sought his spiritual guidance. Conrad became known for his humility, fasting, charity, and devotion to the Passion of Christ. His life of repentance and prayer became a powerful witness to the mercy of God and the possibility of spiritual transformation.",
 
       death:
-        "Conrad died on February 19, 1351 AD, in Noto, Sicily, while praying before a crucifix. He was buried in the Church of San Nicolò in Noto.",
+        "Conrad Confalonieri died on February 19, 1351 AD, in Noto, Sicily, while praying before a crucifix. According to tradition, he was found kneeling in prayer after giving his final breath. His body was buried in the Church of San Nicolò in Noto, where his relics continue to be venerated.",
 
       legacy:
-        "St. Conrad Confalonieri is remembered as a powerful example of conversion and repentance. His life shows the transformation that can come through humility, penance, and complete dedication to God.",
+        "St. Conrad Confalonieri is remembered as one of the great penitential saints of the medieval Church. His journey from a life of wealth and comfort to one of humility, solitude, and service demonstrates the power of conversion and God's grace. He remains an inspiration for those seeking repentance, a deeper prayer life, and freedom from attachment to worldly possessions.",
 
       canonization:
         "Conrad Confalonieri was canonized by Pope Urban VIII in 1625 AD.",
@@ -2680,22 +2691,22 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/8/86/Leo_of_Catania.jpg",
     description:
-      "An Italian bishop of Catania known for his holiness, charity, and defence of the true faith against superstition and false teachings.",
+      "An Italian bishop of Catania known for his holiness, charity, and defence of the true faith, remembered for his opposition to superstition and his faithful shepherding of the Church.",
 
     patronOf: "Catania, bishops, and those seeking protection from deception",
 
     longDescription: {
       earlyLife:
-        "Leo was born in Ravenna, Italy, during the 8th century AD. Little is known about his early life, but he became a priest and was known for his learning, humility, and dedication to serving God.",
+        "Leo was born in Ravenna, Italy, during the early 8th century AD. From his youth, he was known for his intelligence, humility, and devotion to God. He received a strong education in Scripture and theology and entered the priesthood, dedicating himself to serving the Church. His reputation for holiness and wisdom eventually led him to be chosen for episcopal ministry.",
 
       spiritualLife:
-        "Leo was appointed Bishop of Catania in Sicily around 765 AD. As bishop, he devoted himself to preaching the Gospel, caring for the poor, and strengthening the faith of his people. According to tradition, he opposed the magician Heliodorus, who used deception and false miracles to mislead people. Leo courageously defended the truth of Christianity and worked to lead people away from superstition.",
+        "Leo was appointed Bishop of Catania in Sicily around 765 AD. As shepherd of the local Church, he worked tirelessly to strengthen the faith of his people through preaching, prayer, and acts of charity. He was especially concerned with protecting Christians from superstition and false teachings that distracted them from the truth of the Gospel. According to tradition, Leo confronted the magician Heliodorus, who attempted to deceive people through displays of false miracles and magical practices. Through his faith in Christ, Leo exposed these deceptions and helped restore many people to the true worship of God. He was also known for his care of the poor, compassion toward the suffering, and dedication to the spiritual growth of his flock.",
 
       death:
-        "Leo of Catania died around 785 AD in Catania, Sicily, after many years of faithful service as bishop.",
+        "Leo of Catania died around 785 AD in Catania, Sicily, after many years of faithful service as bishop. He was buried in the city he had served, and devotion to him continued among the Christian people of Sicily.",
 
       legacy:
-        "St. Leo of Catania is remembered as a holy bishop, defender of the faith, and shepherd who protected his people from error while showing compassion and charity toward those in need.",
+        "St. Leo of Catania is remembered as a courageous bishop, defender of Christian truth, and compassionate pastor. His life represents the responsibility of bishops to teach the faith clearly while showing mercy and love toward those entrusted to their care. He remains honoured especially in Sicily, where he is regarded as one of the great protectors of Catania.",
 
       canonization:
         "Leo of Catania was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
@@ -2708,23 +2719,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6-fXEY_coYtMNJyygI--yht7mruX3aCUjDyPLFR-3tHy6oL5wyEW6-0&s=10",
     description:
-      "An Italian Benedictine monk, bishop, theologian, and Doctor of the Church known for his reforms, writings, and defence of Church discipline.",
+      "An Italian Benedictine monk, bishop, theologian, and Doctor of the Church known for his reform of religious life, defence of Church discipline, and influential writings on holiness and Christian spirituality.",
 
     patronOf:
       "Reformers, theologians, religious communities, and those seeking holiness through discipline",
 
     longDescription: {
       earlyLife:
-        "Peter Damian was born around 1007 AD in Ravenna, Italy, into a poor family. After losing his parents at a young age, he was raised by relatives and later supported by his brother Damian, whose name he adopted in gratitude. He received an excellent education and became a teacher before choosing a life of prayer and monasticism.",
+        "Peter Damian was born around 1007 AD in Ravenna, Italy, into a poor family. Orphaned at a young age, he experienced hardship and was mistreated by some relatives before being taken in by his older brother Damian, who cared for him and supported his education. In gratitude, Peter later adopted his brother's name. He studied under excellent teachers and became known for his intelligence, discipline, and love of learning. Although he achieved success as a teacher and scholar, he felt called to abandon worldly recognition and pursue a life completely devoted to God.",
 
       spiritualLife:
-        "Peter entered the Benedictine monastery of Fonte Avellana, where he embraced a life of prayer, fasting, and study. He became abbot of the monastery and worked tirelessly for the reform of religious life and the renewal of the clergy. He was appointed Cardinal-Bishop of Ostia in 1057 AD and played an important role in reforming the Church during a time of corruption and political challenges. Through his writings and preaching, he defended clerical discipline, encouraged holiness among priests and religious, and promoted devotion to Christ and the Virgin Mary.",
+        "Peter entered the Benedictine monastery of Fonte Avellana around 1035 AD, where he embraced a strict life of prayer, fasting, penance, and study. His holiness and leadership abilities were quickly recognized, and he eventually became abbot of the monastery. He worked to restore the original spirit of monastic discipline and encouraged monks to pursue deeper conversion and devotion to Christ. Peter became one of the leading figures of the reform movement within the medieval Church, opposing corruption and encouraging greater holiness among clergy and religious. In 1057 AD, he was appointed Cardinal-Bishop of Ostia and served as a trusted adviser to several popes. Through his writings, preaching, and diplomatic missions, he defended Church unity, promoted clerical celibacy, and called priests and religious to a life of greater spiritual integrity. He also wrote extensively on prayer, asceticism, Scripture, and devotion to the Blessed Virgin Mary.",
 
       death:
-        "Peter Damian died on February 22, 1072 AD, in Faenza, Italy, while returning from a diplomatic mission on behalf of the Pope.",
+        "Peter Damian died on February 22, 1072 AD, in Faenza, Italy, while returning from a diplomatic mission undertaken on behalf of the Pope. He was buried in the cathedral of Faenza, where his memory continued to be honoured by the faithful.",
 
       legacy:
-        "St. Peter Damian is remembered as one of the great reformers of the medieval Church. His writings on theology, spirituality, and Church discipline influenced generations of Christians, and his commitment to holiness helped prepare the way for wider Church reform.",
+        "St. Peter Damian is remembered as one of the greatest reformers of the medieval Church and a powerful voice for renewal and holiness. His writings shaped Catholic theology and spirituality, especially regarding the importance of discipline, repentance, and faithful service to God. His efforts helped prepare the Church for the broader reforms that followed during the Gregorian Reform. As a Doctor of the Church, he remains an important guide for those seeking deeper conversion and dedication to Christian life.",
 
       canonization:
         "Peter Damian was declared a Doctor of the Church by Pope Leo XII in 1828 AD.",
@@ -2737,23 +2748,23 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/6/6f/Calvi_J._A._Estasi_di_santa_Margherita.jpg",
     description:
-      "An Italian penitent and member of the Third Order of St. Francis known for her profound conversion, charity, and life of prayer and penance.",
+      "An Italian penitent and member of the Third Order of St. Francis known for her dramatic conversion, deep devotion to Christ, care for the poor, and life of prayer and penance.",
 
     patronOf:
-      "The falsely accused, the homeless, single mothers, and penitents",
+      "The falsely accused, the homeless, single mothers, penitents, and those seeking conversion",
 
     longDescription: {
       earlyLife:
-        "Margaret of Cortona was born around 1247 AD in Laviano, Tuscany, Italy. After the death of her mother, she experienced difficulties in her youth and later lived with a nobleman named Arsenio. Following his sudden death, Margaret underwent a deep conversion and turned away from her former life.",
+        "Margaret of Cortona was born around 1247 AD in Laviano, Tuscany, Italy, into a farming family. After the death of her mother, she experienced a difficult childhood and felt neglected by her family. As a young woman, she left home and lived for several years with Arsenio, a nobleman from Montepulciano. Although this relationship was outside Christian marriage, Margaret later experienced a profound spiritual awakening after Arsenio's sudden death. Confronted with the emptiness of her former life, she returned to the faith with deep repentance and a desire to dedicate herself completely to God.",
 
       spiritualLife:
-        "After her conversion, Margaret dedicated herself to prayer, penance, and serving the poor. She joined the Third Order of St. Francis and lived a life of humility and charity. She became known for her devotion to the Eucharist, her care for the sick and abandoned, and her deep mystical experiences. She also founded a community of women devoted to caring for the poor and established a hospital in Cortona.",
+        "Following her conversion, Margaret renounced her former way of life and devoted herself to prayer, penance, and works of mercy. She sought forgiveness and reconciliation with the Church and became a member of the Third Order of St. Francis. Living in Cortona, she embraced a life of humility and service, caring especially for the sick, the poor, and those abandoned by society. She had a deep devotion to the Eucharist, the Passion of Christ, and the Blessed Virgin Mary, and was known for intense mystical experiences during prayer. Margaret also worked to defend those who were unjustly accused and founded a community of women known as the Poor Ones of St. Mary Magdalene, dedicated to caring for the poor. She helped establish a hospital in Cortona where the suffering could receive care and compassion.",
 
       death:
-        "Margaret of Cortona died on February 22, 1297 AD, in Cortona, Italy, after many years of prayer, penance, and service to those in need.",
+        "Margaret of Cortona died on February 22, 1297 AD, in Cortona, Italy, after many years of prayer, penance, and service to the poor. She was buried in the Franciscan church of Cortona, where her relics continue to be honoured.",
 
       legacy:
-        "St. Margaret of Cortona is remembered as a powerful example of repentance and the transforming mercy of God. Her life continues to inspire those seeking conversion and a deeper commitment to Christ.",
+        "St. Margaret of Cortona is remembered as one of the great penitential saints of the Church and as a powerful witness to the mercy and forgiveness of God. Her life demonstrates that conversion is possible through God's grace and that a renewed life can become a source of holiness and charity. She remains an inspiration for penitents, those experiencing hardship, and all who seek a deeper relationship with Christ.",
 
       canonization:
         "Margaret of Cortona was canonized by Pope Benedict XIII in 1728 AD.",
@@ -2766,22 +2777,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagGqodvA8SrW2qqUnRs1YcRePs87OO5p64akE0eLwsA&s=10",
     description:
-      "An Italian bishop known for his leadership, theological writings, and dedication to strengthening the Church in Ravenna.",
+      "An Italian bishop and Archbishop of Ravenna known for his leadership, theological writings, care for the Church, and role in preserving the Christian heritage of the ancient city.",
 
-    patronOf: "Ravenna, bishops, and Church leaders",
+    patronOf:
+      "Ravenna, bishops, Church leaders, and those preserving Christian heritage",
 
     longDescription: {
       earlyLife:
-        "Maximianus was born around 499 AD in Pola, Istria, in what is now Croatia. He was educated in the Christian faith and became a trusted member of the Church before being chosen as bishop.",
+        "Maximianus was born around 499 AD in Pola, Istria, in a region that is now part of Croatia. Little is known about his early years, but he was recognized for his intelligence, faith, and dedication to the Church. He became a trusted cleric and eventually gained the attention of Emperor Justinian I, who valued his wisdom and appointed him to important ecclesiastical responsibilities. In 546 AD, he was consecrated Archbishop of Ravenna, one of the most influential Christian cities of the Byzantine Empire in Italy.",
 
       spiritualLife:
-        "Maximianus became Archbishop of Ravenna in 546 AD during a time of great political and religious change. He worked to strengthen the Church, reform clergy, and promote Christian teaching. He oversaw the construction and restoration of important churches, including the Basilica of San Vitale, and supported the preservation of sacred art and liturgical tradition.",
+        "As Archbishop of Ravenna, Maximianus worked tirelessly to strengthen the Church during a period of political instability and theological division. He promoted sound teaching, supported the clergy, and encouraged faithful Christian living among his people. He was deeply involved in the construction, restoration, and decoration of churches, helping preserve the beauty of Christian worship. Under his leadership, the Basilica of San Vitale was completed and consecrated, becoming one of the greatest examples of early Christian and Byzantine architecture. Maximianus also supported the creation of sacred art, manuscripts, and liturgical works, ensuring that Christian traditions were preserved for future generations. He commissioned important works such as the famous episcopal throne known as the Throne of Maximian, a masterpiece of early Christian ivory art.",
 
       death:
-        "Maximianus died on February 22, 556 AD, in Ravenna, Italy, after a decade of service as archbishop.",
+        "Maximianus died on February 22, 556 AD, in Ravenna, Italy, after ten years of service as Archbishop. He was buried in Ravenna, and his memory continued to be honoured by the Christian community he had faithfully served.",
 
       legacy:
-        "St. Maximianus of Ravenna is remembered as a wise shepherd, builder of churches, and protector of Christian heritage. His episcopate contributed greatly to the spiritual and artistic legacy of Ravenna.",
+        "St. Maximianus of Ravenna is remembered as a wise bishop, faithful shepherd, and protector of Christian culture. His leadership helped strengthen the Church during a challenging period, while his support of architecture, sacred art, and liturgical tradition left a lasting mark on the spiritual and artistic heritage of Ravenna. The churches and treasures connected to his episcopate remain among the most important examples of early Christian heritage.",
 
       canonization:
         "Maximianus was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
@@ -2794,22 +2806,22 @@ export const saints: Saint[] = [
     image:
       "https://www.antiochpatriarchate.org/images/Saints/ed65ad35a3579f9f70fbcf70b3bd675c.jpg",
     description:
-      "An early Christian bishop and martyr who was a disciple of St. John the Apostle and one of the great witnesses of the apostolic age.",
+      "An early Christian bishop and martyr who was a disciple of St. John the Apostle and one of the greatest witnesses of the apostolic age, remembered for his defence of the faith and unwavering devotion to Christ.",
 
     patronOf: "Earaches, Smyrna, and those facing persecution for their faith",
 
     longDescription: {
       earlyLife:
-        "Polycarp was born around 69 AD and lived in Smyrna, Asia Minor. According to tradition, he was a disciple of St. John the Apostle and learned the faith directly from those who had known Christ. He became Bishop of Smyrna and was a respected leader among the early Christian communities.",
+        "Polycarp was born around 69 AD and lived in Smyrna, a major city of Asia Minor, in what is now İzmir, Turkey. According to ancient Christian tradition, he was taught by the Apostles themselves, especially St. John the Apostle, making him one of the last surviving links between the apostolic generation and the early Church. He became a respected Christian leader and was eventually appointed Bishop of Smyrna, where he guided the faithful through a period when Christianity faced both external persecution and internal challenges from false teachings.",
 
       spiritualLife:
-        "Polycarp faithfully preserved the teachings received from the Apostles and defended the Christian faith against false teachings. He corresponded with other early Christian leaders and travelled to Rome to discuss questions concerning the celebration of Easter. His life was marked by humility, charity, and steadfast devotion to Christ.",
+        "Polycarp dedicated his life to preserving and faithfully passing on the teachings he had received from the Apostles. He opposed heresies, especially those that denied the true humanity and divinity of Christ, and encouraged Christians to remain faithful to the Gospel. He was known for his humility, charity, and pastoral care, serving as a spiritual father to the Christian community of Smyrna. Polycarp maintained relationships with other early Church leaders and corresponded with bishops throughout the Christian world. Around 155 AD, he travelled to Rome to discuss the question of the date of Easter with Pope Anicetus. Although the Eastern and Western Churches followed different customs, they remained united in faith and charity.",
 
       death:
-        "Polycarp was martyred around 155 AD in Smyrna during the persecution under Emperor Antoninus Pius. When ordered to deny Christ, he refused, declaring that he had served Christ for many years and could not abandon Him. He was burned at the stake and died as a witness to the faith.",
+        "Polycarp was arrested and martyred around 155 AD in Smyrna during a persecution of Christians. When ordered to deny Christ and offer sacrifice to the Roman emperor, he refused, famously declaring that he had served Christ for eighty-six years and had never been abandoned by Him. According to the account of his martyrdom, he was sentenced to be burned alive, but when the flames did not consume him, he was killed by a sword. His martyrdom was recorded by the Christian community of Smyrna in the 'Martyrdom of Polycarp', one of the earliest surviving accounts of a Christian martyr outside the New Testament.",
 
       legacy:
-        "St. Polycarp is one of the most important figures of the early Church and a link between the Apostles and later generations of Christians. His martyrdom account is one of the earliest surviving descriptions of a Christian martyrdom outside the New Testament.",
+        "St. Polycarp is remembered as one of the most important Apostolic Fathers of the Church and a vital connection between the Apostles and later generations of Christians. His life demonstrated the importance of preserving apostolic teaching, remaining faithful under persecution, and trusting completely in Christ. His writings and martyrdom account provide valuable insight into the beliefs, worship, and struggles of the early Church.",
 
       canonization:
         "Polycarp was recognized as a saint through the ancient tradition of the Church as an apostolic bishop and martyr.",
@@ -2822,25 +2834,26 @@ export const saints: Saint[] = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/5/57/GiuseppinaVannini.jpg",
     description:
-      "An Italian religious sister and foundress of the Daughters of St. Camillus, known for her dedication to caring for the sick and suffering.",
+      "An Italian religious sister and foundress of the Daughters of St. Camillus known for her compassion toward the sick, her devotion to Christ's suffering, and her dedication to serving the poor and abandoned.",
 
-    patronOf: "Nurses, healthcare workers, and those caring for the sick",
+    patronOf:
+      "Nurses, healthcare workers, caregivers, the sick, and those serving the suffering",
 
     longDescription: {
       earlyLife:
-        "Giuseppina Vannini was born Giuditta Adelaide Agata Vannini on July 7, 1859 AD, in Rome, Italy. Orphaned at a young age, she was raised by the Daughters of Charity and developed a deep desire to dedicate her life to serving God.",
+        "Giuseppina Vannini was born Giuditta Adelaide Agata Vannini on July 7, 1859 AD, in Rome, Italy. She lost both of her parents at a young age and was entrusted to the care of the Daughters of Charity, where she received her education and developed a strong foundation of faith. From her youth, she felt called to religious life and had a deep desire to dedicate herself completely to God and the service of others.",
 
       spiritualLife:
-        "Giuseppina initially sought to enter religious life but later met Fr. Luigi Tezza, a member of the Order of Clerics Regular, Ministers to the Sick (Camillians). Together they founded the Daughters of St. Camillus in 1892 AD, a congregation devoted to caring for the sick, especially the poor and abandoned. She guided the sisters with humility, charity, and deep trust in God.",
+        "Giuseppina initially attempted to join the Daughters of Charity but was unable to continue due to health difficulties. Later, through Divine Providence, she met Fr. Luigi Tezza, a priest of the Order of Clerics Regular, Ministers to the Sick (Camillians), who was seeking to establish a new congregation dedicated to the care of the sick. Together, they founded the Daughters of St. Camillus in 1892 AD. Inspired by the spirituality of St. Camillus de Lellis, Giuseppina taught the sisters to see Christ Himself in every suffering person they served. She led the congregation with humility, charity, and deep trust in God, especially caring for those who were poor, abandoned, and forgotten by society.",
 
       death:
-        "Giuseppina Vannini died on February 23, 1911 AD, in Rome after a life devoted to prayer and the service of the suffering.",
+        "Giuseppina Vannini died on February 23, 1911 AD, in Rome, Italy, after years of illness and devoted service to the sick and suffering. She was remembered by her sisters for her gentleness, prayerfulness, and complete dedication to the mission God had entrusted to her.",
 
       legacy:
-        "St. Giuseppina Vannini is remembered as a model of compassionate care and Christian service. The congregation she founded continues to serve the sick and promote healthcare inspired by the love of Christ.",
+        "St. Giuseppina Vannini is remembered as a model of compassionate Christian service and a witness to the dignity of every suffering person. The Daughters of St. Camillus continue her mission by serving in hospitals, care facilities, and communities throughout the world. Her life demonstrates how acts of mercy and healthcare can become a profound expression of Christ's love.",
 
       canonization:
-        "Giuseppina Vannini was beatified by Pope John Paul II in 1994 AD and canonized by Pope Francis in 2019 AD.",
+        "Giuseppina Vannini was beatified by Pope John Paul II in 1994 AD and canonized by Pope Francis on October 13, 2019 AD.",
     },
   },
   {
@@ -2850,23 +2863,23 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGoDTy1eSn2HPN_EX-LDgxJaaKHecBG7iLXqfnvqU-qoar2EOEX0sf0O2&s=10",
     description:
-      "A group of early Christian martyrs from Carthage known for their steadfast faith, courage, and loyalty to Christ during persecution.",
+      "A group of early Christian martyrs from Carthage who remained faithful to Christ after the persecution of the Church under Emperor Valerian, becoming witnesses of courage, unity, and perseverance.",
 
     patronOf:
-      "Those facing persecution and Christians seeking strength in faith",
+      "Those facing persecution, Christian communities seeking unity, and those remaining faithful during trials",
 
     longDescription: {
       earlyLife:
-        "Montanus and his companions were Christians of Carthage, North Africa, who lived during the 3rd century AD. They were disciples of St. Cyprian of Carthage and belonged to the Christian community during a time of intense persecution under the Roman Empire.",
+        "Montanus and his companions were Christians of Carthage, North Africa, who lived during the 3rd century AD. They belonged to the Christian community formed under the guidance of St. Cyprian of Carthage, one of the great bishops and writers of the early Church. Among the companions associated with Montanus were Lucius, Julian, Victoricus, Flavian, and others who were known for their devotion to Christ and their commitment to the unity of the Church.",
 
       spiritualLife:
-        "After the martyrdom of St. Cyprian, Montanus and his companions continued to defend the Christian faith and encourage unity within the Church. They were arrested during the persecution under Emperor Valerian and remained faithful despite imprisonment and suffering. Their writings and witness reflected their deep trust in God and their willingness to give their lives for Christ.",
+        "Following the persecution and martyrdom of St. Cyprian, Montanus and his companions continued to encourage Christians to remain faithful and united. They defended the teachings of the Church and opposed divisions that threatened the Christian community. During the persecution of Emperor Valerian, they were arrested because of their faith and imprisoned. While awaiting their execution, they prayed together, encouraged one another, and remained convinced that suffering for Christ was a participation in His Passion. Their letters and testimonies reveal their deep love for the Church, their forgiveness toward their persecutors, and their confidence in eternal life.",
 
       death:
-        "Montanus and his companions were martyred around 259 AD in Carthage, North Africa, after refusing to renounce their Christian faith.",
+        "Montanus and his companions were martyred around 259 AD in Carthage, North Africa, during the persecution of Emperor Valerian. After enduring imprisonment and interrogation, they refused to deny Christ and were executed for their faith. Their martyrdom occurred shortly after the death of St. Cyprian, continuing the witness of the Carthaginian Church during a time of great suffering.",
 
       legacy:
-        "Sts. Montanus and his companions are remembered as faithful disciples of St. Cyprian and as examples of courage, unity, and perseverance among the early African martyrs.",
+        "Sts. Montanus and his companions are remembered as faithful disciples of St. Cyprian and as examples of courage, brotherhood, and loyalty to the Church. Their writings provide valuable insight into the spirituality of early Christian martyrs, especially their understanding of suffering, forgiveness, and hope in Christ. Their witness helped strengthen the Christian community of North Africa during one of the most difficult periods of persecution.",
 
       canonization:
         "Montanus and his companions were recognized as saints through the ancient tradition of the Church as Christian martyrs.",
@@ -2879,22 +2892,23 @@ export const saints: Saint[] = [
     image:
       "https://forallsaints.wordpress.com/wp-content/uploads/2025/02/ethelbert.jpg?w=498",
     description:
-      "An English king remembered for accepting Christianity, supporting the mission of St. Augustine of Canterbury, and helping establish the Church in England.",
+      "An Anglo-Saxon king of Kent remembered for his conversion to Christianity, his support of St. Augustine of Canterbury's mission, and his role in establishing the Church in England.",
 
-    patronOf: "Kings, rulers, converts, and the Christianization of England",
+    patronOf:
+      "Kings, rulers, converts, Christian leaders, and the evangelization of England",
 
     longDescription: {
       earlyLife:
-        "Ethelbert was born around 560 AD and became King of Kent in southern England. He married St. Bertha, a Christian princess from the Frankish kingdom, whose faith influenced his openness toward Christianity.",
+        "Ethelbert was born around 560 AD and became King of Kent, one of the most powerful kingdoms among the Anglo-Saxons. He was the son of King Eormenric of Kent and succeeded his father around 580 AD. Ethelbert married St. Bertha, a Christian princess from the Frankish kingdom and daughter of King Charibert I of Paris. Through his marriage, he was exposed to Christianity and allowed Bertha to practise her faith, including the restoration of a church in Canterbury that had existed since Roman times.",
 
       spiritualLife:
-        "When St. Augustine of Canterbury arrived in England in 597 AD, Ethelbert welcomed the missionaries and allowed them to preach throughout his kingdom. After his conversion, he became the first Anglo-Saxon king to embrace Christianity and supported the foundation of churches and monasteries, including the establishment of the See of Canterbury. His example encouraged many of his subjects to accept the Christian faith.",
+        "In 597 AD, Pope Gregory the Great sent St. Augustine of Canterbury and a group of missionaries to evangelize the Anglo-Saxons. Ethelbert received the missionaries peacefully and gave them permission to preach throughout his kingdom. After listening to the teachings of Christianity, he received baptism and became the first Anglo-Saxon king known to have converted to the Christian faith. Following his conversion, Ethelbert generously supported the growth of the Church, providing land for churches and monasteries. He helped establish the Diocese of Canterbury, which became the centre of English Christianity, and encouraged the spread of the Gospel while still allowing religious freedom for those who had not yet converted.",
 
       death:
-        "Ethelbert died on February 24, 616 AD, in Canterbury, England, after ruling Kent for more than fifty years.",
+        "Ethelbert died on February 24, 616 AD, in Canterbury, England, after ruling Kent for more than fifty years. He was buried in the Church of Sts. Peter and Paul, later incorporated into St. Augustine's Abbey in Canterbury. His reign marked a turning point in English history, as Christianity began to become firmly established among the Anglo-Saxon kingdoms.",
 
       legacy:
-        "St. Ethelbert is remembered as a key figure in the conversion of England. His support of St. Augustine's mission helped lay the foundations of English Christianity and the growth of the Church in the British Isles.",
+        "St. Ethelbert is remembered as one of the most important figures in the Christianization of England. His willingness to welcome missionaries and support the Church allowed the work of St. Augustine of Canterbury to flourish and helped create the foundations of English Christian culture. He is honoured as a model of a Christian ruler who used his authority to serve the growth of the faith.",
 
       canonization:
         "Ethelbert was recognized as a saint through the ancient tradition of the Church as a holy king and Christian ruler.",
@@ -2907,22 +2921,23 @@ export const saints: Saint[] = [
     image:
       "https://www.antiochpatriarchate.org/images/Saint/178ef2f01217e80ace974a6b2b9d7e4d.jpg",
     description:
-      "A bishop and martyr of the early Church known for his courage in defending the Christian faith and his steadfast witness during persecution.",
+      "A bishop and martyr of Myra in Lycia known for his courage in defending the Christian faith, his pastoral care, and his steadfast witness during the persecution of Christians.",
 
-    patronOf: "Bishops, those facing persecution, and defenders of the faith",
+    patronOf:
+      "Bishops, defenders of the faith, those facing persecution, and Christians seeking courage",
 
     longDescription: {
       earlyLife:
-        "Nestor was a Christian bishop who lived in the 3rd century AD in the region of Lycia, Asia Minor. Little is known about his early life, but he was known among the faithful for his holiness and dedication to the Church.",
+        "Nestor was a Christian bishop who lived during the 3rd century AD in Myra, the capital city of Lycia in Asia Minor. Little is known about his early years, but ancient Christian tradition remembers him as a man of deep faith, wisdom, and holiness. He served the Church during a period when Christians were frequently threatened by the Roman authorities and was respected by his community as a faithful shepherd.",
 
       spiritualLife:
-        "As bishop, Nestor cared for his Christian community and proclaimed the Gospel during a time when Christians faced hostility from Roman authorities. According to tradition, he courageously defended the faith and encouraged believers to remain faithful to Christ even in the face of persecution.",
+        "As bishop of Myra, Nestor devoted himself to teaching the Gospel, strengthening the faith of Christians, and caring for those entrusted to him. During the persecution under Emperor Decius, he encouraged believers not to abandon Christ despite the dangers they faced. According to tradition, Nestor boldly proclaimed the truth of Christianity and refused to participate in pagan worship. His courage and trust in God became a source of strength for other Christians who were suffering for their faith.",
 
       death:
-        "Nestor was martyred around 251 AD in Myra, Lycia, during the persecution under Emperor Decius. He was executed after refusing to deny his Christian faith.",
+        "Nestor was martyred around 251 AD in Myra, Lycia, during the persecution of Emperor Decius. After refusing to deny Christ, he was condemned to death and gave his life as a witness to the Gospel. His martyrdom was remembered by the early Christian community as an example of unwavering faith and loyalty to Christ.",
 
       legacy:
-        "St. Nestor is remembered as a faithful shepherd and martyr who gave his life for Christ. His witness became an example of courage and perseverance for Christians enduring persecution.",
+        "St. Nestor is remembered as a faithful bishop who remained committed to Christ even in the face of persecution. His witness reflects the courage of the early bishops who guided and protected Christian communities during times of suffering. He continues to inspire Christians to remain steadfast in their faith and to defend the truth with humility and courage.",
 
       canonization:
         "Nestor was recognized as a saint through the ancient tradition of the Church as a holy bishop and martyr.",
@@ -2935,22 +2950,23 @@ export const saints: Saint[] = [
     image:
       "https://anastpaul.com/wp-content/uploads/2025/02/st-faustinian-of-bologna.jpg?w=800",
     description:
-      "An early bishop of Bologna remembered for his pastoral care, defence of the faith, and service to the Christian community during a time of persecution.",
+      "An early bishop of Bologna remembered for his faithful leadership, defence of Christian teaching, and dedication to strengthening the Church during a period of persecution and doctrinal challenges.",
 
-    patronOf: "Bologna, bishops, and those seeking strength in faith",
+    patronOf:
+      "Bologna, bishops, pastors, Church leaders, and those seeking strength in faith",
 
     longDescription: {
       earlyLife:
-        "Faustiniano lived during the 4th century AD and served as a bishop of Bologna, Italy. Little is known about his early life, but he was part of the generation of Christian leaders who guided the Church after the persecutions of the Roman Empire.",
+        "Faustiniano lived during the 4th century AD and served as one of the early bishops of Bologna, Italy. Little is known about his personal life before becoming bishop, but he belonged to the generation of Christian leaders who guided the Church after the end of the major Roman persecutions. This was a significant period in Christian history, as communities that had previously lived under threat were beginning to organize more openly and establish stronger structures of worship and leadership.",
 
       spiritualLife:
-        "As Bishop of Bologna, Faustiniano worked to strengthen the Christian community, preserve the teachings of the faith, and encourage believers to remain steadfast. He served as a shepherd during a period when the Church was still developing its structures and defending itself against theological errors.",
+        "As Bishop of Bologna, Faustiniano devoted himself to caring for the Christian community entrusted to him. He worked to preserve the teachings handed down from the Apostles, strengthen the faith of believers, and encourage unity within the Church. During a time when various theological controversies challenged Christian communities, he defended orthodox teaching and helped guide the faithful in understanding the true message of the Gospel. His ministry reflected the role of the early bishops as teachers, shepherds, and protectors of the faith.",
 
       death:
-        "Faustiniano died around 350 AD in Bologna, Italy, after many years of faithful service as bishop.",
+        "Faustiniano died around 350 AD in Bologna, Italy, after many years of devoted service as bishop. He was honoured by the Christian community of Bologna as a faithful shepherd whose life was dedicated to the growth and protection of the Church.",
 
       legacy:
-        "St. Faustiniano is remembered as one of the early bishops of Bologna who helped establish and strengthen the local Church. His memory remains connected with the ancient Christian heritage of the city.",
+        "St. Faustiniano is remembered as one of the early bishops who helped establish the Christian identity of Bologna. Although few details of his life survive, his memory represents the many bishops of the early Church who quietly strengthened Christian communities through faithful teaching, pastoral care, and devotion to Christ. He remains a symbol of perseverance and leadership within the Church.",
 
       canonization:
         "Faustiniano was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
@@ -2963,26 +2979,26 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYoExRzQizKGda77bT27uIQDA8p34kfqZvsnf-6sNI7MSk-VMykBycys&s=10",
     description:
-      "An Italian Passionist religious known for his deep devotion to the Passion of Christ and the Blessed Virgin Mary, especially under the title of Our Lady of Sorrows.",
+      "An Italian Passionist religious known for his profound devotion to the Passion of Christ and the Blessed Virgin Mary, especially under the title of Our Lady of Sorrows, and remembered as a model of youthful holiness.",
 
     patronOf:
-      "Clergy, seminarians, students, young people, and those seeking purity and devotion to Mary",
+      "Clergy, seminarians, students, young people, those seeking purity, and devotion to Our Lady of Sorrows",
 
     longDescription: {
       earlyLife:
-        "Gabriel of Our Lady of Sorrows was born Francesco Possenti on March 1, 1838 AD, in Assisi, Italy. He was the eleventh of thirteen children in a devout Catholic family. After the death of his mother when he was young, he was raised with strong faith and received an excellent education. As a young man, he enjoyed social life and worldly interests but experienced a gradual conversion that led him to religious life.",
+        "Gabriel of Our Lady of Sorrows was born Francesco Possenti on March 1, 1838 AD, in Assisi, Italy. He was the eleventh of thirteen children born to Sante Possenti, a respected government official, and Agnes Frisciotti, a deeply religious Catholic mother. After his mother died when he was young, Francesco was raised in a loving Christian household and received his education from the Jesuits in Spoleto. As a young man, he was known for his intelligence, kindness, and lively personality. He enjoyed friendships, literature, and social activities, but several personal experiences, including the deaths of loved ones and moments of spiritual reflection, gradually led him to seek a deeper dedication to God.",
 
       spiritualLife:
-        "In 1856 AD, Francesco entered the Congregation of the Passionists and took the name Gabriel of Our Lady of Sorrows. He devoted himself to prayer, meditation on the Passion of Christ, and a profound love for the Virgin Mary. Known for his humility, obedience, and joyful spirit, he lived a hidden life of holiness and became especially devoted to Our Lady of Sorrows.",
+        "In 1856 AD, at the age of eighteen, Francesco entered the Congregation of the Passionists and received the religious name Gabriel of Our Lady of Sorrows. He chose this name because of his deep love for the Blessed Virgin Mary and her participation in the suffering of Christ. As a Passionist, Gabriel devoted himself to prayer, penance, obedience, and meditation on the Passion of Jesus. Although he lived a hidden and ordinary religious life, those around him recognized his extraordinary humility, charity, and joy. He had a special devotion to the Eucharist and the Virgin Mary, and he sought to imitate Christ through small acts of love and faithfulness.",
 
       death:
-        "Gabriel of Our Lady of Sorrows died on February 27, 1862 AD, at the Passionist monastery in Isola del Gran Sasso, Italy, at the age of 23 after suffering from tuberculosis.",
+        "Gabriel of Our Lady of Sorrows died on February 27, 1862 AD, at the Passionist monastery in Isola del Gran Sasso, Italy, at the age of 23. He suffered from tuberculosis for several years but accepted his illness with patience and trust in God. Surrounded by his fellow religious, he died peacefully while holding an image of Our Lady of Sorrows, whom he had honoured throughout his life.",
 
       legacy:
-        "St. Gabriel of Our Lady of Sorrows is remembered as a model of youthful holiness and complete devotion to Christ and Mary. His simple but deeply faithful life continues to inspire young people and those seeking a closer relationship with God.",
+        "St. Gabriel of Our Lady of Sorrows is remembered as one of the great examples of youthful sanctity in the Catholic Church. Despite his short life, his deep love for Christ, devotion to Mary, and joyful acceptance of suffering have inspired generations of young Catholics. His shrine at Isola del Gran Sasso became a major place of pilgrimage, especially for young people seeking guidance and spiritual renewal. His life demonstrates that holiness can be achieved through ordinary acts of prayer, obedience, and love offered completely to God.",
 
       canonization:
-        "Gabriel of Our Lady of Sorrows was canonized by Pope Benedict XV in 1920 AD and declared patron of Catholic youth by Pope Pius XI in 1926 AD.",
+        "Gabriel of Our Lady of Sorrows was beatified by Pope Pius X in 1908 AD and canonized by Pope Benedict XV in 1920 AD. He was declared patron of Catholic youth by Pope Pius XI in 1926 AD.",
     },
   },
   {
@@ -2992,22 +3008,23 @@ export const saints: Saint[] = [
     image:
       "https://citydesert.wordpress.com/wp-content/uploads/2013/02/romanus.jpg",
     description:
-      "A Christian martyr of the early Church remembered for his courage, faithfulness to Christ, and witness during persecution.",
+      "An early Christian martyr remembered for his courage, steadfast faith in Christ, and willingness to suffer rather than deny the Gospel during the persecution of the Church.",
 
-    patronOf: "Those facing persecution and those seeking courage in faith",
+    patronOf:
+      "Those facing persecution, soldiers, prisoners, and Christians seeking courage in faith",
 
     longDescription: {
       earlyLife:
-        "Romanus was a Christian who lived during the 3rd century AD. According to tradition, he served as a soldier in the Roman army and was known for his devotion to Christ during a period when Christians faced persecution.",
+        "Romanus was a Christian who lived during the 3rd century AD, during a time when followers of Christ faced periods of hostility and persecution throughout the Roman Empire. According to ancient tradition, he served as a soldier in the Roman army and was known for his loyalty, discipline, and devotion to Christ. While details of his early life are uncertain, he became remembered among Christians as a faithful witness who placed his allegiance to God above all earthly authorities.",
 
       spiritualLife:
-        "Romanus remained faithful to the Gospel despite the dangers of being a Christian under Roman rule. He openly professed his faith and encouraged others to remain steadfast, refusing to abandon Christ even when threatened with punishment.",
+        "Romanus remained committed to the Christian faith despite the dangers of openly professing belief in Christ. According to tradition, during a period of persecution he courageously proclaimed the Gospel and encouraged other Christians to remain firm in their faith. His example showed that true loyalty to Christ could exist alongside his duties as a Roman citizen and soldier. Rather than abandon his faith to save his own life, he accepted suffering as a witness to the truth of Christianity.",
 
       death:
-        "Romanus was martyred around 303 AD during the persecution under Emperor Diocletian. According to tradition, he was executed after refusing to renounce his Christian faith.",
+        "Romanus was martyred around 303 AD during the persecution of Emperor Diocletian, one of the most severe persecutions faced by the early Church. According to tradition, he was arrested and executed after refusing to renounce Christ and participate in pagan worship. His martyrdom became a testimony to the courage and perseverance of Christians who remained faithful even under threat of death.",
 
       legacy:
-        "St. Romanus is remembered as an example of courage and perseverance among the early Christian martyrs, whose witness strengthened the faith of the Church during times of persecution.",
+        "St. Romanus is remembered as one of the many early Christian martyrs whose witness helped strengthen the Church during times of persecution. His life represents the courage required to remain faithful when faced with opposition and serves as an example of trusting in Christ above all worldly powers. He continues to inspire Christians who experience hardship because of their faith.",
 
       canonization:
         "Romanus was recognized as a saint through the ancient tradition of the Church as a Christian martyr.",
@@ -3027,19 +3044,19 @@ export const saints: Saint[] = [
 
     longDescription: {
       earlyLife:
-        "John Cassian was born around 360 AD in Scythia Minor, near the Black Sea. As a young man, he travelled with his friend Germanus to the monasteries of Palestine and Egypt, where he learned from the great desert fathers and studied their traditions of prayer and asceticism.",
+        "John Cassian was born around 360 AD in Scythia Minor, a region near the Black Sea. Raised in a Christian family, he received a strong education in Scripture and classical learning. As a young man, he travelled with his close friend Germanus to the Holy Land and later to Egypt, where they visited the monasteries of the desert fathers. There he learned from renowned spiritual masters about prayer, fasting, humility, and the struggle against temptation.",
 
       spiritualLife:
-        "Cassian later travelled to the West and founded two monasteries in Marseille, France: one for men and one for women. Through his writings, especially the 'Institutes' and the 'Conferences', he preserved the wisdom of the Eastern monastic tradition and introduced it to Western Christianity. His teachings had a major influence on St. Benedict and the development of Western monastic spirituality.",
+        "Cassian spent many years living among the monks of the Egyptian desert, carefully recording their teachings and experiences. He later travelled to Constantinople, where he was ordained a deacon by St. John Chrysostom. After arriving in the West, he settled in Marseille, France, where he founded the Abbey of St. Victor, one of the earliest monastic communities in Gaul. Through his writings, especially the 'Institutes' and the 'Conferences', Cassian shared the wisdom of Eastern monasticism with Western Christians. His teachings on prayer, virtue, spiritual warfare, and the purification of the heart greatly influenced St. Benedict and became foundational for Western monastic spirituality.",
 
       death:
-        "John Cassian died around 435 AD in Marseille, France, after a lifetime dedicated to prayer, teaching, and the formation of Christian monastic life.",
+        "John Cassian died around 435 AD in Marseille, France, after many years devoted to monastic leadership, spiritual teaching, and the formation of religious communities.",
 
       legacy:
-        "St. John Cassian is remembered as one of the great spiritual teachers of the early Church. His writings on prayer, virtue, and overcoming temptation continue to influence Catholic spirituality and religious life.",
+        "St. John Cassian is remembered as one of the greatest spiritual writers of the early Church and a bridge between Eastern and Western Christian traditions. His writings shaped the development of Western monasticism and continue to guide Christians in prayer, self-discipline, and the pursuit of holiness. His teachings on the eight principal temptations became an important foundation for later reflections on the seven deadly sins.",
 
       canonization:
-        "John Cassian was recognized as a saint through the ancient tradition of the Church as a holy monk and spiritual writer.",
+        "John Cassian was recognized as a saint through the ancient tradition of the Church as a holy monk, founder, and spiritual writer.",
     },
   },
   {
@@ -3049,25 +3066,26 @@ export const saints: Saint[] = [
     image:
       "https://i0.wp.com/findthesaint.com/wp-content/uploads/2026/01/St-Oswald-of-Worcester-February-28.jpg?resize=300%2C400&ssl=1",
     description:
-      "An English Benedictine monk and bishop known for reforming monastic life, promoting holiness among the clergy, and strengthening the Church in England.",
+      "An English Benedictine monk, bishop, and archbishop known for reforming monastic life, promoting holiness among the clergy, and strengthening the Church in Anglo-Saxon England.",
 
-    patronOf: "Bishops, monks, and those seeking renewal in the Church",
+    patronOf:
+      "Bishops, monks, Church reformers, and those seeking renewal in the Church",
 
     longDescription: {
       earlyLife:
-        "Oswald was born in England during the 10th century AD into a Danish-influenced noble family. He was educated by his uncle, Archbishop Oda of Canterbury, and later travelled to France, where he joined the Benedictine monastery of Fleury.",
+        "Oswald was born during the early 10th century AD into a noble Anglo-Danish family in England. He was raised in a Christian household and received his early education from his uncle, Archbishop Oda of Canterbury, one of the leading Church figures of his time. Seeking a deeper commitment to God, Oswald travelled to France and entered the Benedictine monastery of Fleury, where he was formed in the discipline of monastic prayer, study, and community life.",
 
       spiritualLife:
-        "After returning to England, Oswald became Bishop of Worcester in 961 AD and later Archbishop of York in 972 AD. He worked closely with St. Dunstan and St. Æthelwold in the English Benedictine Reform, restoring discipline in monasteries and encouraging a deeper commitment to prayer and religious life. He founded monasteries, supported learning, and cared deeply for the poor.",
+        "After returning to England, Oswald became Bishop of Worcester in 961 AD and later became Archbishop of York in 972 AD. He became one of the principal figures of the English Benedictine Reform alongside St. Dunstan and St. Æthelwold, working to restore authentic monastic discipline and encourage greater devotion among clergy and religious communities. He founded and supported monasteries, including the monastery at Ramsey, promoted education among monks, and encouraged the regular celebration of the liturgy. As a bishop, he was also known for his humility, generosity toward the poor, and personal dedication to serving his people.",
 
       death:
-        "Oswald died on February 29, 992 AD, in Worcester, England, while washing the feet of the poor during the traditional Christian act of charity.",
+        "Oswald died on February 29, 992 AD, in Worcester, England. According to tradition, he collapsed and died while washing the feet of the poor, following the example of Christ's humility and service.",
 
       legacy:
-        "St. Oswald of Worcester is remembered as one of the great reforming bishops of Anglo-Saxon England. His work helped renew monasticism and strengthen the spiritual life of the English Church.",
+        "St. Oswald of Worcester is remembered as one of the great reforming bishops of Anglo-Saxon England. His efforts helped restore Benedictine monasticism, strengthen religious discipline, and renew the spiritual life of the English Church. He remains an example of a shepherd who combined strong leadership with humility and charity toward those in need.",
 
       canonization:
-        "Oswald was recognized as a saint through the ancient tradition of the Church as a holy bishop.",
+        "Oswald was recognized as a saint through the ancient tradition of the Church as a holy bishop and reformer.",
     },
   },
   {
