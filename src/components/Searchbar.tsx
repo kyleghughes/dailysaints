@@ -71,8 +71,7 @@ const Searchbar = ({ darkColor, isMobile, onSelectSaint }: SearchbarProps) => {
       renderInput={(params) => (
         <TextField
           {...params}
-          label={isMobile ? "" : "Search Saints"}
-          placeholder={!isMobile ? "" : "Search Saints"}
+          placeholder={"Search Saints..."}
           size="small"
           sx={{
             "& .MuiOutlinedInput-root": {

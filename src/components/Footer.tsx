@@ -1,10 +1,9 @@
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
-import IconButton from "@mui/material/IconButton";
+import Button from "@mui/material/Button";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import CoffeeIcon from "@mui/icons-material/Coffee";
-import { Tooltip } from "@mui/material";
 import DiscordIcon from "./DiscordIcon";
 
 const Footer = () => {
@@ -53,22 +52,26 @@ const Footer = () => {
         sx={{
           display: "flex",
           justifyContent: "center",
-          gap: 1,
+          gap: 1.5,
           mt: 2,
+          flexWrap: "wrap",
         }}
       >
         {links.map((link) => (
-          <Tooltip arrow key={link.name} title={link.name}>
-            <IconButton
-              component="a"
-              href={link.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label={link.name}
-            >
-              {link.icon}
-            </IconButton>
-          </Tooltip>
+          <Button
+            key={link.name}
+            component="a"
+            href={link.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            startIcon={link.icon}
+            sx={{
+              textTransform: "none",
+              color: "text.secondary",
+            }}
+          >
+            {link.name}
+          </Button>
         ))}
       </Box>
     </Box>
