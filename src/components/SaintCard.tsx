@@ -12,12 +12,7 @@ import FullscreenIcon from "@mui/icons-material/Fullscreen";
 import CloseIcon from "@mui/icons-material/Close";
 import type { Saint } from "../data/saints";
 import Box from "@mui/material/Box";
-import dayjs from "dayjs";
-import advancedFormat from "dayjs/plugin/advancedFormat";
-
-// #region dayJS
-dayjs.extend(advancedFormat);
-// #endregion
+import { formatFeastDay } from "../utils/date";
 
 // #region types
 export interface SaintLongDescription {
@@ -33,22 +28,6 @@ const SaintCard = ({ saint }: { saint: Saint }) => {
   // #region state
   const [imageOpen, setImageOpen] = useState<boolean>(false);
   const [infoOpen, setInfoOpen] = useState<boolean>(false);
-  // #endregion
-
-  // #region functions
-  /**
-   * Formats a saint's feast day into a readable date string.
-   *
-   * @param day - The day of the feast (1-31)
-   * @param month - The month of the feast (1-12)
-   * @returns The formatted feast day (e.g. "27th February")
-   */
-  const formatFeastDay = (day: number, month: number): string => {
-    return dayjs()
-      .month(month - 1)
-      .date(day)
-      .format("Do MMMM");
-  };
   // #endregion
 
   return (

@@ -20,6 +20,8 @@ import Footer from "./components/Footer";
 import QuoteCard from "./components/QuoteCard";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
+import AllSaintsCard from "./components/AllSaintsCard";
+import AllSoulsCard from "./components/AllSoulsCard";
 
 // #region helper function
 const { month, day } = getTodayKey();
@@ -62,6 +64,8 @@ const App = () => {
   // #region variables
   const colour = getLiturgicalColour(month, day);
   const displayedSaints = selectedSaint ? [selectedSaint] : getTodaySaints();
+  const isAllSaintsDay = month === 11 && day === 1;
+  const isAllSoulsDay = month === 11 && day === 2;
   // #endregion
 
   // #region functions
@@ -100,7 +104,16 @@ const App = () => {
         </Box>
 
         <Box sx={{ mt: 4, mb: 4 }}>
-          {displayedSaints.length > 0 ? (
+          {selectedSaint ? (
+            <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
+              <SaintCard saint={selectedSaint} />
+              <PrayForUsCard saints={[selectedSaint]} />
+            </Box>
+          ) : isAllSaintsDay ? (
+            <AllSaintsCard />
+          ) : isAllSoulsDay ? (
+            <AllSoulsCard />
+          ) : displayedSaints.length > 0 ? (
             <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
               {displayedSaints.map((saint, index) => (
                 <SaintCard key={`${saint.name}-${index}`} saint={saint} />
