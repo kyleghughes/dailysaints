@@ -1,5 +1,7 @@
 import { useState } from "react";
+
 import { Card, CardContent, Typography } from "@mui/material";
+
 import { saintQuotes } from "../data/saintQuotes";
 
 const QuoteCard = () => {

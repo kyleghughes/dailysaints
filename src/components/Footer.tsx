@@ -1,9 +1,11 @@
 import Box from "@mui/material/Box";
-import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import GitHubIcon from "@mui/icons-material/GitHub";
+import Typography from "@mui/material/Typography";
+
 import CoffeeIcon from "@mui/icons-material/Coffee";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+
 import DiscordIcon from "./DiscordIcon";
 
 const Footer = () => {

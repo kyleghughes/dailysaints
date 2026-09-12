@@ -1,6 +1,7 @@
 import Box from "@mui/material/Box";
-import Searchbar from "./Searchbar";
+
 import type { Saint } from "../data/saints";
+import Searchbar from "./Searchbar";
 
 // #region interface
 interface MobileSearchBarProps {

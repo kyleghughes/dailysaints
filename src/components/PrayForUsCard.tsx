@@ -1,8 +1,9 @@
+import Box from "@mui/material/Box";
 import Card from "@mui/material/Card";
-import type { Saint } from "../data/saints";
 import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
-import Box from "@mui/material/Box";
+
+import type { Saint } from "../data/saints";
 
 // #region interface
 interface PrayForUsCardProps {

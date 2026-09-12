@@ -1,17 +1,20 @@
 import { useState } from "react";
+
+import Box from "@mui/material/Box";
+import Button from "@mui/material/Button";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
+import Dialog from "@mui/material/Dialog";
 import Divider from "@mui/material/Divider";
+import IconButton from "@mui/material/IconButton";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
-import IconButton from "@mui/material/IconButton";
-import Dialog from "@mui/material/Dialog";
-import Button from "@mui/material/Button";
-import FullscreenIcon from "@mui/icons-material/Fullscreen";
+
 import CloseIcon from "@mui/icons-material/Close";
+import FullscreenIcon from "@mui/icons-material/Fullscreen";
+
 import type { Saint } from "../data/saints";
-import Box from "@mui/material/Box";
 import { formatFeastDay } from "../utils/date";
 
 // #region types

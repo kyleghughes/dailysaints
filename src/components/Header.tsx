@@ -1,31 +1,40 @@
+import { useState } from "react";
+
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
-import Toolbar from "@mui/material/Toolbar";
-import Typography from "@mui/material/Typography";
+import Divider from "@mui/material/Divider";
 import IconButton from "@mui/material/IconButton";
-import DarkModeIcon from "@mui/icons-material/DarkMode";
-import LightModeIcon from "@mui/icons-material/LightMode";
-import Searchbar from "./Searchbar";
-import type { LiturgicalColour } from "../data/liturgicalCalendar";
+import Popover from "@mui/material/Popover";
+import Toolbar from "@mui/material/Toolbar";
+import Tooltip from "@mui/material/Tooltip";
+import Typography from "@mui/material/Typography";
+import useMediaQuery from "@mui/material/useMediaQuery";
 import { green, grey, pink, purple, red } from "@mui/material/colors";
 import { darken } from "@mui/material/styles";
-import Tooltip from "@mui/material/Tooltip";
-import DailySaintsLogo from "../../DailySaintsLogo.png";
-import type { Saint } from "../data/saints";
-import useMediaQuery from "@mui/material/useMediaQuery";
-import Divider from "@mui/material/Divider";
-import { feastDays } from "../data/feastDays";
-import { getTodayKey } from "../utils/date";
 
-// #region interface
+import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
+import DarkModeIcon from "@mui/icons-material/DarkMode";
+import LightModeIcon from "@mui/icons-material/LightMode";
+
+import { DateCalendar } from "@mui/x-date-pickers/DateCalendar";
+import { PickersCalendarHeader } from "@mui/x-date-pickers/PickersCalendarHeader";
+
+import dayjs, { type Dayjs } from "dayjs";
+
+import DailySaintsLogo from "../../DailySaintsLogo.png";
+import { feastDays } from "../data/feastDays";
+import type { LiturgicalColour } from "../data/liturgicalCalendar";
+import type { Saint } from "../data/saints";
+import Searchbar from "./Searchbar";
+
 interface HeaderProps {
-  date: string;
+  date: Dayjs;
   colour: LiturgicalColour;
   mode: "light" | "dark";
   onToggleMode: () => void;
   onSelectSaint: (saint: Saint | null) => void;
+  onDateChange: (date: Dayjs | null) => void;
 }
-// #endregion
 
 const Header = ({
   date,
@@ -33,8 +42,10 @@ const Header = ({
   mode,
   onToggleMode,
   onSelectSaint,
+  onDateChange,
 }: HeaderProps) => {
   // #region constants
+
   const colourMap: Record<LiturgicalColour, string> = {
     green: green[500],
     red: red[700],
@@ -42,18 +53,45 @@ const Header = ({
     purple: purple[500],
     pink: pink[300],
   };
+
   // #endregion
 
   // #region variables
+
   const baseColor = colourMap[colour];
+
   const isWhiteColour = colour === "white";
+
   const darkColor = darken(baseColor, isWhiteColour ? 0.1 : 0.5);
+
   const textColor = isWhiteColour ? "#000" : "inherit";
+
   const isMobile = useMediaQuery("(max-width:600px)");
-  const feastDay = feastDays.find((f) => {
-    const today = getTodayKey();
-    return f.month === today.month && f.day === today.day;
-  });
+
+  const feastDay = feastDays.find(
+    (f) => f.month === date.month() + 1 && f.day === date.date(),
+  );
+
+  // #endregion
+
+  // #region state
+
+  const [calendarAnchor, setCalendarAnchor] = useState<HTMLElement | null>(
+    null,
+  );
+
+  // #endregion
+
+  // #region functions
+
+  const handleDateClick = (event: React.MouseEvent<HTMLElement>) => {
+    setCalendarAnchor(event.currentTarget);
+  };
+
+  const handleCalendarClose = () => {
+    setCalendarAnchor(null);
+  };
+
   // #endregion
 
   return (
@@ -64,7 +102,12 @@ const Header = ({
         background: `linear-gradient(135deg, ${darkColor} 0%, ${baseColor} 100%)`,
       }}
     >
-      <Box sx={{ display: "flex", flexDirection: "column" }}>
+      <Box
+        sx={{
+          display: "flex",
+          flexDirection: "column",
+        }}
+      >
         <Toolbar sx={{ display: "flex" }}>
           <Box
             sx={{
@@ -126,9 +169,20 @@ const Header = ({
               gap: 1,
             }}
           >
-            <Typography variant="body2" sx={{ color: textColor }}>
-              {date}
+            <Typography
+              variant="body2"
+              sx={{
+                color: textColor,
+              }}
+            >
+              {date.format(isMobile ? "DD/MM" : "dddd, D MMMM")}
             </Typography>
+
+            <Tooltip title="Select date" arrow>
+              <IconButton onClick={handleDateClick} sx={{ color: textColor }}>
+                <CalendarMonthIcon />
+              </IconButton>
+            </Tooltip>
 
             <Tooltip
               arrow
@@ -177,6 +231,40 @@ const Header = ({
           </>
         )}
       </Box>
+
+      <Popover
+        open={Boolean(calendarAnchor)}
+        anchorEl={calendarAnchor}
+        onClose={handleCalendarClose}
+        anchorOrigin={{
+          vertical: "bottom",
+          horizontal: "right",
+        }}
+        transformOrigin={{
+          vertical: "top",
+          horizontal: "right",
+        }}
+      >
+        <DateCalendar
+          value={date}
+          onChange={(newDate) => {
+            onDateChange(newDate);
+            handleCalendarClose();
+          }}
+          views={["month", "day"]}
+          openTo="day"
+          minDate={dayjs("2024-01-01")}
+          maxDate={dayjs("2024-12-31")}
+          slots={{
+            calendarHeader: PickersCalendarHeader,
+          }}
+          slotProps={{
+            calendarHeader: {
+              format: "MMMM",
+            },
+          }}
+        />
+      </Popover>
     </AppBar>
   );
 };
