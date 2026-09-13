@@ -24,10 +24,7 @@ import { getTheme } from "./components/theme";
 import { getLiturgicalColour } from "./data/liturgicalCalendar";
 import { saints, type Saint } from "./data/saints";
 
-// #region constants
-// 2024 is selected, so February 29th will always be available on the date picker, as it it a leap year.
-const CALENDAR_YEAR = 2024;
-// #endregion
+import { CALENDAR_YEAR } from "./utils/date";
 
 const App = () => {
   // #region state
@@ -62,10 +59,18 @@ const App = () => {
   // #endregion
 
   // #region functions
+  /**
+   * Toggles between light and dark mode.
+   */
   const toggleMode = (): void => {
     setMode((prev) => (prev === "light" ? "dark" : "light"));
   };
 
+  /**
+   * Updates the selected date and clears any selected saint.
+   *
+   * The date is kept within the fixed calendar year.
+   */
   const handleDateChange = (date: Dayjs | null): void => {
     if (!date) return;
 
@@ -73,6 +78,29 @@ const App = () => {
     setSelectedDate(date.year(CALENDAR_YEAR));
   };
 
+  /**
+   * Updates the selected saint and date.
+   *
+   * When a saint is selected, the date is updated to their feast day.
+   * When the search is cleared, the date returns to today's month and day.
+   */
+  const handleSaintSelect = (saint: Saint | null): void => {
+    setSelectedSaint(saint);
+
+    if (!saint) {
+      setSelectedDate(
+        dayjs().year(CALENDAR_YEAR).month(dayjs().month()).date(dayjs().date()),
+      );
+      return;
+    }
+
+    setSelectedDate(
+      dayjs()
+        .year(CALENDAR_YEAR)
+        .month(saint.month - 1)
+        .date(saint.day),
+    );
+  };
   // #endregion
 
   return (
@@ -84,7 +112,7 @@ const App = () => {
         colour={colour}
         mode={mode}
         onToggleMode={toggleMode}
-        onSelectSaint={setSelectedSaint}
+        onSelectSaint={handleSaintSelect}
         onDateChange={handleDateChange}
       />
 

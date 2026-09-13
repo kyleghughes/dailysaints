@@ -16,16 +16,15 @@ import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import LightModeIcon from "@mui/icons-material/LightMode";
 
-import { DateCalendar } from "@mui/x-date-pickers/DateCalendar";
-import { PickersCalendarHeader } from "@mui/x-date-pickers/PickersCalendarHeader";
-
-import dayjs, { type Dayjs } from "dayjs";
+import { type Dayjs } from "dayjs";
 
 import DailySaintsLogo from "../../DailySaintsLogo.png";
 import { feastDays } from "../data/feastDays";
 import type { LiturgicalColour } from "../data/liturgicalCalendar";
 import type { Saint } from "../data/saints";
 import Searchbar from "./Searchbar";
+
+import MonthDayCalendar from "./MonthDayCalendar";
 
 interface HeaderProps {
   date: Dayjs;
@@ -57,17 +56,11 @@ const Header = ({
   // #endregion
 
   // #region variables
-
   const baseColor = colourMap[colour];
-
   const isWhiteColour = colour === "white";
-
   const darkColor = darken(baseColor, isWhiteColour ? 0.1 : 0.5);
-
   const textColor = isWhiteColour ? "#000" : "inherit";
-
   const isMobile = useMediaQuery("(max-width:600px)");
-
   const feastDay = feastDays.find(
     (f) => f.month === date.month() + 1 && f.day === date.date(),
   );
@@ -75,23 +68,19 @@ const Header = ({
   // #endregion
 
   // #region state
-
   const [calendarAnchor, setCalendarAnchor] = useState<HTMLElement | null>(
     null,
   );
-
   // #endregion
 
   // #region functions
-
-  const handleDateClick = (event: React.MouseEvent<HTMLElement>) => {
+  const handleDateClick = (event: React.MouseEvent<HTMLElement>): void => {
     setCalendarAnchor(event.currentTarget);
   };
 
-  const handleCalendarClose = () => {
+  const handleCalendarClose = (): void => {
     setCalendarAnchor(null);
   };
-
   // #endregion
 
   return (
@@ -245,23 +234,11 @@ const Header = ({
           horizontal: "right",
         }}
       >
-        <DateCalendar
+        <MonthDayCalendar
           value={date}
           onChange={(newDate) => {
             onDateChange(newDate);
             handleCalendarClose();
-          }}
-          views={["month", "day"]}
-          openTo="day"
-          minDate={dayjs("2024-01-01")}
-          maxDate={dayjs("2024-12-31")}
-          slots={{
-            calendarHeader: PickersCalendarHeader,
-          }}
-          slotProps={{
-            calendarHeader: {
-              format: "MMMM",
-            },
           }}
         />
       </Popover>

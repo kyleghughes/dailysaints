@@ -7,6 +7,11 @@ dayjs.extend(advancedFormat);
 dayjs.extend(isLeapYear);
 // #endregion
 
+// #region constants
+// 2024 is selected, so February 29th will always be available on the date picker, as it it a leap year.
+export const CALENDAR_YEAR = 2024;
+// #endregion
+
 /**
  * Returns the correct day for February 29th based on the current year.
  *
