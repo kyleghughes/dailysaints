@@ -13224,6 +13224,29 @@ export const saints: Saint[] = [
   },
   {
     month: 12,
+    day: 9,
+    name: "B. Fulton J. Sheen",
+    image:
+      "https://www.thecatholicthing.org/wp-content/uploads/2015/03/FultonSheen2.jpg",
+    description:
+      "Blessed Fulton J. Sheen was an American archbishop, theologian, and renowned evangelist who brought the Catholic faith to millions through radio, television, preaching, and writing. A gifted teacher and communicator, he devoted his priesthood to evangelization, missionary work, prayer, and service to the Church.",
+    patronOf:
+      "Evangelists, communicators, television and radio broadcasters, and those involved in Catholic media",
+    longDescription: {
+      earlyLife:
+        "Peter John Sheen was born on 8 May 1895 in El Paso, Illinois, the eldest of four sons of Newton and Delia Sheen. He was given the name Fulton from his mother's family and became known by that name throughout his life. He developed a vocation to the priesthood from an early age and was ordained a priest for the Diocese of Peoria on 20 September 1919. His intellectual abilities led his superiors to send him for advanced studies, and he eventually earned doctorates in philosophy and theology in Europe.",
+      spiritualLife:
+        "Sheen placed prayer at the centre of his priestly life and maintained a daily Holy Hour before the Blessed Sacrament from the day of his ordination. He combined his theological education with a strong desire to make the Catholic faith understandable to ordinary people. Beginning in 1930, he became widely known through the radio programme The Catholic Hour, and from 1951 he reached an even larger audience through his television programme Life Is Worth Living. He used these modern forms of communication to explain Christian faith and morality, while also encouraging missionary work and supporting the Church's missions around the world.",
+      death:
+        "Sheen served as Bishop of Rochester from 1966 until his retirement from diocesan leadership in 1969, after which he was given the personal title of Archbishop. He spent his final years writing, preaching, giving retreats, and continuing his life of prayer. He died peacefully in New York City on 9 December 1979 at the age of 84. His funeral was celebrated in St. Patrick's Cathedral in New York, and he was later buried in St. Mary's Cathedral in Peoria, Illinois.",
+      legacy:
+        "Sheen became one of the most recognisable Catholic evangelists of the twentieth century, using the emerging technologies of radio and television to reach audiences far beyond the walls of the Church. His television programme Life Is Worth Living attracted millions of viewers and earned him an Emmy Award in 1953. He also wrote dozens of books, including Life of Christ, and participated as a bishop at the Second Vatican Council. His lasting influence is particularly associated with his ability to combine theological teaching, philosophical reasoning, personal prayer, and accessible communication in service of evangelization.",
+      canonization:
+        "Sheen's cause for canonization was opened in the Diocese of Peoria in 2002. Pope Benedict XVI declared him Venerable in 2012 after recognising his heroic virtue. A miracle attributed to his intercession, involving the unexpected recovery of a newborn child who had shown no signs of life for an extended period, was approved by Pope Francis in 2019. He was beatified in St. Louis, Missouri, on 24 September 2026, becoming Blessed Fulton J. Sheen.",
+    },
+  },
+  {
+    month: 12,
     day: 10,
     name: "St. Maurus",
     image:
