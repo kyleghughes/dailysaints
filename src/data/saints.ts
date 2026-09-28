@@ -10763,7 +10763,7 @@ export const saints: Saint[] = [
     day: 28,
     name: "St. Wenceslas of Bohemia",
     image:
-      "https://www.syromalabargw.org/uploads/2/5/4/2/25429541/pasted2_orig.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOyFWoyyDuwmTOzjP3vD4yL2SZ7B_vGpWCg3RwTMii25dTbrTNeTBTHQ&s=10",
     description:
       "A Christian duke and martyr who sought to strengthen the faith in Bohemia, promote justice and charity, and govern his people according to Christian principles.",
 
