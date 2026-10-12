@@ -17197,23 +17197,62 @@ export const saints: Saint[] = [
     day: 9,
     name: "B. Fulton J. Sheen",
     image:
-      "https://www.thecatholicthing.org/wp-content/uploads/2015/03/FultonSheen2.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuQb6nY-iW-239k-HqLTy0QVzD_s0rnk2QXNqfQYxTI_LSIPy3zGzmhA&s=10",
     description:
       "Blessed Fulton J. Sheen was an American archbishop, theologian, and renowned evangelist who brought the Catholic faith to millions through radio, television, preaching, and writing. A gifted teacher and communicator, he devoted his priesthood to evangelization, missionary work, prayer, and service to the Church.",
-    patronOf:
-      "Evangelists, communicators, television and radio broadcasters, and those involved in Catholic media",
     longDescription: {
       earlyLife:
-        "Peter John Sheen was born on 8 May 1895 in El Paso, Illinois, the eldest of four sons of Newton and Delia Sheen. He was given the name Fulton from his mother's family and became known by that name throughout his life. He developed a vocation to the priesthood from an early age and was ordained a priest for the Diocese of Peoria on 20 September 1919. His intellectual abilities led his superiors to send him for advanced studies, and he eventually earned doctorates in philosophy and theology in Europe.",
+        "Peter John Sheen was born on 8 May 1895 AD in El Paso, Illinois, the eldest of four sons of Newton and Delia Sheen, a family of Irish descent. He was given the name Fulton from his mother's family and became known by that name throughout his life. He attended Spalding Institute in Peoria, St. Viator College in Illinois, and St. Paul Seminary in Minnesota, and was ordained a priest for the Diocese of Peoria on 20 September 1919 AD. His intellectual abilities led his superiors to send him for advanced studies at the Catholic University of America and the University of Louvain in Belgium, where he earned a doctorate in philosophy in 1923 AD. He later returned to teach philosophy and theology at the Catholic University of America.",
       spiritualLife:
-        "Sheen placed prayer at the centre of his priestly life and maintained a daily Holy Hour before the Blessed Sacrament from the day of his ordination. He combined his theological education with a strong desire to make the Catholic faith understandable to ordinary people. Beginning in 1930, he became widely known through the radio programme The Catholic Hour, and from 1951 he reached an even larger audience through his television programme Life Is Worth Living. He used these modern forms of communication to explain Christian faith and morality, while also encouraging missionary work and supporting the Church's missions around the world.",
+        "Sheen placed prayer at the centre of his priestly life and kept a daily Holy Hour before the Blessed Sacrament from the day of his ordination until his death, often preaching that it was the source of his strength. He said that his sermons were prepared in the presence of the Blessed Sacrament. He combined his theological education with a strong desire to make the Catholic faith understandable to ordinary people. Beginning in 1930 AD, he became widely known through the radio programme The Catholic Hour, on which he spoke weekly for twenty years, and from the early 1950s he reached an even larger audience through his television programme Life Is Worth Living, which drew an estimated thirty million weekly viewers. From 1950 to 1966 AD, he served as the national director of the Society for the Propagation of the Faith, raising millions of dollars for the Church's missions around the world, and in 1951 AD he was consecrated an auxiliary bishop of New York.",
       death:
-        "Sheen served as Bishop of Rochester from 1966 until his retirement from diocesan leadership in 1969, after which he was given the personal title of Archbishop. He spent his final years writing, preaching, giving retreats, and continuing his life of prayer. He died peacefully in New York City on 9 December 1979 at the age of 84. His funeral was celebrated in St. Patrick's Cathedral in New York, and he was later buried in St. Mary's Cathedral in Peoria, Illinois.",
+        "Sheen was appointed Bishop of Rochester in 1966 AD and resigned in 1969 AD, after which he was given the personal title of Archbishop of Newport in Wales. Of his resignation he wrote that he was not retiring, only retreading. He spent his final years writing, preaching, giving retreats, and continuing his life of prayer. On 2 October 1979 AD, Pope John Paul II embraced him at St. Patrick's Cathedral in New York and told him that he was a loyal son of the Church. Sheen died on 9 December 1979 AD in New York City at the age of 84, in his private chapel in the presence of the Blessed Sacrament. He was buried in the crypt of St. Patrick's Cathedral, and on 27 June 2019 AD his remains were transferred to St. Mary's Cathedral in Peoria, Illinois, where they rest in a marble tomb.",
       legacy:
-        "Sheen became one of the most recognisable Catholic evangelists of the twentieth century, using the emerging technologies of radio and television to reach audiences far beyond the walls of the Church. His television programme Life Is Worth Living attracted millions of viewers and earned him an Emmy Award in 1953. He also wrote dozens of books, including Life of Christ, and participated as a bishop at the Second Vatican Council. His lasting influence is particularly associated with his ability to combine theological teaching, philosophical reasoning, personal prayer, and accessible communication in service of evangelization.",
+        "Sheen became one of the most recognisable Catholic evangelists of the twentieth century, using the emerging technologies of radio and television to reach audiences far beyond the walls of the Church. In 1940 AD he spoke on the first broadcast of a Catholic religious service on television, and his programme Life Is Worth Living earned him an Emmy Award for Most Outstanding Television Personality in 1953 AD. He wrote dozens of books, including Peace of Soul, The World's First Love, Life of Christ, and his autobiography Treasure in Clay, and he attended every session of the Second Vatican Council as a bishop. Pope Benedict XVI recalled in 2012 AD that Sheen had fascinated listeners with his talks, and Pope Leo XIV has held him up as an example for all who are engaged in evangelization. His lasting influence is particularly associated with his ability to combine theological teaching, philosophical reasoning, personal prayer, and accessible communication in service of the Gospel.",
       canonization:
-        "Sheen's cause for canonization was opened in the Diocese of Peoria in 2002. Pope Benedict XVI declared him Venerable in 2012 after recognising his heroic virtue. A miracle attributed to his intercession, involving the unexpected recovery of a newborn child who had shown no signs of life for an extended period, was approved by Pope Francis in 2019. He was beatified in St. Louis, Missouri, on 24 September 2026, becoming Blessed Fulton J. Sheen.",
+        "Sheen's cause for canonization was opened in the Diocese of Peoria in 2002 AD, and on 28 June 2012 AD Pope Benedict XVI declared him Venerable after recognising his heroic virtue. The miracle attributed to his intercession was the 2010 AD recovery of James Fulton Engstrom, a baby born in Peoria, Illinois, who showed no signs of life for sixty-one minutes after birth. His parents had asked for Sheen's intercession, and as doctors were preparing to pronounce him dead, his heart began to beat normally. Pope Francis authorised the decree recognising the miracle in July 2019 AD. After a delay, Archbishop Sheen was beatified on 24 September 2026 AD at The Dome at America's Center in St. Louis, Missouri, in a Mass presided over by Cardinal Luis Antonio Tagle on behalf of Pope Leo XIV, becoming Blessed Fulton J. Sheen. James Engstrom presented a relic of Sheen at the Mass.",
     },
+    quotes: [
+      {
+        title:
+          "It takes three to make love, not two: you, your spouse, and God.",
+        source: "Three to Get Married (1951)",
+      },
+      {
+        title:
+          "Theological insights are gained not only from between two covers of a book, but from two bent knees before an altar.",
+        source: "Treasure in Clay (1980)",
+      },
+      {
+        title:
+          "Hearing nuns' confessions is like being stoned to death with popcorn.",
+        source: "Life Is Worth Living (Program 19)",
+      },
+      {
+        title:
+          "You must remember to love people and use things, rather than to love things and use people.",
+        source: "Life Is Worth Living (Program 43)",
+      },
+    ],
+    furtherReading: [
+      {
+        title: "Treasure in Clay: The Autobiography of Fulton J. Sheen",
+        author: "Fulton J. Sheen",
+      },
+      {
+        title: "Three to Get Married",
+        author: "Fulton J. Sheen",
+      },
+      {
+        title: "Peace of Soul",
+        author: "Fulton J. Sheen",
+      },
+      {
+        title: "Lift Up Your Heart: A Guide to Spiritual Peace",
+        author: "Fulton J. Sheen",
+      },
+    ],
+    categories: [SAINT_CATEGORIES.CONFESSOR],
   },
   {
     month: 12,
