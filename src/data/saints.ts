@@ -5,6 +5,7 @@ const SAINT_CATEGORIES = {
   CONFESSOR: "Confessor",
   DOCTOROFTHECHURCH: "Doctor of the Church",
   EVANGELIST: "Evangelist",
+  LAYPERSON: "Layperson",
   MARTYR: "Martyr",
   POPE: "Pope",
   VIRGIN: "Virgin",
@@ -14271,6 +14272,79 @@ export const saints: Saint[] = [
       canonization:
         "John XXIII was beatified by Pope John Paul II on September 3, 2000 AD, and canonized by Pope Francis on April 27, 2014 AD, alongside Pope St. John Paul II.",
     },
+  },
+  {
+    month: 10,
+    day: 12,
+    name: "St. Carlo Acutis",
+    image:
+      "https://cdn.britannica.com/57/251957-050-8B8B0815/carlo-acutis-italian-teen-computer-programmer-beatified-catholic-church.jpg",
+    description:
+      "A cheerful, computer-loving Milanese teenager, who built his life around daily Mass and Eucharistic adoration, Carlo Acutis used the internet to spread devotion to the Eucharist and died of leukemia at fifteen. In 2025 he became the first millennial to be canonized.",
+
+    patronOf:
+      "The Internet, web developers, computer programmers & Catholic youth groups",
+
+    longDescription: {
+      earlyLife:
+        "Carlo Acutis was born on May 3rd, 1991 AD, in London, England, to Andrea Acutis and Antonia Salzano, Italian parents whose families were engaged in business and publishing. The family moved to Milan only a few months after his birth. His parents were not practicing Catholics, and his mother has said that she rarely attended Mass before her son's example drew her back to the faith. From early childhood Carlo showed a deep love for God, for the Blessed Virgin Mary, and for the Eucharist. He received his First Communion at the age of seven, and from that day he attended Mass as often as he could. He attended Catholic schools in Milan, including the Jesuit Istituto Leone XIII, where he was known for his kindness, humor, and willingness to befriend classmates who were bullied, disabled, or going through the pain of a family breakup. He loved soccer, animals, and video games, and he taught himself computer programming and web design at a young age. Carlo had no siblings during his life; his mother later gave birth to twins, Michele and Francesca, on October 12th, 2010 AD, exactly four years after his death, which she attributes to his intercession.",
+
+      spiritualLife:
+        "Carlo's spiritual life was centered on the Eucharist, which he called his 'highway to heaven.' He went to Mass every day, prayed the Rosary daily, made time for Eucharistic adoration, and went to Confession weekly. He visited Marian shrines such as Lourdes and Fatima and was devoted to Our Lady, to his guardian angel, and to saints such as Francis of Assisi. His example drew the people around him closer to God, including his own parents, and his family's housekeeper Rajesh Mohur, a Hindu from Mauritius, who was later baptized and became Catholic after witnessing Carlo's faith. Carlo quietly served the poor, giving food and clothing to homeless people in his neighborhood, and he chose to limit his video games to one hour a week as a small act of self-denial. Using his gift for technology, he spent two to three years in his early teens researching and cataloguing Eucharistic miracles from around the world, and he designed a website and a traveling exhibition to share them. The exhibition, 'The Eucharistic Miracles of the World,' has since been displayed on all five continents. Carlo understood the Eucharist as the true presence of Christ, and he wanted his generation to meet Him there.",
+
+      death:
+        "In early October 2006 AD, Carlo became suddenly ill. At first the illness was thought to be a flu, but on October 8th he was diagnosed with acute promyelocytic leukemia (M3), a severe and rapidly advancing form of the disease, and he was taken to San Gerardo Hospital in Monza. He asked to receive the Anointing of the Sick and Holy Communion, and he accepted his suffering with peace and without complaint. According to his mother, he offered his sufferings for the Pope and for the Church. A cerebral hemorrhage, a known complication of his illness, caused him to fall into a coma, and he died on October 12th, 2006 AD, at the age of fifteen. He was first buried in the cemetery of Ternengo, in Piedmont, and was then laid to rest in Assisi, the city he loved for its association with St. Francis, as he had wished. On April 6th, 2019 AD, his remains were moved to the Sanctuary of the Spogliazione (Stripping) at the Church of Santa Maria Maggiore in Assisi. His body rests in a glass tomb, dressed as he often dressed in life, in jeans, a sweatshirt, and sneakers. The Church does not claim that his body is incorrupt, and his face has been covered with a wax likeness.",
+
+      legacy:
+        "After his death, Carlo's reputation for holiness spread rapidly, first through the Eucharistic miracles exhibition and then through the testimony of those who knew him. In 2019 AD, Pope Francis cited him as a model for young people in the apostolic exhortation Christus Vivit, praising his creative use of the digital world to proclaim Christ. He has become known as 'God's influencer' and the 'first millennial saint,' and he is a favorite of young Catholics, students, and anyone who works with computers. Although no official patronage has been decreed, he is popularly invoked as a patron of young people. His feast day is celebrated on October 12th, the day of his death. Many pilgrims travel to his tomb in Assisi, and books, schools, parishes, and youth groups around the world now bear his name. His life shows that holiness is possible for ordinary teenagers, that technology can be a tool for the Gospel, and that the Eucharist is the source of a joyful and generous life.",
+
+      canonization:
+        "The cause for Carlo's canonization was opened in the Archdiocese of Milan on October 12th, 2012 AD, and he was declared Venerable by Pope Francis on July 5th, 2018 AD. The first miracle attributed to his intercession was the 2013 healing of Mattheus Vianna, a Brazilian child with a congenital malformation of the pancreas, after a Mass at which a relic of Carlo was present. The miracle was approved on February 21st, 2020 AD, and Carlo was beatified on October 10th, 2020 AD, in Assisi, with Cardinal Agostino Vallini presiding on behalf of Pope Francis. The second miracle was the healing of Valeria Valverde, a young Costa Rican woman who suffered a severe brain hemorrhage after a bicycle accident in Florence in 2022 AD; her mother prayed at Carlo's tomb in Assisi. Pope Francis approved the miracle on May 23rd, 2024 AD. A canonization date in April 2025 AD was postponed after the death of Pope Francis, and Pope Leo XIV canonized Carlo Acutis, together with Pier Giorgio Frassati, on September 7th, 2025 AD, in St. Peter's Square in Rome.",
+    },
+    quotes: [
+      {
+        title: "The Eucharist is my highway to heaven.",
+        source:
+          "St. Carlo Acutis; cited in Cardinal Vallini's homily, October 10th, 2020",
+      },
+      {
+        title:
+          "Sadness is looking at oneself, happiness is looking at God. Conversion is nothing but a movement of the eyes.",
+        source: "St. Carlo Acutis; as recorded in his notebook",
+      },
+      {
+        title: "Everyone is born an original, but many die as photocopies.",
+        source:
+          "St. Carlo Acutis; quoted by Pope Francis in Christus Vivit (2019)",
+      },
+    ],
+    furtherReading: [
+      {
+        title: "My Son Carlo: Carlo Acutis Through the Eyes of His Mother",
+        author: "Antonia Salzano Acutis & Paolo Rodari",
+      },
+      {
+        title: "Carlo Acutis: A Millennial in Paradise",
+        author: "Fr. Will Conquer",
+      },
+      {
+        title: "Blessed Carlo Acutis: A Saint in Sneakers",
+        author: "Courtney Mares",
+      },
+      {
+        title: "Carlo Acutis: The First Millennial Saint",
+        author: "Nicola Gori",
+      },
+      {
+        title: "God's Influencer: A Short Biography of Carlo Acutis",
+        author: "Michael Collins",
+      },
+      {
+        title: "Carlo Acutis: God's Computer Genius",
+        author: "Ellen Labrecque & Dan Wegendt",
+      },
+    ],
+    categories: [SAINT_CATEGORIES.LAYPERSON],
   },
   {
     month: 10,
