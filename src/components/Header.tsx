@@ -164,7 +164,7 @@ const Header = ({
                 color: textColor,
               }}
             >
-              {date.format(isMobile ? "DD/MM" : "dddd, D MMMM")}
+              {date.format(isMobile ? "DD/MM" : "Do MMMM")}
             </Typography>
 
             <Tooltip title="Select date" arrow>
