@@ -8,6 +8,7 @@ const SAINT_CATEGORIES = {
   LAYPERSON: "Layperson",
   MARTYR: "Martyr",
   POPE: "Pope",
+  RELIGIOUS_FOUNDER: "Religious Founder",
   VIRGIN: "Virgin",
 };
 
@@ -479,33 +480,98 @@ export const saints: Saint[] = [
     ],
     categories: [SAINT_CATEGORIES.CONFESSOR],
   },
+
   {
     month: 1,
     day: 4,
-    name: "St. Elizabeth Ann Bayley Seton",
+    name: "St. Elizabeth Ann Seton",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrj6PJzVnb_EmHZ6ITTaW3zPA77pUtWeFyL48XAgbxDx2H_pjcX5gMaWR&s=10",
     description:
-      "The first native-born citizen of the United States to be canonized, remembered for founding the Sisters of Charity, pioneering Catholic education in America, and serving the poor with heroic faith and charity.",
-
-    patronOf: "Catholic schools, educators, widows, and mothers",
-
+      "St. Elizabeth Ann Seton was a wife, mother, convert, foundress, and educator. The first native-born citizen of the United States to be canonized, she founded the Sisters of Charity of St. Joseph’s, the first religious congregation of sisters established in the United States. Her life of faith, education, and service to the poor made her a pioneer of American Catholic education.",
+    patronOf: "Catholic Schools, widows, Maryland (state) & Catholic Converts",
     longDescription: {
       earlyLife:
-        "St. Elizabeth Ann Bayley Seton was born Elizabeth Ann Bayley on August 28, 1774 AD, in New York City, into a prominent Episcopalian family. Her father, Dr. Richard Bayley, was a respected physician and the city's first health officer, while her mother, Catherine Charlton Bayley, died when Elizabeth was only three years old. Raised in a home that valued charity, learning, and faith, Elizabeth developed a deep love for Scripture and personal prayer from an early age. In 1794 AD, she married the wealthy merchant William Magee Seton, and together they had five children. Their happy family life was disrupted when William's business failed and his health deteriorated due to tuberculosis. Hoping that a warmer climate would aid his recovery, the family travelled to Italy in 1803 AD. William died there shortly after their arrival, leaving Elizabeth a young widow with five children. During her stay in Italy, she was deeply moved by the faith and kindness of the Catholic Filicchi family, whose witness led her to study the Catholic faith. After much prayer, sacrifice, and the loss of many friendships because of her decision, she was received into the Catholic Church on March 14, 1805 AD, convinced above all of the truth of Christ's Real Presence in the Eucharist.",
+        "Elizabeth Ann Bayley was born on 28 August 1774 AD in New York City to a prominent Episcopalian family. Her father, Dr. Richard Bayley, was a renowned physician and New York’s first health officer. Her mother, Catherine Charlton Bayley, died when Elizabeth was three years old. Educated at home by her father, Elizabeth developed a strong interest in Scripture and spirituality. On 25 January 1794 AD, she married William Magee Seton, with whom she had five children. Financial difficulties and William’s tuberculosis led the family to travel to Italy in 1803 AD in search of a healthier climate. While there, Elizabeth encountered the devout Catholic Filicchi family and became deeply attracted to Catholic teaching, particularly the Real Presence of Christ in the Eucharist. William died in Pisa on 27 December 1803 AD, leaving her a widow with five children. After returning to New York, Elizabeth continued her spiritual search and was received into the Catholic Church on 14 March 1805 AD at St. Peter’s Church.",
 
       spiritualLife:
-        "Following her conversion, Elizabeth devoted herself entirely to God while raising her children and serving those in need. Despite facing financial hardship and social prejudice against Catholics in the United States, she remained steadfast in her faith. At the invitation of Archbishop John Carroll and with the encouragement of Father Louis William Dubourg, she moved to Baltimore and later settled in Emmitsburg, Maryland. In 1809 AD, she founded the Sisters of Charity of St. Joseph's, the first religious community for women established in the United States. Inspired by the spirituality of St. Vincent de Paul and St. Louise de Marillac, the sisters dedicated themselves to education, care of orphans, and service to the poor. Elizabeth established St. Joseph's Academy and Free School, one of the first free Catholic schools for girls in America, laying the foundations of the Catholic parochial school system that would later educate millions of children. Throughout her life she combined deep prayer with practical charity, teaching that every act of service should flow from love of Christ and trust in Divine Providence.",
+        "Following her conversion, Elizabeth devoted herself to Christ and to serving others despite the prejudice and hardship Catholics faced in early America. In 1808 AD, she accepted an invitation connected with Archbishop John Carroll and Father Louis Dubourg to establish a school for girls in Baltimore. She opened a school near St. Mary’s Seminary and, with other women who joined her, began forming a religious community. Elizabeth and her companions later moved to Emmitsburg, Maryland, where she founded the Sisters of Charity of St. Joseph’s in 1809 AD. As Mother Seton, she guided the community according to a rule inspired by the Daughters of Charity of St. Vincent de Paul. Her spirituality united prayer, trust in Divine Providence, and practical charity. She encouraged her sisters to serve Christ through education, care for the poor, and compassion for those in need.",
 
       death:
-        "Years of tireless work, personal sacrifices, and fragile health gradually weakened Elizabeth. She contracted tuberculosis, the same disease that had claimed her husband's life, and spent her final months preparing peacefully for death through prayer and the sacraments. Surrounded by her religious sisters and loved ones, she died on January 4, 1821 AD, in Emmitsburg, Maryland, at the age of forty-six. Her final words reflected the trust in God that had guided her entire life: 'Be children of the Church.' She was buried at St. Joseph's in Emmitsburg, where her tomb continues to attract pilgrims from around the world.",
+        "After years of devoted service, family responsibilities, and physical hardship, Elizabeth’s health declined as she suffered from tuberculosis. She prepared for death through prayer and the sacraments, surrounded by her religious community at Emmitsburg, Maryland. She died on 4 January 1821 AD, aged 46. Her last words are traditionally reported as, “Be children of the Church.” She was buried at St. Joseph’s in Emmitsburg, which later became the site of the National Shrine of Saint Elizabeth Ann Seton.",
 
       legacy:
-        "St. Elizabeth Ann Seton is honored as the foundress of Catholic religious life for women in the United States and as a pioneer of Catholic education in America. The Sisters of Charity she founded grew into numerous congregations that established schools, hospitals, orphanages, and charitable institutions throughout the United States and beyond. Her vision helped shape the American Catholic school system, ensuring that generations of children received both academic formation and instruction in the faith. As the first native-born citizen of the United States to be canonized, she remains a powerful example of conversion, perseverance, motherhood, and faithful service. Her life demonstrates that holiness can be found in family life, education, and loving care for the poor, making her an enduring inspiration for parents, teachers, religious, and all who seek to serve Christ in others.",
+        "Elizabeth Ann Seton is remembered as a pioneer of Catholic education in the United States and the foundress of a major American tradition of religious life for women. The Sisters of Charity of St. Joseph’s established schools, orphanages, and other charitable ministries, expanding their work to Philadelphia in 1814 AD and New York by 1817 AD. St. Joseph’s Academy and Free School in Emmitsburg helped advance free Catholic education for girls. Through her example of prayer, perseverance, motherhood, and service, Elizabeth demonstrated how holiness could flourish in ordinary family responsibilities and dedicated service to others.",
 
       canonization:
-        "Elizabeth Ann Seton was beatified by Pope John XXIII in 1963 AD and canonized by Pope Paul VI on September 14, 1975 AD.",
+        "Elizabeth Ann Seton’s cause for sainthood advanced through the nineteenth and twentieth centuries. Pope John XXIII beatified her on 17 March 1963 AD, and Pope Paul VI canonized her on 14 September 1975 AD, making her the first native-born citizen of the United States to be declared a saint by the Catholic Church. Her canonization recognized a life marked by faith, suffering, charity, and dedication to education.",
     },
+
+    quotes: [
+      {
+        title:
+          "The first end I propose in our daily work is to do the will of God; secondly to do it in the manner He wills; and thirdly to do it because it is His will.",
+        source: "Letters and spiritual writings of Elizabeth Ann Seton",
+      },
+      {
+        title:
+          "If it succeeds, I bless God; if it does not succeed, I bless God, because then it will be right that it should not succeed.",
+        source: "Letters of Elizabeth Ann Seton",
+      },
+      {
+        title: "My God knows best.",
+        source: "Letters of Elizabeth Ann Seton",
+      },
+      {
+        title: "Put your heart at His feet. It is the gift He loves most.",
+        source: "Spiritual writings of Elizabeth Ann Seton",
+      },
+      {
+        title:
+          "Faith lifts the staggering soul on one side, hope supports it on the other, experience says it must be and love says let it be.",
+        source: "Letter of 1810, attributed to Elizabeth Ann Seton",
+      },
+      {
+        title:
+          "Make your careful preparation of the purest heart you can bring to him, that it may appear to him like a bright little star at the bottom of a fountain.",
+        source: "Spiritual writings of Elizabeth Ann Seton",
+      },
+    ],
+
+    furtherReading: [
+      {
+        title: "Elizabeth Seton: American Saint",
+        author: "Catherine O’Donnell (Cornell University Press, 2018)",
+      },
+      {
+        title: "Elizabeth Bayley Seton, 1774–1821",
+        author: "Annabelle Melville, editor (The Sheridan Press, 2009)",
+      },
+      {
+        title: "Mother Seton: Mother of Many Daughters",
+        author: "Charles I. White (Mother Seton Guild, 1953)",
+      },
+      {
+        title: "Collected Writings of Elizabeth Bayley Seton",
+        author:
+          "Edited by Regina Bechtle and Judith Metz (New City Press, 2000–2006)",
+      },
+      {
+        title:
+          "Homily of Pope Paul VI on the Canonization of Elizabeth Ann Seton",
+        author: "Pope Paul VI, 14 September 1975",
+      },
+      {
+        title:
+          "Homily of Pope John XXIII on the Beatification of Elizabeth Ann Seton",
+        author: "Pope John XXIII, 17 March 1963",
+      },
+    ],
+
+    categories: [
+      SAINT_CATEGORIES.CONFESSOR,
+      SAINT_CATEGORIES.RELIGIOUS_FOUNDER,
+    ],
   },
   {
     month: 1,
