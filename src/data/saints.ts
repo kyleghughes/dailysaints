@@ -7,6 +7,7 @@ const SAINT_CATEGORIES = {
   EVANGELIST: "Evangelist",
   LAYPERSON: "Layperson",
   MARTYR: "Martyr",
+  MONARCHS: "Monarchs",
   POPE: "Pope",
   RELIGIOUS_FOUNDER: "Religious Founder",
   VIRGIN: "Virgin",
@@ -578,28 +579,45 @@ export const saints: Saint[] = [
     day: 5,
     name: "St. Edward the Confessor, King of England",
     image:
-      "https://images.squarespace-cdn.com/content/v1/5a02ed1990badea68d9909d7/1568394136214-PHI8MWHMS8FD1VSIJA7R/Edward_the_Confessor%2C_ruled_9th_June_1042_-_5th_January_1066.jpg",
+      "https://easternchristiansupply.biz/pub/media/catalog/product/i/p/ipedc01.jpg",
     description:
-      "An English king renowned for his piety, justice, humility, and devotion to God, remembered as one of the last Anglo-Saxon rulers of England and a model of Christian kingship.",
+      "An Anglo-Saxon king of England remembered for his piety, generosity, and devotion to the Church. Canonized in 1161, he is especially associated with the rebuilding of Westminster Abbey, where his shrine remains a place of pilgrimage.",
 
-    patronOf: "Kings, rulers, difficult marriages, and England",
+    patronOf:
+      "Kings, Rulers, difficult marriages, separated spouses, the British Royal Family & the Diocese of Westminster",
 
     longDescription: {
       earlyLife:
-        "St. Edward the Confessor was born around 1003 AD in Islip, Oxfordshire, England, the son of King Æthelred II ('the Unready') and Queen Emma of Normandy. His childhood was marked by political turmoil as repeated Danish invasions threatened the English kingdom. Around 1013 AD, Edward and his family fled to Normandy, where he spent nearly three decades in exile. During these formative years, he developed a deep love for prayer, the liturgy, and the monastic life under the influence of the Norman Church. Although he had a legitimate claim to the English throne, Edward lived quietly in exile until he was invited to return to England in 1041 AD by his half-brother, King Harthacnut. Following Harthacnut's death the following year, Edward was peacefully acclaimed King of England, beginning a reign that would become renowned for its stability, justice, and religious devotion.",
+        "St. Edward the Confessor was born around 1003 AD, traditionally at Islip in Oxfordshire, England. He was the son of King Æthelred II, known as 'the Unready,' and Emma of Normandy. His early life unfolded during a period of conflict between the English and Danish kingdoms. In 1013 AD, following the invasion of Sweyn Forkbeard, Edward and his family fled to Normandy. Edward spent much of his youth and early adulthood in exile while England came under Danish rule. In 1041 AD, he returned to England at the invitation of his half-brother, King Harthacnut. When Harthacnut died in 1042 AD, Edward succeeded him as king and was crowned at Winchester.",
 
       spiritualLife:
-        "Edward sought to govern not as a conqueror but as a servant of God and his people. He became widely known for his generosity to the poor, fairness in administering justice, and personal humility despite the dignity of his office. In 1045 AD, he married Edith of Wessex, daughter of the powerful Earl Godwin. According to long-standing tradition, the marriage remained celibate by mutual consent, earning Edward the title 'the Confessor' because he was not a martyr but was celebrated for the holiness of his life. He devoted considerable time to prayer, attended Mass faithfully, and generously supported monasteries and churches throughout England. His greatest architectural and spiritual achievement was the rebuilding of Westminster Abbey in the Romanesque style, making it one of the finest churches in medieval Europe and establishing it as a centre of English religious and royal life. Edward was also remembered for his compassion toward the sick and poor, and medieval tradition attributes numerous miracles of healing to him, both during his lifetime and after his death, including the famous miracle of curing a man suffering from scrofula by his royal touch.",
+        "Edward developed a reputation for personal piety and generosity toward the Church. His reign was shaped by the difficult task of balancing royal authority with the ambitions of powerful English nobles, particularly the family of Godwin, Earl of Wessex. On 23 January 1045 AD, Edward married Edith, Godwin's daughter. They had no children. Later accounts, written in the context of Edward's developing cult as a saint, presented the marriage as celibate by mutual consent; this is a traditional claim rather than a fact that can be established with certainty. Edward supported religious communities and churches, and his most enduring religious undertaking was the rebuilding of Westminster Abbey. The church was consecrated shortly before his death in December 1065 AD. Medieval accounts also associated Edward with miracles, including healing by royal touch, although such stories should be understood as part of the tradition surrounding his sanctity.",
 
       death:
-        "Toward the end of his reign, Edward's health gradually declined. On January 5, 1066 AD, only days after the dedication of the newly completed Westminster Abbey, he died peacefully at the royal palace in Westminster after entrusting his kingdom to God's care. He was buried in Westminster Abbey, where his magnificent shrine became one of medieval England's most important pilgrimage destinations. His death without a direct heir triggered the succession crisis that ultimately led to the Norman Conquest later that same year.",
+        "Edward died at Westminster on 5 January 1066 AD, probably during the night of 4–5 January 1066 AD. He was buried on 6 January 1066 AD, the Feast of the Epiphany, in the abbey he had rebuilt. As he left no children, his death created a succession crisis. Harold Godwinson was crowned king, but William, Duke of Normandy, also claimed the English throne. William's invasion culminated in the Norman victory at the Battle of Hastings in October 1066 AD, transforming the course of English history.",
 
       legacy:
-        "St. Edward the Confessor is remembered as one of England's greatest Christian kings and a model of holy leadership. His reign was characterized by peace, justice, generosity, and deep reverence for the Church. Westminster Abbey, founded through his vision and generosity, remains the traditional site of English and later British coronations and royal burials, preserving his legacy nearly a millennium later. Edward became one of the principal patron saints of England before the widespread devotion to St. George, and his example continues to inspire Christian rulers and public servants to exercise authority with humility, integrity, and compassion. His life demonstrates that political leadership can be a genuine path to holiness when exercised in faithful service to God and neighbor.",
+        "St. Edward the Confessor became one of medieval England's most venerated royal saints. His reputation for piety and his association with Westminster helped make the abbey a major centre of royal and religious life. Although the present abbey largely reflects later rebuilding, Edward's church established the site's lasting significance. His remains were transferred to a specially prepared shrine in 1163 AD, and the shrine was later incorporated into Henry III's rebuilding of the abbey. Edward's legacy combines the historical record of an eleventh-century king with the medieval traditions that celebrated him as a model of Christian kingship. His life and cult remain central to the history of Westminster Abbey and the religious culture of medieval England.",
 
       canonization:
-        "Edward the Confessor was canonized by Pope Alexander III in 1161 AD.",
+        "Edward was formally canonized by Pope Alexander III in 1161 AD. His reputation for holiness had developed before his official canonization, encouraged by accounts of his piety and miracles. His remains were translated to a shrine at Westminster Abbey on 13 October 1163 AD. He is known as 'the Confessor' because he was venerated as a saint who witnessed to the faith without dying as a martyr.",
     },
+    furtherReading: [
+      {
+        title: "Vita Ædwardi Regis",
+        author: "Unknown",
+      },
+      {
+        title: "Edward the Confessor: Last of the Royal Blood",
+        author: "Tom Licence",
+      },
+      {
+        title: "The Life of King Edward Who Rests at Westminster",
+        author: "Frank Barlow, editor and translator",
+      },
+    ],
+
+    categories: [SAINT_CATEGORIES.CONFESSOR],
   },
   {
     month: 1,
@@ -608,27 +626,44 @@ export const saints: Saint[] = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZfrg5coyXl_RS7rbPu2HI4VEddKAXZBNz8JgyYRy-4W8wS2LKpl2PCk&s=10",
     description:
-      "A Czech-American bishop and Redemptorist missionary renowned for his pastoral care of immigrants, devotion to the Eucharist, and pioneering leadership in Catholic education in the United States.",
+      "A Bohemian-born missionary, Redemptorist, and fourth Bishop of Philadelphia, St. John Neumann is remembered for his devoted service to immigrant communities, deep love of the Eucharist, and pioneering work in Catholic education in the United States.",
 
-    patronOf:
-      "Catholic education, immigrants, sick children, and the Diocese of Philadelphia",
+    patronOf: "Immigrants, sick children, eduactors & teachers",
 
     longDescription: {
       earlyLife:
-        "St. John Nepomucene Neumann was born on March 28, 1811 AD, in Prachatice, Bohemia, then part of the Austrian Empire (now in the Czech Republic). He was the third of six children born to Philip Neumann and Agnes Lebisch. From an early age, John displayed a deep love for learning, prayer, and the Catholic faith. After studying philosophy and theology in Budweis (České Budějovice), he completed all the requirements for priestly ordination. However, because his diocese had an unusually large number of clergy, ordinations were temporarily suspended, leaving him without a path to the priesthood. Rather than abandon his vocation, John responded to reports of the great missionary needs in the United States. He travelled alone across the Atlantic, arriving in New York in 1836 AD with little money, no acquaintances, and an unwavering trust in God's providence. Only weeks later, he was ordained a priest by Bishop John Dubois of New York.",
+        "St. John Nepomucene Neumann was born on March 28, 1811, in Prachatice, Bohemia, then part of the Austrian Empire and now in the Czech Republic. He was the third of six children born to Philip Neumann and Agnes Lebisch. From an early age, John showed a strong aptitude for learning and a serious commitment to his faith. He studied at the Piarist school in Budweis and continued his philosophical and theological education at the seminary in Budweis and the Archbishop's seminary in Prague. Although he completed the studies needed for ordination, the shortage of available positions for new priests in his home diocese prevented him from being ordained there. Determined to become a missionary, he left for the United States in 1836. He arrived in New York with very little money and no assured appointment, trusting that he would find a place to serve. On June 25, 1836, Bishop John Dubois ordained him a priest.",
 
       spiritualLife:
-        "Father Neumann was assigned to vast rural mission territories in western New York, where he travelled hundreds of miles on horseback and on foot to celebrate Mass, administer the sacraments, and visit isolated Catholic families. His extraordinary dedication earned him the affection of both immigrants and fellow clergy. In 1842 AD, seeking the support of religious community life while continuing his missionary work, he entered the Congregation of the Most Holy Redeemer (the Redemptorists), becoming the first Redemptorist to profess vows in the United States. He later served as superior of the American Redemptorists before Pope Pius IX appointed him the fourth Bishop of Philadelphia in 1852 AD. As bishop, John tirelessly expanded the Church's educational and pastoral ministries, establishing nearly one hundred Catholic schools and creating what is widely regarded as the first organized diocesan Catholic school system in the United States. He founded numerous parishes to serve rapidly growing immigrant communities and was fluent in at least six languages, allowing him to minister personally to Catholics from many different cultures. Deeply devoted to the Holy Eucharist, he promoted the Forty Hours Devotion throughout his diocese, encouraging prolonged Eucharistic adoration and a deeper love for Christ present in the Blessed Sacrament. Despite his many responsibilities, he remained humble, approachable, and personally committed to serving the poor, the sick, and the marginalized.",
+        "Neumann began his priestly ministry among Catholic communities in western New York, where immigrant families were often scattered across wide rural territories. He traveled considerable distances on foot, horseback, and by wagon to celebrate Mass, teach the faith, hear confessions, and care for the sick. German-speaking immigrants were among those who especially needed priests who could minister in their language, and Neumann became known for his missionary dedication and gift for languages. In 1840, he joined the Congregation of the Most Holy Redeemer, commonly known as the Redemptorists, and in 1842 he professed his religious vows, becoming the first Redemptorist to do so in the United States. He later served as superior of the American Redemptorists. In 1852, Pope Pius IX appointed him the fourth Bishop of Philadelphia. As bishop, Neumann visited parishes, built churches, supported religious communities, and worked to provide pastoral care for the diocese's growing immigrant population. Deeply devoted to the Eucharist, he promoted the Forty Hours Devotion, encouraging prayer before the Blessed Sacrament. He also helped organize a diocesan Catholic school system and greatly expanded educational opportunities for Catholic children.",
 
       death:
-        "Years of constant travel, pastoral work, and selfless service took a toll on John's health. On January 5, 1860 AD, while walking through the streets of Philadelphia on his way to attend to diocesan business, he suddenly collapsed and died from a stroke at the age of forty-eight. His unexpected death deeply grieved the people of Philadelphia, who had come to love him as a compassionate and tireless shepherd. He was buried beneath the altar of St. Peter the Apostle Church in Philadelphia, where countless pilgrims continue to visit his shrine and seek his intercession.",
+        "On January 5, 1860, Neumann suddenly suffered a stroke while walking on a street in Philadelphia. He was forty-eight years old. His unexpected death shocked the people of the diocese, who had come to respect him for his humility, tireless work, and personal concern for the poor and sick. He was buried beneath the main altar of St. Peter the Apostle Church in Philadelphia. The church later became the National Shrine of St. John Neumann, where his tomb continues to draw pilgrims who pray for his intercession.",
 
       legacy:
-        "St. John Neumann is remembered as one of the great missionary bishops of the United States. His leadership transformed the Diocese of Philadelphia and helped establish Catholic education as a cornerstone of the Church's mission in America. His concern for immigrants ensured that thousands of newly arrived Catholics found both spiritual and practical support as they built new lives. Through his promotion of Eucharistic devotion, his pastoral zeal, and his unwavering humility, he demonstrated that effective leadership is rooted in holiness and service. As the first male bishop from the United States to be canonized, he remains an enduring model for bishops, educators, missionaries, and all who seek to bring Christ to others through faithful and compassionate ministry.",
+        "St. John Neumann is remembered as one of the most influential missionary bishops in the early Catholic Church in the United States. His pastoral ministry helped immigrant Catholics find spiritual support and a sense of belonging as they built new lives in America. He is especially celebrated for his contribution to Catholic education: he organized a diocesan school system and greatly expanded the network of parish schools during his episcopate. His promotion of the Forty Hours Devotion also left a lasting mark on Eucharistic spirituality in the United States. Neumann's life is an example of leadership expressed through service, simplicity, prayer, and practical concern for others. He was the first bishop of the United States to be canonized, and he remains an important model for educators, missionaries, clergy, and those who serve immigrant communities.",
 
       canonization:
-        "John Neumann was beatified by Pope Paul VI in 1963 AD and canonized by Pope Paul VI on June 19, 1977 AD.",
+        "John Neumann was beatified by Pope Paul VI on October 13, 1963, during the Second Vatican Council. Pope Paul VI canonized him on June 19, 1977, recognizing his holiness and enduring witness of pastoral charity. His feast day is celebrated on January 5, the anniversary of his death. His tomb at the National Shrine of St. John Neumann in Philadelphia remains an important destination for pilgrims.",
     },
+    furtherReading: [
+      {
+        title:
+          "Mary in the New Testament: A Collaborative Assessment by Protestant and Roman Catholic Scholars",
+        author: "Joseph A. Fitzmyer, John Neumann, Raymond E. Brown",
+      },
+      {
+        title:
+          "The Autobiography of St. John Neumann, C.SS.R. Fourth Bishop of Philadelphia",
+        author: "St. John Neumann",
+      },
+      {
+        title: "Canonization of John Nepomucene Neumann",
+        author: "Homily of Pope Paul VI - 19th June 1977",
+      },
+    ],
+
+    categories: [SAINT_CATEGORIES.CONFESSOR],
   },
   {
     month: 1,
@@ -14648,29 +14683,72 @@ export const saints: Saint[] = [
     day: 17,
     name: "St. Ignatius of Antioch",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ignatius_of_Antioch_2.jpg?utm_source=simple.wikipedia.org&utm_campaign=index&utm_content=original",
+      "https://cellar-c2.services.clever-cloud.com/s3.notredamedeparis.fr/uploads/2025/05/002-Saint-Ignace-d_Antioche-pour-Antioche-%C2%A9-OEuvre-dOrient-scaled.jpg",
     description:
-      "An early Christian bishop and martyr whose letters provide some of the earliest testimony to the Church's understanding of the Eucharist, the episcopacy, and Christian unity.",
+      "An early Christian bishop and martyr, whose letters are among the most important surviving witnesses to early Christian belief in the Eucharist, the authority of bishops, and the unity of the Church.",
 
     patronOf:
-      "The Church in Antioch, those facing persecution, and people seeking strength in faith",
+      "North Africa, the Church in the Eastern Mediterranean & throat diseases",
 
     longDescription: {
       earlyLife:
-        "Very little is known about the early life of Ignatius. He was the second or third Bishop of Antioch in Syria, one of the most important centres of early Christianity. Later Christian tradition sometimes identifies him as the child whom Jesus placed among His disciples in the Gospel of Matthew, although there is no reliable historical evidence for this. Ignatius became a prominent leader of the Christian community at Antioch during the late 1st and early 2nd centuries.",
+        "St. Ignatius, who called himself Theophorus, meaning “God-bearer”, was a leading bishop of the Christian community in Antioch, in the Roman province of Syria. Very little is known with certainty about his birth, family, or early life. Later Christian traditions connected him with the Apostles and sometimes identified him with the child whom Jesus placed among His disciples, but these stories cannot be verified historically. The most reliable evidence for Ignatius's life comes from his own letters, written while he was being taken under guard from Syria to Rome to face execution. These writings reveal a Christian leader deeply concerned with the faith and unity of the communities entrusted to his care.",
 
       spiritualLife:
-        "Ignatius was deeply committed to the unity of the Church and to faithfulness to Christ. During his journey to Rome under imperial guard, he wrote seven letters to Christian communities in Asia Minor and to the Christians of Rome. These letters are among the most important surviving writings from the generation immediately following the Apostles. Ignatius strongly defended the authority of the bishop, together with the priests and deacons, and repeatedly urged Christians to remain united with their bishop and with one another. He also gave some of the earliest explicit Christian testimony concerning the Eucharist, describing it as the flesh of Jesus Christ. Ignatius eagerly anticipated martyrdom, regarding it as the completion of his imitation of Christ and asking the Christians of Rome not to attempt to prevent his execution.",
+        "Ignatius's seven surviving letters are among the most important Christian writings from the generation after the Apostles; written during his journey to Rome, they address communities in Ephesus, Magnesia, Tralles, Rome, Philadelphia, and Smyrna, as well as Polycarp and the bishop of Smyrna. Ignatius repeatedly urged Christians to remain united with their bishop, presbyters, and deacons, seeing this unity as an expression of their unity with Christ. His letters also offer early and explicit testimony to the Eucharist. In his Letter to the Smyrnaeans, he refers to the Eucharist as “the flesh of our Saviour Jesus Christ,” emphasizing the reality of Christ's incarnation against those who denied that Jesus truly suffered in the flesh. Ignatius was also deeply conscious of his approaching martyrdom. In his Letter to the Romans, he asked the Christians there not to intervene to save him, expressing his desire to remain faithful to Christ even unto death.",
 
       death:
-        "Ignatius was arrested in Antioch and transported to Rome under military guard, probably during the reign of Emperor Trajan. Along the journey, Christian communities came to meet him and receive his teaching. Ignatius was martyred in Rome, traditionally around 107 or 108 AD, by being thrown to wild beasts in the Colosseum. His relics were later returned to Antioch and eventually transferred to Rome.",
+        "Ignatius was taken from Antioch to Rome under military guard, probably during the reign of Emperor Trajan, who ruled from 98 AD to 117 AD. His own letters describe the hardship of the journey and the soldiers who guarded him. Christian communities along the route welcomed him and received his encouragement. The traditional account holds that he was executed in Rome by being exposed to wild beasts, although the precise circumstances and date of his death cannot be established with certainty. His martyrdom is commonly placed in the early second century AD, often around 107 AD to 110 AD. Later Christian tradition associated his relics with both Antioch and Rome.",
 
       legacy:
-        "St. Ignatius is one of the most important witnesses to the faith and structure of the early Church. His letters provide valuable evidence for the development of the threefold ministry of bishops, priests, and deacons and for the central importance of the Eucharist in Christian worship. He was also one of the earliest Christian writers to use the expression 'Catholic Church' explicitly. His passionate desire to imitate Christ and give his life for the Gospel has made him one of the great martyr saints of the early Church.",
+        "St. Ignatius is remembered as one of the Apostolic Fathers, the early Christian writers whose lives and works connect the Church's earliest generations with the later development of Christian theology. His letters provide valuable evidence for the early prominence of the bishop, alongside presbyters and deacons, and for the importance of the Eucharist in Christian worship. In his Letter to the Smyrnaeans, he gives the earliest surviving clear use of the expression “Catholic Church” in Christian literature: “Wherever the bishop appears, there let the people be; just as wherever Jesus Christ is, there is the Catholic Church.” His writings remain influential in Catholic, Orthodox, and other Christian traditions. His courage in the face of execution has made him an enduring example of fidelity, ecclesial unity, and willingness to suffer for the Gospel.",
 
       canonization:
-        "Ignatius was recognized as a saint through the ancient tradition of the Church as a bishop and martyr.",
+        "St. Ignatius was venerated as a saint and martyr in the ancient Church, long before the development of the formal canonization processes used today. His sainthood rests on the early Christian tradition of his martyrdom and the enduring veneration of his memory.",
     },
+
+    quotes: [
+      {
+        title:
+          "Wherever the bishop appears, there let the people be; just as wherever Jesus Christ is, there is the Catholic Church.",
+        source: "Letter to the Smyrnaeans, 8.2",
+      },
+      {
+        title:
+          "They abstain from the Eucharist and from prayer, because they do not confess that the Eucharist is the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again.",
+        source: "Letter to the Smyrnaeans, 7.1",
+      },
+      {
+        title:
+          "I am God's wheat, and I am ground by the teeth of wild beasts, that I may be found the pure bread of Christ.",
+        source: "Letter to the Romans, 4.1",
+      },
+      {
+        title:
+          "It is better for me to die for Jesus Christ than to reign over the ends of the earth.",
+        source: "Letter to the Romans, 6.1",
+      },
+      {
+        title: "Permit me to be an imitator of the passion of my God.",
+        source: "Letter to the Romans, 6.3",
+      },
+    ],
+    furtherReading: [
+      {
+        title: "The Letters of St. Ignatius of Antioch",
+        author: "St. Ignatius of Antioch",
+      },
+      {
+        title: "The Apostolic Fathers: Greek Texts and English Translations",
+        author: "Michael W. Holmes, editor and translator",
+      },
+      {
+        title:
+          "Learning Christ: Ignatius of Antioch and the Mystery of Redemption",
+        author: "Gregory Vall",
+      },
+    ],
+    categories: [SAINT_CATEGORIES.MARTYR],
   },
   {
     month: 10,
