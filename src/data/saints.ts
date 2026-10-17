@@ -14759,8 +14759,6 @@ export const saints: Saint[] = [
     description:
       "An Italian Piarist priest and educator who devoted his life to the education of poor children and the spiritual renewal of society through Catholic education.",
 
-    patronOf: "Teachers, educators, students, and the poor",
-
     longDescription: {
       earlyLife:
         "Peter Casani was born in 1572 AD in Lucca, Italy. He came from a noble family and received a good education before becoming a priest. He initially served as a diocesan priest before encountering the educational work of St. Joseph Calasanz, who had established free schools in Rome for children from poor families.",
@@ -14785,27 +14783,61 @@ export const saints: Saint[] = [
     image:
       "https://www.nationalshrine.org/wp-content/uploads/St-Luke-Icon-in-Byzantine-Ruthenian-Chapel-banner.jpg",
     description:
-      "A physician, companion of St. Paul, and author of the Gospel according to Luke and the Acts of the Apostles, whose writings reveal God's mercy and the universal mission of salvation in Christ.",
-
+      "A physician, companion of St. Paul, and traditionally recognized author of the Gospel according to Luke and the Acts of the Apostles; whose writings proclaim God's mercy and the universal mission of salvation in Christ.",
     patronOf:
-      "Physicians, surgeons, artists, painters, evangelists, and writers",
-
+      "Physicians, surgeons, artists, bachelors, notaries, butchers, brewers & glass workers",
     longDescription: {
       earlyLife:
-        "Luke was a Gentile Christian from the ancient world and is traditionally believed to have come from Antioch in Syria. St. Paul refers to him as a physician in his Letter to the Colossians. Unlike Matthew, Mark, and John, Luke was not one of the Twelve Apostles. He became a close companion of St. Paul and joined him during his missionary journeys. Several passages in the Acts of the Apostles are written in the first-person plural, suggesting that Luke personally accompanied Paul on portions of his travels.",
+        "Little is known with certainty about St. Luke's early life. Christian tradition identifies him as a Gentile Christian, a physician, and a companion of St. Paul. In Colossians 4:14, Paul refers to Luke as the beloved physician, while Philemon 24 names him among Paul's fellow workers.",
 
       spiritualLife:
-        "Luke dedicated himself to the proclamation of the Gospel and became one of the earliest Christian historians. He wrote the Gospel according to Luke and the Acts of the Apostles, together forming one of the largest portions of the New Testament. His Gospel gives particular attention to God's mercy, the poor, sinners, women, foreigners, and those who were often marginalized. Luke alone records several beloved passages, including the Parable of the Good Samaritan, the Prodigal Son, and the story of the repentant thief. He also provides a detailed account of the Annunciation, the Visitation, the birth of Christ, and several events in the life of the Blessed Virgin Mary. In Acts, Luke records the growth of the early Church from Jerusalem outward through the missionary work of the Apostles, especially St. Paul. His writings emphasize that salvation in Christ is offered to all peoples and that the Holy Spirit guides the Church in its mission.",
+        "Luke is traditionally credited with writing the Gospel according to Luke and the Acts of the Apostles, two closely connected works that together form a substantial portion of the New Testament. His Gospel gives particular attention to God's mercy, the poor, sinners, women, foreigners, and people living on the margins of society. It includes beloved passages such as the Parable of the Good Samaritan, the Parable of the Prodigal Son and the account of the repentant thief crucified beside Jesus. Luke also preserves the Magnificat, the canticle of Mary, and detailed narratives of the Annunciation and the Visitation. In Acts, the author recounts the growth of the early Church from Jerusalem outward, emphasizing the work of the Holy Spirit and the missionary journeys of St. Paul. Luke's writings proclaim that God's saving grace is offered to all peoples and invite readers to respond with faith, compassion, prayer, and practical charity.",
 
       death:
-        "The circumstances of Luke's death are uncertain. Ancient Christian traditions differ concerning the place and manner of his death. Some traditions state that he died peacefully at an advanced age in Boeotia, Greece, while others associate him with martyrdom. The earliest reliable sources do not establish the precise circumstances. His relics were later transferred to Constantinople and eventually to Padua, Italy, where they continue to be venerated.",
+        "The circumstances of St. Luke's death are uncertain. Ancient Christian traditions commonly place his final years and death in Boeotia, Greece, with some accounts locating his burial in Thebes. Traditions differ about his age at death and whether he died peacefully or as a martyr; the available evidence does not establish the precise circumstances. According to a longstanding tradition, his relics were later transferred to Constantinople and eventually to Padua, Italy, where relics attributed to him are venerated in the Basilica of Saint Justina. The history and identification of these relics have been subjects of historical investigation.",
 
       legacy:
-        "St. Luke's writings have had an enormous influence on Christianity. His Gospel is especially treasured for its presentation of God's mercy and compassion and for its detailed account of the life of Jesus. Acts provides one of the principal historical sources for the earliest decades of Christianity and the missionary journeys of St. Paul. Luke's traditional association with medicine also made him an enduring patron of physicians and healthcare workers. Christian artistic tradition additionally regards him as the first iconographer because of the ancient tradition that he painted an image of the Virgin Mary, although this claim cannot be historically established.",
+        "St. Luke's enduring legacy rests especially on the Gospel and Acts traditionally attributed to him. His Gospel has shaped Christian understanding of divine mercy, forgiveness, prayer, care for the poor and the inclusion of people from every background in God's plan of salvation. Acts remains a major source for the history and mission of the early Church and the ministry of St. Paul. Luke's traditional identity as a physician has made him a patron of physicians and other healthcare workers. He is also associated with artists and painters because of a later Christian tradition that he painted an image of the Blessed Virgin Mary. Although this claim cannot be historically verified, it became influential in Christian devotional and artistic traditions.",
 
       canonization:
-        "Luke was recognized as a saint through the ancient tradition of the Church as an Evangelist, companion of St. Paul, and author of the Gospel according to Luke and the Acts of the Apostles.",
+        "St. Luke has been venerated as a saint in the ancient Christian tradition because of his association with the Apostolic Church and his traditional role as Evangelist and companion of St. Paul. His recognition as a saint predates the formal canonization procedures that developed later in Church history.",
     },
+    quotes: [
+      {
+        title:
+          "Since many have undertaken to set down an orderly account of the events that have been fulfilled among us, just as they were handed on to us by those who from the beginning were eyewitnesses and servants of the word, I too decided, after investigating everything carefully from the very first, to write an orderly account for you, most excellent Theophilus.",
+        source: "Gospel according to Luke, 1:1–3",
+      },
+      {
+        title:
+          "In the first book, Theophilus, I wrote about all that Jesus did and taught from the beginning until the day when he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles whom he had chosen.",
+        source: "Acts of the Apostles, 1:1–2",
+      },
+    ],
+    furtherReading: [
+      {
+        title: "The Gospel According to Luke",
+        author: "Traditionally attributed to St. Luke",
+      },
+      {
+        title: "The Acts of the Apostles",
+        author: "Traditionally attributed to St. Luke",
+      },
+      {
+        title: "The Acts of the Apostles: A Socio-Rhetorical Commentary",
+        author: "Ben Witherington III",
+      },
+      {
+        title:
+          "The Beloved Physician, or the Life and Travels of Luke the Evangelist",
+        author: "Daniel Parish Kidder, William Alcott",
+      },
+      {
+        title: "St. Luke the Evangelist: An Illustrated Biography",
+        author: "Kevin McCarthy",
+      },
+    ],
+    categories: [SAINT_CATEGORIES.APOSTLE, SAINT_CATEGORIES.EVANGELIST],
   },
   {
     month: 10,
@@ -14953,31 +14985,98 @@ export const saints: Saint[] = [
   {
     month: 10,
     day: 22,
-    name: "St. John Paul II, Pope",
+    name: "St. Pope John Paul II",
     image:
-      "https://angelusnews.com/wp-content/uploads/2019/09/525d2acjrk_Pope_John_Paul_II_in_St_Peters_Square_circa_1978_Credit___LOsservatore_Romano_CNA_6_16_15.jpeg",
+      "https://ewtnvatican.com/wp-content/uploads/2025/02/SanJuanPabloII-VaticanMedia-15052022.webp",
     description:
-      "A Polish pope who became one of the most influential Catholic leaders of the modern era, known for his defence of human dignity, missionary zeal, devotion to Christ and the Blessed Virgin Mary, and his role in the fall of communism in Eastern Europe.",
+      "A Polish pope who became one of the most influential Catholic leaders of the modern era. He is remembered for his defence of human dignity, missionary zeal, devotion to Christ and the Blessed Virgin Mary and his support for religious freedom. Also for the Polish movement that helped challenge communist rule in Eastern Europe.",
 
     patronOf:
-      "World Youth Day, families, young people, Poland, and those seeking to defend human dignity",
+      "World Youth Day, young Catholics, families, Poland & the Archdiocese of Kraków",
 
     longDescription: {
       earlyLife:
-        "Karol Józef Wojtyła was born on May 18, 1920 AD, in Wadowice, Poland. He was the second child of Karol Wojtyła and Emilia Kaczorowska. His mother died when he was nine, followed by the death of his older brother Edmund a few years later. During the Second World War, Wojtyła worked in a quarry and chemical factory while secretly studying for the priesthood under the direction of the underground seminary in Kraków. He was ordained a priest in 1946 AD and later studied theology in Rome, earning a doctorate on the subject of faith in the writings of St. John of the Cross.",
+        "Karol Józef Wojtyła was born on May 18 1920 AD, in Wadowice, Poland. He was the second child of Karol Wojtyła and Emilia Kaczorowska. His mother died when he was nine, followed by the death of his older brother Edmund a few years later. During the Second World War, Wojtyła worked in a quarry and chemical factory while secretly studying for the priesthood under the direction of the underground seminary in Kraków. He was ordained a priest in 1946 AD and later studied theology in Rome, earning a doctorate on the subject of faith in the writings of St. John of the Cross.",
 
       spiritualLife:
-        "Wojtyła became a bishop in 1958 AD and participated actively in the Second Vatican Council. He was appointed Archbishop of Kraków in 1964 AD and became a cardinal in 1967 AD. His ministry was marked by a deep commitment to Christ, the Eucharist, the Blessed Virgin Mary, and the dignity of every human person. On October 16, 1978 AD, he was elected Pope and took the name John Paul II. He was the first non-Italian pope in more than four centuries. His pontificate was characterized by extensive missionary travel, evangelization, and a strong defence of human life and freedom. He established World Youth Day, wrote numerous encyclicals and apostolic writings, and promoted the Church's teaching on marriage, family, human dignity, and the sanctity of life. He also played an important role in challenging communist regimes in Eastern Europe, particularly through his support for the Polish people and the Solidarity movement. In 1981 AD, he survived an assassination attempt in St. Peter's Square and later publicly forgave his attacker. John Paul II also emphasized the universal call to holiness and encouraged Catholics to rediscover the saints, Scripture, prayer, and the sacraments.",
+        "Wojtyła became a bishop in 1958 AD and participated actively in the Second Vatican Council. He was appointed Archbishop of Kraków in 1964 AD and became a cardinal in 1967 AD. His ministry was marked by a deep commitment to Christ, the Eucharist, the Blessed Virgin Mary, and the dignity of every human person. On October 16 1978 AD, he was elected Pope and took the name John Paul II. He was the first non-Italian pope in more than four centuries. His pontificate was characterized by extensive missionary travel, evangelization, and a strong defence of human life and freedom. He established World Youth Day, wrote numerous encyclicals and apostolic writings and promoted the Church's teaching on marriage, family, human dignity and the sanctity of life. He also played an important role in challenging communist regimes in Eastern Europe, particularly through his support for the Polish people and the Solidarity movement. In 1981 AD, he survived an assassination attempt in St. Peter's Square and later publicly forgave his attacker. John Paul II also emphasized the universal call to holiness and encouraged Catholics to rediscover the saints, Scripture, prayer, and the sacraments.",
 
       death:
-        "John Paul II died on April 2, 2005 AD, in the Apostolic Palace in Vatican City, after a prolonged decline in health. His death prompted an extraordinary outpouring of mourning around the world, with millions travelling to Rome to pay their respects. He was buried in the Vatican Grottoes beneath St. Peter's Basilica, and his tomb quickly became a place of pilgrimage.",
+        "John Paul II died on April 2 2005 AD, in the Apostolic Palace in Vatican City, after a prolonged decline in health. His death prompted an extraordinary outpouring of mourning around the world, with millions travelling to Rome to pay their respects. He was buried in the Vatican Grottoes beneath St. Peter's Basilica, and his tomb quickly became a place of pilgrimage.",
 
       legacy:
         "St. John Paul II was one of the longest-serving popes in Church history and one of the most influential religious figures of the late 20th century. His writings and teachings had a major impact on Catholic theology and pastoral life, particularly through his theology of the body and his defence of human dignity. His travels brought the papacy into direct contact with Catholics across the world, while his encouragement of young people helped give World Youth Day an enduring place in Catholic life. His role in opposing communism and supporting religious freedom made him a major figure in the political and spiritual history of Europe. He repeatedly called humanity to 'open the doors to Christ' and placed the universal call to holiness at the heart of his pontificate.",
 
       canonization:
-        "John Paul II was beatified by Pope Benedict XVI on May 1, 2011 AD, and canonized by Pope Francis on April 27, 2014 AD, alongside Pope St. John XXIII.",
+        "John Paul II was beatified by Pope Benedict XVI on May 1 2011 AD and canonized by Pope Francis on April 27 2014 AD, alongside Pope St. John XXIII.",
     },
+
+    quotes: [
+      {
+        title: "Do not be afraid. Open wide the doors for Christ.",
+        source:
+          "Homily at the Inauguration of His Pontificate, October 22, 1978 AD",
+      },
+      {
+        title: "Man cannot live without love.",
+        source: "Encyclical Letter Redemptor Hominis",
+      },
+      {
+        title:
+          "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth.",
+        source: "Encyclical Letter Fides et Ratio, Proemium",
+      },
+      {
+        title:
+          "The Church lives an authentic life when she professes and proclaims mercy.",
+        source: "Encyclical Letter Dives in Misericordia",
+      },
+      {
+        title:
+          "Man is called to a fullness of life which far exceeds the dimensions of his earthly existence.",
+        source: "Encyclical Letter Evangelium Vitae",
+      },
+      {
+        title: "Man is the primary and fundamental way for the Church.",
+        source: "Encyclical Letter Redemptor Hominis",
+      },
+    ],
+
+    furtherReading: [
+      {
+        title: "Redemptor Hominis",
+        author: "Pope John Paul II",
+      },
+      {
+        title: "Crossing the Threshold of Hope",
+        author: "Pope John Paul II",
+      },
+      {
+        title: "Fides et Ratio",
+        author: "Pope John Paul II",
+      },
+      {
+        title: "Evangelium Vitae",
+        author: "Pope John Paul II",
+      },
+      {
+        title: "The Theology of the Body: Human Love in the Divine Plan",
+        author: "Pope John Paul II",
+      },
+      {
+        title: "Love and Responsibility",
+        author: "Karol Wojtyła",
+      },
+      {
+        title: "Witness to Hope: The Biography of Pope John Paul II",
+        author: "George Weigel",
+      },
+      {
+        title:
+          "The End and the Beginning: Pope John Paul II—The Victory of Freedom, the Last Years, the Legacy",
+        author: "George Weigel",
+      },
+    ],
   },
   {
     month: 10,
