@@ -15794,30 +15794,79 @@ export const saints: Saint[] = [
   {
     month: 11,
     day: 10,
-    name: "St. Leo the Great, Pope",
+    name: "St. Pope Leo the Great",
     image:
-      "https://stleoset.archtoronto.org/siteassets/media/images/interior/art/st_leo.jpg",
+      "https://s3.us-east-1.amazonaws.com/website-anf/header/_1600x900_crop_center-center_100_none/1600x900_Pope_St_Leo.jpg",
     description:
-      "A renowned pope and Doctor of the Church who defended the orthodox faith, strengthened the authority of the papacy, and helped preserve Rome during the invasions of the fifth century.",
+      "A renowned 5th-century pope and Doctor of the Church; Pope Leo defended orthodox doctrine (notably at Chalcedon), strengthened the authority of the Roman see, and successfully interceded to protect Rome during barbarian invasions.",
 
-    patronOf: "Popes, theologians, and those who defend the Christian faith",
+    patronOf:
+      "Confessors, Popes, moral theology, vocations, doctrinal teaching, pastoral leadership & public administration",
 
     longDescription: {
       earlyLife:
-        "Leo was born around 400 AD, probably in Rome or the surrounding region. He became a prominent member of the Roman clergy and was already serving as a deacon under Pope Celestine I and Pope Sixtus III. Leo gained a reputation for his wisdom, theological understanding, and skill in resolving disputes within the Church.",
+        "Leo was born about 400 AD, likely in the region of Tuscany.  Son of a Roman named Quintianus, he rose through the Roman clergy and was a deacon by about 431 AD.  The Liber Pontificalis notes his reputation for wisdom even before he was bishop.  He helped mediate church disputes under Popes Celestine I and Sixtus III (reigning 422–440 AD).  His skill and learning earned him the trust of the imperial court – for example, Emperor Valentinian III sent Deacon Leo on a diplomatic mission to Gaul in 440 AD, demonstrating confidence in his abilities.",
 
       spiritualLife:
-        "Leo was elected Pope in 440 AD and devoted himself to strengthening the unity and spiritual life of the Church. He preached extensively to the people of Rome and wrote numerous letters defending Catholic teaching, particularly concerning the true nature of Christ. His famous Tome of Leo was instrumental in clarifying the Church's teaching on Christ's full divinity and full humanity at the Council of Chalcedon in 451 AD. Leo also worked tirelessly to maintain ecclesiastical discipline and protect the unity of the Church.",
+        "Leo was elected Bishop of Rome on 29 September 440 AD.  He immediately set about strengthening church unity and clarifying doctrine.  His surviving corpus includes nearly 100 sermons and 150 letters.  Most famously, at the Council of Chalcedon (451 AD) he sent his “Tome”, a letter to Flavian of Constantinople, which became a dogmatic standard.  The Council Fathers acclaimed it as definitive on Christ’s two natures (divine and human) and exclaimed, “Peter has spoken through Leo!”.  Throughout his pontificate Leo combated heresies (such as Eutychianism) and insisted on Christ’s true humanity and divinity. He was also a devoted pastor – preaching regularly in Rome, caring for the poor during famine, and writing on the need for charity and humility.  He promoted ecclesiastical discipline across the Western Church and guided bishops on canonical matters.  Even secular threats fell under his concern: Leo led delegations to negotiate with Attila the Hun (452 AD) and Genseric the Vandal (455 AD), helping spare Rome from destruction.",
 
       death:
-        "Leo died on November 10, 461 AD, in Rome after more than twenty years as Pope. He was buried in St. Peter's Basilica, becoming the first pope to be buried within the basilica. His tomb became an important place of Christian devotion and remembrance.",
+        "Pope Leo I died on 10 November 461 AD in Rome.  According to tradition he fell ill after the dedication of the newly rebuilt St. Peter’s Basilica and received the last rites.  He was buried within Old St. Peter’s – the first pope so honored.  His tomb became a noted site of veneration.  His feast day is observed on 10 November (the anniversary of his death) in the Catholic Church.",
 
       legacy:
-        "St. Leo the Great is regarded as one of the most important popes of late antiquity. He was a powerful preacher, theologian, and defender of the Catholic faith. He is also remembered for meeting Attila the Hun in 452 AD and persuading him to withdraw from Italy. His writings profoundly influenced Christian theology, particularly the Church's understanding of the person of Christ and the authority of the Roman See.",
+        "Leo I is remembered as one of the great defining popes of the early Church.  His sermons and letters deeply influenced Western Christology and the concept of papal authority.  He is celebrated for defending the faith, exemplifying “the unity of the Church” and for his model pastoral charity.  Pope Benedict XVI remarked that Leo’s papacy was “undoubtedly one of the most important in the Church’s history”. His “Tome” at Chalcedon and other writings remain influential.",
 
       canonization:
-        "Leo was recognized as a saint through the ancient tradition of the Church and was declared a Doctor of the Church by Pope Benedict XIV in 1754.",
+        "Leo was recognized as a saint by the early Church through popular devotion and liturgical remembrance.  No formal canonization process was needed, as his holy life and leadership were esteemed from antiquity.  He was later honored with the title Doctor of the Church (Doctor unitatis Ecclesiæ) for his doctrinal contributions, by Pope Benedict XIV in 1754.",
     },
+
+    quotes: [
+      {
+        title:
+          "Christian, recognize your dignity and, now that you share in God’s own nature, do not return by sin to your former base condition. Remember who is your head and of whose body you are a member.",
+        source: "Sermon 21 (On the Nativity of the Lord)",
+      },
+      {
+        title: "The birthday of the Lord is the birthday of peace.",
+        source: " Sermon 26 (On the Nativity of the Lord)",
+      },
+      {
+        title:
+          "Virtue is nothing without the trial of temptation, for there is no conflict without an enemy, no victory without strife.",
+        source: "Sermon 39 (On Lent)",
+      },
+      {
+        title:
+          "No one, however weak, is denied a share in the victory of the cross. No one is beyond the help of the prayer of Christ.",
+        source: "Sermon 54 (On the Passion of the Lord)",
+      },
+      {
+        title:
+          "“Our sharing in the Body and Blood of Christ has no other purpose than to transform us into that which we receive.",
+        source: "Sermon 63 (On the Passion of the Lord)",
+      },
+    ],
+
+    furtherReading: [
+      {
+        title: "Letters of St. Leo the Great",
+        author: "Pope Leo the Great",
+      },
+      {
+        title: "Sermons of St. Leo the Great",
+        author: "Pope Leo the Great",
+      },
+      {
+        title: "Life of St. Leo the Great (De Vita Leonis Papae)",
+        author: "Venerable Bede",
+      },
+      {
+        title: "Life of St. Leo the Great",
+        author: "Benedict of Bari (Deacon of Santa Maria)",
+      },
+    ],
+
+    categories: [SAINT_CATEGORIES.POPE, SAINT_CATEGORIES.DOCTOROFTHECHURCH],
   },
   {
     month: 11,
