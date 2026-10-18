@@ -15398,7 +15398,7 @@ export const saints: Saint[] = [
     day: 30,
     name: "St. Germanus of Capua",
     image:
-      "https://www.vaticanstate.va/images/santi_beati/San-germano-capua.jpg",
+      "https://www.mountcarmelblessedsacrament.com/wp-content/uploads/2020/10/Saint-Germanus.jpg",
     description:
       "A 6th-century Bishop of Capua remembered for his holiness, charity, and friendship with St. Benedict, as well as for his important role in the Christian life of Italy.",
 
