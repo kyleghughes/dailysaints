@@ -1,31 +1,11 @@
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
-
 import CoffeeIcon from "@mui/icons-material/Coffee";
-import GitHubIcon from "@mui/icons-material/GitHub";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-
-import DiscordIcon from "./DiscordIcon";
 
 const Footer = () => {
   // #region constants
   const links = [
-    {
-      name: "LinkedIn",
-      icon: <LinkedInIcon />,
-      url: "https://www.linkedin.com/in/kyleghughes/",
-    },
-    {
-      name: "Github",
-      icon: <GitHubIcon />,
-      url: "https://github.com/kyleghughes",
-    },
-    {
-      name: "Discord",
-      icon: <DiscordIcon />,
-      url: "https://discord.gg/vf9ywuj2uK",
-    },
     {
       name: "Donate",
       icon: <CoffeeIcon />,
